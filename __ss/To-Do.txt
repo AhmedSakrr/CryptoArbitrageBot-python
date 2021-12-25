@@ -1,0 +1,22 @@
+Notes:
+
+Fees are percentage, divide by 100 when calculating.
+
+Fees are not always necessairly buy / sell when shorting, maker and taker applies.
+
+Can we short on all exchanges? Need to try placing test shorts / how are fees applied? Daily Interest?
+
+Future:
+
+
+Get the xBTCe private client to work (this is a beach)
+Create limit buy / limit sell trade functions for each exchange and test
+Poll the orderbooks to determine liquidity
+Determine arbitrage algorithms
+Automatically balance accounts with deposit / withdraw API ??
+Back Test arbitrage algorithms with past data, download historic data.
+Run a demo version with fake balances
+Test web server environment eg amazon EC2
+Test with small amounts
+Test with large amounts
+Move to Bahamas

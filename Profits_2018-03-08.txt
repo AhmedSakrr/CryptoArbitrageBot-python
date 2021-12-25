@@ -1,0 +1,9 @@
+
+
+BTC / EUR
+Long: Bitfinex / Short: Kraken 
+Profit: 0.15 EUR
+Return: 0.05 %
+Start Time: 1520459362.3
+End Time: 1520531800.17
+Elapsed Time: 72437.8739998

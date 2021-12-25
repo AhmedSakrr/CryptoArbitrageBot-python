@@ -1,0 +1,311 @@
+
+Failed to Basic Info for Kraken on Attempt: 1
+Kraken / theRock  0.63 %
+Bitstamp / Kraken  -0.61 %
+Bitstamp / theRock  0.58 %
+Gdax / Kraken  -1.08 %
+Gdax / theRock  0.11 %
+Bl3p / Kraken  -0.86 %
+Bl3p / theRock  0.33 %
+theRock / Kraken  -1.92 %
+Gatecoin / Kraken  -5.96 %
+Gatecoin / theRock  -4.83 %
+
+---Entry Found---
+Kraken / theRock 0.63%
+Prices 3470.097EUR / 3507.9EUR
+Balances 1000EUR / 1000EUR
+
+Attempting Trade...
+
+Failed to get Orderbook for Kraken on Attempt: 1
+
+---Entry Found---
+Bitstamp / theRock 0.58%
+Prices 3471.89EUR / 3507.9EUR
+Balances 1000EUR / 1000EUR
+
+Attempting Trade...
+
+
+Scanning Markets
+2017-08-19 19:03:13.866000
+
+Kraken / theRock  0.37 %
+Bitstamp / Kraken  -0.45 %
+Bitstamp / theRock  0.58 %
+Gdax / Kraken  -0.76 %
+Gdax / theRock  0.27 %
+Bl3p / Kraken  -0.71 %
+Bl3p / theRock  0.31 %
+theRock / Kraken  -1.63 %
+Gatecoin / Kraken  -5.82 %
+Gatecoin / theRock  -4.84 %
+
+---Entry Found---
+Bitstamp / theRock 0.58%
+Prices 3471.69EUR / 3507.46EUR
+Balances 1000EUR / 1000EUR
+
+Attempting Trade...
+
+
+Scanning Markets
+2017-08-19 19:03:33.730000
+
+Kraken / theRock  0.37 %
+Bitstamp / Kraken  -0.45 %
+Bitstamp / theRock  0.58 %
+Gdax / Kraken  -0.76 %
+Gdax / theRock  0.27 %
+Bl3p / Kraken  -0.71 %
+Bl3p / theRock  0.31 %
+theRock / Kraken  -1.65 %
+Gatecoin / Kraken  -5.82 %
+Gatecoin / theRock  -4.84 %
+
+---Entry Found---
+Bitstamp / theRock 0.58%
+Prices 3471.49EUR / 3507.46EUR
+Balances 1000EUR / 1000EUR
+
+Attempting Trade...
+
+
+Scanning Markets
+2017-08-19 19:03:53.382000
+
+Kraken / theRock  0.37 %
+Bitstamp / Kraken  -0.46 %
+Bitstamp / theRock  0.77 %
+Gdax / Kraken  -0.99 %
+Gdax / theRock  0.23 %
+Bl3p / Kraken  -0.91 %
+Bl3p / theRock  0.31 %
+theRock / Kraken  -1.89 %
+Gatecoin / Kraken  -6.0 %
+Gatecoin / theRock  -4.84 %
+
+---Entry Found---
+Bitstamp / theRock 0.77%
+Prices 3465.0EUR / 3507.46EUR
+Balances 1000EUR / 1000EUR
+
+Attempting Trade...
+
+
+Scanning Markets
+2017-08-19 19:04:14.543000
+
+Kraken / theRock  0.34 %
+Bitstamp / Kraken  -0.21 %
+Bitstamp / theRock  0.56 %
+Gdax / Kraken  -0.6 %
+Gdax / theRock  0.16 %
+Bl3p / Kraken  -0.48 %
+Bl3p / theRock  0.29 %
+theRock / Kraken  -1.47 %
+Gatecoin / Kraken  -5.59 %
+Gatecoin / theRock  -4.87 %
+
+---Entry Found---
+Bitstamp / theRock 0.56%
+Prices 3471.46EUR / 3506.49EUR
+Balances 1000EUR / 1000EUR
+
+Attempting Trade...
+
+
+Scanning Markets
+2017-08-19 19:04:38.688000
+
+Failed to Basic Info for Kraken on Attempt: 1
+Kraken / theRock  0.34 %
+Bitstamp / Kraken  -0.43 %
+Bitstamp / theRock  0.57 %
+Gdax / Kraken  -0.96 %
+Gdax / theRock  0.03 %
+Bl3p / Kraken  -0.68 %
+Bl3p / theRock  0.32 %
+theRock / Kraken  -1.71 %
+Gatecoin / Kraken  -5.81 %
+Gatecoin / theRock  -4.87 %
+
+---Entry Found---
+Bitstamp / theRock 0.57%
+Prices 3470.88EUR / 3506.49EUR
+Balances 1000EUR / 1000EUR
+
+Attempting Trade...
+
+
+Scanning Markets
+2017-08-19 19:05:12.852000
+
+Failed to Basic Info for Kraken on Attempt: 1
+Kraken / theRock  0.35 %
+Bitstamp / Kraken  -0.59 %
+Bitstamp / theRock  0.59 %
+Gdax / Kraken  -1.09 %
+Gdax / theRock  0.09 %
+Bl3p / Kraken  -0.87 %
+Bl3p / theRock  0.31 %
+theRock / Kraken  -1.94 %
+Gatecoin / Kraken  -5.99 %
+Gatecoin / theRock  -4.88 %
+
+---Entry Found---
+Bitstamp / theRock 0.59%
+Prices 3470.03EUR / 3506.14EUR
+Balances 1000EUR / 1000EUR
+
+Attempting Trade...
+
+
+Scanning Markets
+2017-08-19 19:05:45.557000
+
+Kraken / theRock  0.33 %
+Bitstamp / Kraken  -0.39 %
+Bitstamp / theRock  0.36 %
+Gdax / Kraken  -0.66 %
+Gdax / theRock  0.09 %
+Bl3p / Kraken  -0.67 %
+Bl3p / theRock  0.08 %
+theRock / Kraken  -1.52 %
+Gatecoin / Kraken  -5.59 %
+Gatecoin / theRock  -4.88 %
+
+Scanning Markets
+2017-08-19 19:06:09.059000
+
+Failed to Basic Info for Kraken on Attempt: 1
+Kraken / theRock  0.33 %
+Bitstamp / Kraken  -0.38 %
+Bitstamp / theRock  0.36 %
+Gdax / Kraken  -0.72 %
+Gdax / theRock  0.02 %
+Bl3p / Kraken  -0.66 %
+Bl3p / theRock  0.08 %
+theRock / Kraken  -1.59 %
+Gatecoin / Kraken  -5.58 %
+Gatecoin / theRock  -4.88 %
+
+Scanning Markets
+2017-08-19 19:06:31.864000
+
+Failed to Basic Info for Kraken on Attempt: 1
+Failed to Basic Info for Kraken on Attempt: 2
+Kraken / theRock  0.2 %
+Bitstamp / Kraken  -0.38 %
+Bitstamp / theRock  0.37 %
+Gdax / Kraken  -0.72 %
+Gdax / theRock  0.02 %
+Bl3p / Kraken  -0.66 %
+Bl3p / theRock  0.08 %
+theRock / Kraken  -1.54 %
+Gatecoin / Kraken  -5.58 %
+Gatecoin / theRock  -4.88 %
+
+Scanning Markets
+2017-08-19 19:07:01.013000
+
+Kraken / theRock  0.15 %
+Bitstamp / Kraken  -0.36 %
+Bitstamp / theRock  0.39 %
+Gdax / Kraken  -0.84 %
+Gdax / theRock  -0.1 %
+Bl3p / Kraken  -0.66 %
+Bl3p / theRock  0.08 %
+theRock / Kraken  -1.54 %
+Gatecoin / Kraken  -5.58 %
+Gatecoin / theRock  -4.88 %
+
+Scanning Markets
+2017-08-19 19:07:20.878000
+
+Failed to Basic Info for Kraken on Attempt: 1
+Kraken / theRock  0.33 %
+Bitstamp / Kraken  -0.35 %
+Bitstamp / theRock  0.45 %
+Gdax / Kraken  -0.82 %
+Gdax / theRock  -0.02 %
+Bl3p / Kraken  -0.71 %
+Bl3p / theRock  0.08 %
+theRock / Kraken  -1.6 %
+Gatecoin / Kraken  -5.63 %
+Gatecoin / theRock  -4.87 %
+
+Scanning Markets
+2017-08-19 19:07:55.026000
+
+Failed to Basic Info for Kraken on Attempt: 1
+Failed to Basic Info for Kraken on Attempt: 2
+Failed to Basic Info for Kraken on Attempt: 3
+Failed to get Basic Info for Kraken 
+Bitstamp / theRock  0.54 %
+Gdax / theRock  0.02 %
+Bl3p / theRock  0.19 %
+Gatecoin / theRock  -4.79 %
+
+---Entry Found---
+Bitstamp / theRock 0.54%
+Prices 3474.9EUR / 3509.29EUR
+Balances 1000EUR / 1000EUR
+
+Attempting Trade...
+
+
+Scanning Markets
+2017-08-19 19:08:54.816000
+
+Failed to Basic Info for Kraken on Attempt: 1
+Kraken / theRock  0.18 %
+Bitstamp / Kraken  -0.28 %
+Bitstamp / theRock  0.45 %
+Gdax / Kraken  -0.77 %
+Gdax / theRock  -0.05 %
+Bl3p / Kraken  -0.54 %
+Bl3p / theRock  0.19 %
+theRock / Kraken  -1.46 %
+Gatecoin / Kraken  -5.48 %
+Gatecoin / theRock  -4.79 %
+
+Scanning Markets
+2017-08-19 19:09:32.494000
+
+Kraken / theRock  0.18 %
+Bitstamp / Kraken  -0.31 %
+Bitstamp / theRock  0.45 %
+Gdax / Kraken  -0.85 %
+Gdax / theRock  -0.1 %
+Bl3p / Kraken  -0.56 %
+Bl3p / theRock  0.19 %
+theRock / Kraken  -1.49 %
+Gatecoin / Kraken  -5.51 %
+Gatecoin / theRock  -4.79 %
+
+Scanning Markets
+2017-08-19 19:09:53.190000
+
+Kraken / theRock  0.24 %
+Bitstamp / Kraken  -0.06 %
+Bitstamp / theRock  0.61 %
+Gdax / Kraken  -0.69 %
+Gdax / theRock  -0.03 %
+Bl3p / Kraken  -0.41 %
+Bl3p / theRock  0.25 %
+theRock / Kraken  -1.37 %
+Gatecoin / Kraken  -5.36 %
+Gatecoin / theRock  -4.73 %
+
+---Entry Found---
+Bitstamp / theRock 0.61%
+Prices 3474.68EUR / 3511.57EUR
+Balances 1000EUR / 1000EUR
+
+Attempting Trade...
+
+
+Scanning Markets
+2017-08-19 19:10:23.469000

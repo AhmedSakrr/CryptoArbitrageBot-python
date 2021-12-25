@@ -1,0 +1,1545 @@
+
+-------------------   ------------   ------------   ------------   ------------   
+Exchange Balances      EUR Balance    BTC Balance    LTC Balance    ETH Balance   
+-------------------   ------------   ------------   ------------   ------------   
+Bitfinex              103.75         0.0            0.0            0.0            
+Kraken                130.01         0.0            0.0            0.0            
+Bitstamp              0.0            0.0            0.0            0.0            
+Gdax                  146.94         0.0            0.0            0.0            
+Bl3p                  100.75         0.0            0.0            0.0            
+theRock               138.19         6.584e-05      0.0            0.0            
+Cex                   143.34         0.0            0.0            0.0            
+Wex                   108.51         0.0            0.0            0.0            
+BitBay                128.98         7.529e-05      0.0            0.0            
+Quoinex               97.7           0.0            0.0            0.0            
+-----------   -----------   --------    --------    --------    --------    --------    --------    
+Instrument    Exchange        Ask         Bid       Entry Ask   Entry Bid   Exit Ask    Exit Bid    
+-----------   -----------   --------    --------    --------    --------    --------    --------    
+BTC / EUR     Bitfinex      5776.6      5776.5      5776.6      5776.5      5776.6      5776.5      
+BTC / EUR     Kraken        5737.9      5737.8      5738.74     5737.8      5737.9      5737.8      
+BTC / EUR     Bitstamp      5737.91     5725.56     5737.91     5725.56     5737.91     5725.56     
+BTC / EUR     Gdax          5735.0      5734.99     5735.0      5734.99     5735.0      5734.99     
+BTC / EUR     Bl3p          5756.14     5731.46     5756.14     5731.46     5756.14     5731.46     
+BTC / EUR     theRock       5772.74     5744.24     5772.74     5725.6      5772.74     5744.24     
+BTC / EUR     Cex           5740.8      5706.6      5741.23     5706.6      5740.8      5706.6      
+BTC / EUR     Wex           5996.91     5957.35     6006.17     5957.35     5996.91     5957.35     
+BTC / EUR     BitBay        5731.94     5670.0      5741.82     5670.0      5731.94     5670.0      
+BTC / EUR     Quoinex       5723.35     5682.24     5723.35     5682.24     5723.35     5682.24     
+LTC / EUR     Bitfinex      0           0           0           0           0           0           
+LTC / EUR     Kraken        71.41       71.26       71.42       71.18       71.41       71.26       
+LTC / EUR     Bitstamp      71.36       71.15       71.36       71.15       71.36       71.15       
+LTC / EUR     Gdax          71.45       71.28       71.45       71.27       71.45       71.28       
+LTC / EUR     Bl3p          71.48       71.21       71.48       71.21       71.48       71.21       
+LTC / EUR     theRock       72.12       71.15       72.12       71.15       72.12       71.15       
+LTC / EUR     Cex           0           0           0           0           0           0           
+LTC / EUR     Wex           75.0        74.44       75.15       74.05       75.0        74.44       
+LTC / EUR     BitBay        72.27       70.4        82.46       60.48       72.27       70.4        
+LTC / EUR     Quoinex       0           0           0           0           0           0           
+ETH / EUR     Bitfinex      416.5       416.48      416.5       416.48      416.5       416.48      
+ETH / EUR     Kraken        412.8       412.56      412.98      412.55      412.8       412.56      
+ETH / EUR     Bitstamp      413.0       412.42      413.0       412.42      413.0       412.42      
+ETH / EUR     Gdax          413.04      412.5       413.04      412.36      413.04      412.5       
+ETH / EUR     Bl3p          0           0           0           0           0           0           
+ETH / EUR     theRock       417.05      411.3       417.06      411.3       417.05      411.3       
+ETH / EUR     Cex           410.0       409.84      412.45      409.79      410.0       409.84      
+ETH / EUR     Wex           428.99      425.92      430.52      424.35      428.99      425.92      
+ETH / EUR     BitBay        414.96      407.37      414.96      407.05      414.96      407.37      
+ETH / EUR     Quoinex       412.66      411.58      453.11      411.58      412.66      411.58      
+
+-----------------------------------     -------------------------     -------------------------     
+     ------ ARBITRAGE ------            Potential Opportunities          Current Positions          
+-----------------------------------     --------------------------    -------------------------     
+----------    ------      ------      ------    ------    ------    ------    ------    ------
+Instrument     Long        Short      Spread    Target     Max       Spread   Target     Min
+----------    ------      ------      ------    ------    ------    ------    ------    ------
+ETH / EUR     Cex         Bitfinex    0.98 %    400.9 %   0.98 %       -         -         -   
+BTC / EUR     Quoinex     Bitfinex    0.93 %    400.4 %   0.93 %       -         -         -   
+ETH / EUR     Kraken      Bitfinex    0.85 %    400.92 %  0.85 %       -         -         -   
+ETH / EUR     Bitstamp    Bitfinex    0.84 %    400.9 %   0.84 %       -         -         -   
+ETH / EUR     Gdax        Bitfinex    0.83 %    400.65 %  0.83 %       -         -         -   
+BTC / EUR     Gdax        Bitfinex    0.72 %    400.65 %  0.72 %       -         -         -   
+BTC / EUR     Bitstamp    Bitfinex    0.67 %    400.9 %   0.67 %       -         -         -   
+BTC / EUR     Kraken      Bitfinex    0.66 %    400.92 %  0.66 %       -         -         -   
+BTC / EUR     Cex         Bitfinex    0.61 %    400.9 %   0.61 %       -         -         -   
+BTC / EUR     BitBay      Bitfinex    0.6 %     401.26 %  0.6 %        -         -         -   
+ETH / EUR     BitBay      Bitfinex    0.37 %    401.26 %  0.37 %       -         -         -   
+BTC / EUR     Bl3p        Bitfinex    0.35 %    400.9 %   0.35 %       -         -         -   
+BTC / EUR     Quoinex     Kraken      0.25 %    400.52 %  0.25 %       -         -         -   
+BTC / EUR     theRock     Bitfinex    0.07 %    400.8 %   0.07 %       -         -         -   
+BTC / EUR     Gdax        Kraken      0.05 %    400.77 %  0.05 %       -         -         -   
+ETH / EUR     Cex         Kraken      0.02 %    401.02 %  0.02 %       -         -         -   
+BTC / EUR     Bitstamp    Kraken      -0.0 %    401.02 %  -0.0 %       -         -         -   
+BTC / EUR     Cex         Kraken      -0.06 %   401.02 %  -0.06 %      -         -         -   
+BTC / EUR     BitBay      Kraken      -0.07 %   401.38 %  -0.07 %      -         -         -   
+ETH / EUR     Bitstamp    Kraken      -0.11 %   401.02 %  -0.11 %      -         -         -   
+ETH / EUR     Gdax        Kraken      -0.12 %   400.77 %  -0.12 %      -         -         -   
+ETH / EUR     theRock     Bitfinex    -0.14 %   400.8 %   -0.14 %      -         -         -   
+BTC / EUR     Quoinex     Cex         -0.29 %   400.5 %   -0.29 %      -         -         -   
+BTC / EUR     Bl3p        Kraken      -0.32 %   401.02 %  -0.32 %      -         -         -   
+BTC / EUR     Gdax        Cex         -0.5 %    400.75 %  -0.5 %       -         -         -   
+BTC / EUR     Bitstamp    Cex         -0.55 %   401.0 %   -0.55 %      -         -         -   
+BTC / EUR     Kraken      Cex         -0.56 %   401.02 %  -0.56 %      -         -         -   
+ETH / EUR     BitBay      Kraken      -0.58 %   401.38 %  -0.58 %      -         -         -   
+BTC / EUR     theRock     Kraken      -0.61 %   400.92 %  -0.61 %      -         -         -   
+BTC / EUR     BitBay      Cex         -0.61 %   401.36 %  -0.61 %      -         -         -   
+BTC / EUR     Bitfinex    Kraken      -0.67 %   400.92 %  -0.67 %      -         -         -   
+BTC / EUR     Bl3p        Cex         -0.86 %   401.0 %   -0.86 %      -         -         -   
+BTC / EUR     Gdax        Quoinex     -0.92 %   400.25 %  -0.92 %      -         -         -   
+ETH / EUR     Bitfinex    Kraken      -0.95 %   400.92 %  -0.95 %      -         -         -   
+BTC / EUR     Bitstamp    Quoinex     -0.97 %   400.5 %   -0.97 %      -         -         -   
+BTC / EUR     Kraken      Quoinex     -0.98 %   400.52 %  -0.98 %      -         -         -   
+BTC / EUR     Cex         Quoinex     -1.03 %   400.5 %   -1.03 %      -         -         -   
+BTC / EUR     BitBay      Quoinex     -1.04 %   400.86 %  -1.04 %      -         -         -   
+ETH / EUR     theRock     Kraken      -1.08 %   400.92 %  -1.08 %      -         -         -   
+BTC / EUR     theRock     Cex         -1.15 %   400.9 %   -1.15 %      -         -         -   
+BTC / EUR     Bitfinex    Cex         -1.21 %   400.9 %   -1.21 %      -         -         -   
+BTC / EUR     Bl3p        Quoinex     -1.28 %   400.5 %   -1.28 %      -         -         -   
+BTC / EUR     theRock     Quoinex     -1.57 %   400.4 %   -1.57 %      -         -         -   
+BTC / EUR     Bitfinex    Quoinex     -1.63 %   400.4 %   -1.63 %      -         -         -   
+ETH / EUR     Wex         Bitfinex    -3.26 %   400.8 %   -3.26 %      -         -         -   
+BTC / EUR     Wex         Bitfinex    -3.82 %   400.8 %   -3.82 %      -         -         -   
+ETH / EUR     Wex         Kraken      -4.17 %   400.92 %  -4.17 %      -         -         -   
+BTC / EUR     Wex         Kraken      -4.47 %   400.92 %  -4.47 %      -         -         -   
+BTC / EUR     Wex         Cex         -4.99 %   400.9 %   -4.99 %      -         -         -   
+BTC / EUR     Wex         Quoinex     -5.39 %   400.4 %   -5.39 %      -         -         -   
+ETH / EUR     Quoinex     Bitfinex    -8.08 %   400.4 %   -8.08 %      -         -         -   
+ETH / EUR     Quoinex     Kraken      -8.95 %   400.52 %  -8.95 %      -         -         -   
+
+
+-------------------   ------------   ------------   ------------   ------------   
+Exchange Balances      EUR Balance    BTC Balance    LTC Balance    ETH Balance   
+-------------------   ------------   ------------   ------------   ------------   
+Bitfinex              103.75         0.0            0.0            0.0            
+Kraken                130.01         0.0            0.0            0.0            
+Bitstamp              0.0            0.0            0.0            0.0            
+Gdax                  146.94         0.0            0.0            0.0            
+Bl3p                  100.75         0.0            0.0            0.0            
+theRock               138.19         6.584e-05      0.0            0.0            
+Cex                   143.34         0.0            0.0            0.0            
+Wex                   108.51         0.0            0.0            0.0            
+BitBay                128.98         7.529e-05      0.0            0.0            
+Quoinex               97.7           0.0            0.0            0.0            
+-----------   -----------   --------    --------    --------    --------    --------    --------    
+Instrument    Exchange        Ask         Bid       Entry Ask   Entry Bid   Exit Ask    Exit Bid    
+-----------   -----------   --------    --------    --------    --------    --------    --------    
+BTC / EUR     Bitfinex      5776.7      5776.5      5776.7      5776.5      5776.7      5776.5      
+BTC / EUR     Kraken        5737.8      5735.1      5737.8      5732.0      5737.8      5735.1      
+BTC / EUR     Bitstamp      5732.43     5725.0      5732.43     5725.0      5732.43     5725.0      
+BTC / EUR     Gdax          5735.0      5734.99     5735.0      5734.99     5735.0      5734.99     
+BTC / EUR     Bl3p          5752.24     5731.46     5752.24     5731.46     5752.24     5731.46     
+BTC / EUR     theRock       5772.48     5744.24     5772.48     5725.72     5772.48     5744.24     
+BTC / EUR     Cex           5740.8      5718.6      5741.23     5718.6      5740.8      5718.6      
+BTC / EUR     Wex           5996.9      5957.35     5996.9      5957.35     5996.9      5957.35     
+BTC / EUR     BitBay        5729.79     5670.0      5741.13     5670.0      5729.79     5670.0      
+BTC / EUR     Quoinex       5723.38     5682.21     5723.38     5682.21     5723.38     5682.21     
+LTC / EUR     Bitfinex      0           0           0           0           0           0           
+LTC / EUR     Kraken        71.41       71.23       71.41       71.23       71.41       71.23       
+LTC / EUR     Bitstamp      71.36       71.14       71.36       71.14       71.36       71.14       
+LTC / EUR     Gdax          71.45       71.28       71.45       71.27       71.45       71.28       
+LTC / EUR     Bl3p          71.48       71.21       71.48       71.21       71.48       71.21       
+LTC / EUR     theRock       72.12       71.15       72.12       71.15       72.12       71.15       
+LTC / EUR     Cex           0           0           0           0           0           0           
+LTC / EUR     Wex           75.0        74.44       75.15       73.96       75.0        74.44       
+LTC / EUR     BitBay        72.27       70.4        82.46       60.48       72.27       70.4        
+LTC / EUR     Quoinex       0           0           0           0           0           0           
+ETH / EUR     Bitfinex      416.5       416.48      416.5       416.48      416.5       416.48      
+ETH / EUR     Kraken        412.8       412.6       412.8       412.6       412.8       412.6       
+ETH / EUR     Bitstamp      413.0       412.17      413.0       412.17      413.0       412.17      
+ETH / EUR     Gdax          413.04      412.5       413.04      412.36      413.04      412.5       
+ETH / EUR     Bl3p          0           0           0           0           0           0           
+ETH / EUR     theRock       417.01      411.5       417.02      411.5       417.01      411.5       
+ETH / EUR     Cex           410.0       409.92      412.45      409.9       410.0       409.92      
+ETH / EUR     Wex           428.99      425.92      430.52      424.72      428.99      425.92      
+ETH / EUR     BitBay        414.92      407.37      414.92      406.87      414.92      407.37      
+ETH / EUR     Quoinex       412.66      411.58      452.89      411.58      412.66      411.58      
+
+-----------------------------------     -------------------------     -------------------------     
+     ------ ARBITRAGE ------            Potential Opportunities          Current Positions          
+-----------------------------------     --------------------------    -------------------------     
+----------    ------      ------      ------    ------    ------    ------    ------    ------
+Instrument     Long        Short      Spread    Target     Max       Spread   Target     Min
+----------    ------      ------      ------    ------    ------    ------    ------    ------
+ETH / EUR     Cex         Bitfinex    0.98 %    1.1 %     0.98 %       -         -         -   
+BTC / EUR     Quoinex     Bitfinex    0.93 %    0.7 %     0.93 %       -         -         -   
+ETH / EUR     Kraken      Bitfinex    0.89 %    1.12 %    0.89 %       -         -         -   
+ETH / EUR     Bitstamp    Bitfinex    0.84 %    1.1 %     0.84 %       -         -         -   
+ETH / EUR     Gdax        Bitfinex    0.83 %    0.85 %    0.83 %       -         -         -   
+BTC / EUR     Bitstamp    Bitfinex    0.77 %    1.1 %     0.77 %       -         -         -   
+BTC / EUR     Gdax        Bitfinex    0.72 %    0.85 %    0.72 %       -         -         -   
+BTC / EUR     Kraken      Bitfinex    0.67 %    1.12 %    0.67 %       -         -         -   
+BTC / EUR     BitBay      Bitfinex    0.62 %    1.46 %    0.62 %       -         -         -   
+BTC / EUR     Cex         Bitfinex    0.61 %    1.1 %     0.61 %       -         -         -   
+BTC / EUR     Bl3p        Bitfinex    0.42 %    1.1 %     0.42 %       -         -         -   
+ETH / EUR     BitBay      Bitfinex    0.38 %    1.46 %    0.38 %       -         -         -   
+BTC / EUR     Quoinex     Kraken      0.15 %    0.72 %    0.25 %       -         -         -   
+BTC / EUR     theRock     Bitfinex    0.07 %    1.0 %     0.07 %       -         -         -   
+ETH / EUR     Cex         Kraken      0.04 %    1.22 %    0.04 %       -         -         -   
+BTC / EUR     Bitstamp    Kraken      -0.01 %   1.22 %    -0.0 %       -         -         -   
+BTC / EUR     Gdax        Kraken      -0.05 %   0.97 %    0.05 %       -         -         -   
+BTC / EUR     Quoinex     Cex         -0.08 %   0.7 %     -0.08 %      -         -         -   
+ETH / EUR     Bitstamp    Kraken      -0.1 %    1.22 %    -0.1 %       -         -         -   
+ETH / EUR     Gdax        Kraken      -0.11 %   0.97 %    -0.11 %      -         -         -   
+ETH / EUR     theRock     Bitfinex    -0.13 %   1.0 %     -0.13 %      -         -         -   
+BTC / EUR     BitBay      Kraken      -0.16 %   1.58 %    -0.07 %      -         -         -   
+BTC / EUR     Cex         Kraken      -0.16 %   1.22 %    -0.06 %      -         -         -   
+BTC / EUR     Bitstamp    Cex         -0.24 %   1.2 %     -0.24 %      -         -         -   
+BTC / EUR     Gdax        Cex         -0.29 %   0.95 %    -0.29 %      -         -         -   
+BTC / EUR     Kraken      Cex         -0.33 %   1.22 %    -0.33 %      -         -         -   
+BTC / EUR     Bl3p        Kraken      -0.35 %   1.22 %    -0.32 %      -         -         -   
+BTC / EUR     BitBay      Cex         -0.39 %   1.56 %    -0.39 %      -         -         -   
+ETH / EUR     BitBay      Kraken      -0.56 %   1.58 %    -0.56 %      -         -         -   
+BTC / EUR     Bl3p        Cex         -0.58 %   1.2 %     -0.58 %      -         -         -   
+BTC / EUR     theRock     Kraken      -0.7 %    1.12 %    -0.61 %      -         -         -   
+BTC / EUR     Bitfinex    Kraken      -0.77 %   1.12 %    -0.67 %      -         -         -   
+BTC / EUR     Bitstamp    Quoinex     -0.88 %   0.7 %     -0.88 %      -         -         -   
+BTC / EUR     Gdax        Quoinex     -0.92 %   0.85 %    -0.92 %      -         -         -   
+BTC / EUR     theRock     Cex         -0.93 %   1.1 %     -0.93 %      -         -         -   
+ETH / EUR     Bitfinex    Kraken      -0.94 %   1.12 %    -0.94 %      -         -         -   
+BTC / EUR     Kraken      Quoinex     -0.97 %   0.72 %    -0.97 %      -         -         -   
+BTC / EUR     Bitfinex    Cex         -1.01 %   1.1 %     -1.01 %      -         -         -   
+BTC / EUR     BitBay      Quoinex     -1.03 %   1.06 %    -1.03 %      -         -         -   
+BTC / EUR     Cex         Quoinex     -1.03 %   0.7 %     -1.03 %      -         -         -   
+ETH / EUR     theRock     Kraken      -1.06 %   1.12 %    -1.06 %      -         -         -   
+BTC / EUR     Bl3p        Quoinex     -1.22 %   0.7 %     -1.22 %      -         -         -   
+BTC / EUR     theRock     Quoinex     -1.56 %   0.7 %     -1.56 %      -         -         -   
+BTC / EUR     Bitfinex    Quoinex     -1.64 %   0.7 %     -1.63 %      -         -         -   
+ETH / EUR     Wex         Bitfinex    -3.26 %   1.0 %     -3.26 %      -         -         -   
+BTC / EUR     Wex         Bitfinex    -3.68 %   1.0 %     -3.68 %      -         -         -   
+ETH / EUR     Wex         Kraken      -4.16 %   1.12 %    -4.16 %      -         -         -   
+BTC / EUR     Wex         Kraken      -4.42 %   1.12 %    -4.42 %      -         -         -   
+BTC / EUR     Wex         Cex         -4.64 %   1.1 %     -4.64 %      -         -         -   
+BTC / EUR     Wex         Quoinex     -5.25 %   0.7 %     -5.25 %      -         -         -   
+ETH / EUR     Quoinex     Bitfinex    -8.04 %   0.7 %     -8.04 %      -         -         -   
+ETH / EUR     Quoinex     Kraken      -8.9 %    0.72 %    -8.9 %       -         -         -   
+
+
+
+Total Profit Since Running: 0.0 Euro
+
+Time to execute loop is: 0:00:50.547000s
+
+Scanning Markets
+
+2018-07-08 10:52:01.414000
+
+-------------------   ------------   ------------   ------------   ------------   
+Exchange Balances      EUR Balance    BTC Balance    LTC Balance    ETH Balance   
+-------------------   ------------   ------------   ------------   ------------   
+Bitfinex              103.75         0.0            0.0            0.0            
+Kraken                130.01         0.0            0.0            0.0            
+Bitstamp              0.0            0.0            0.0            0.0            
+Gdax                  146.94         0.0            0.0            0.0            
+Bl3p                  100.75         0.0            0.0            0.0            
+theRock               138.19         6.584e-05      0.0            0.0            
+Cex                   143.34         0.0            0.0            0.0            
+Wex                   108.51         0.0            0.0            0.0            
+BitBay                128.98         7.529e-05      0.0            0.0            
+Quoinex               97.7           0.0            0.0            0.0            
+-----------   -----------   --------    --------    --------    --------    --------    --------    
+Instrument    Exchange        Ask         Bid       Entry Ask   Entry Bid   Exit Ask    Exit Bid    
+-----------   -----------   --------    --------    --------    --------    --------    --------    
+BTC / EUR     Bitfinex      5776.8      5776.6      5776.99     5776.6      5776.8      5776.6      
+BTC / EUR     Kraken        5737.0      5736.9      5737.0      5736.9      5737.0      5736.9      
+BTC / EUR     Bitstamp      5736.37     5726.95     5736.37     5726.95     5736.37     5726.95     
+BTC / EUR     Gdax          5735.0      5734.99     5735.0      5734.99     5735.0      5734.99     
+BTC / EUR     Bl3p          5752.24     5728.56     5752.24     5728.56     5752.24     5728.56     
+BTC / EUR     theRock       5772.35     5744.25     5772.35     5725.72     5772.35     5744.25     
+BTC / EUR     Cex           5740.8      5700.2      5741.23     5700.2      5740.8      5700.2      
+BTC / EUR     Wex           5996.9      5957.35     5996.9      5957.35     5996.9      5957.35     
+BTC / EUR     BitBay        5729.79     5670.0      5843.13     5670.0      5729.79     5670.0      
+BTC / EUR     Quoinex       5723.38     5682.21     5723.38     5682.21     5723.38     5682.21     
+LTC / EUR     Bitfinex      0           0           0           0           0           0           
+LTC / EUR     Kraken        71.39       71.27       71.44       71.26       71.39       71.27       
+LTC / EUR     Bitstamp      71.36       71.19       71.36       71.19       71.36       71.19       
+LTC / EUR     Gdax          71.45       71.28       71.45       71.27       71.45       71.28       
+LTC / EUR     Bl3p          71.48       71.21       71.48       71.21       71.48       71.21       
+LTC / EUR     theRock       72.13       71.15       72.62       71.15       72.13       71.15       
+LTC / EUR     Cex           0           0           0           0           0           0           
+LTC / EUR     Wex           75.0        74.44       75.15       73.96       75.0        74.44       
+LTC / EUR     BitBay        72.27       70.4        82.46       60.48       72.27       70.4        
+LTC / EUR     Quoinex       0           0           0           0           0           0           
+ETH / EUR     Bitfinex      416.5       416.48      416.5       416.48      416.5       416.48      
+ETH / EUR     Kraken        412.77      412.54      412.77      412.54      412.77      412.54      
+ETH / EUR     Bitstamp      413.0       412.17      413.0       412.17      413.0       412.17      
+ETH / EUR     Gdax          413.08      412.56      413.08      412.56      413.08      412.56      
+ETH / EUR     Bl3p          0           0           0           0           0           0           
+ETH / EUR     theRock       417.54      411.56      417.55      411.56      417.54      411.56      
+ETH / EUR     Cex           410.0       409.92      412.45      409.9       410.0       409.92      
+ETH / EUR     Wex           428.99      425.92      430.52      424.72      428.99      425.92      
+ETH / EUR     BitBay        415.0       407.37      424.65      401.68      415.0       407.37      
+ETH / EUR     Quoinex       412.66      411.37      452.68      411.36      412.66      411.37      
+
+-----------------------------------     -------------------------     -------------------------     
+     ------ ARBITRAGE ------            Potential Opportunities          Current Positions          
+-----------------------------------     --------------------------    -------------------------     
+----------    ------      ------      ------    ------    ------    ------    ------    ------
+Instrument     Long        Short      Spread    Target     Max       Spread   Target     Min
+----------    ------      ------      ------    ------    ------    ------    ------    ------
+ETH / EUR     Cex         Bitfinex    0.98 %    1.1 %     0.98 %       -         -         -   
+BTC / EUR     Quoinex     Bitfinex    0.93 %    0.79 %    0.93 %       -         -         -   
+ETH / EUR     Kraken      Bitfinex    0.9 %     1.12 %    0.9 %        -         -         -   
+ETH / EUR     Bitstamp    Bitfinex    0.84 %    1.1 %     0.84 %       -         -         -   
+ETH / EUR     Gdax        Bitfinex    0.82 %    0.85 %    0.83 %       -         -         -   
+BTC / EUR     Gdax        Bitfinex    0.73 %    0.85 %    0.73 %       -         -         -   
+BTC / EUR     Bitstamp    Bitfinex    0.7 %     1.1 %     0.77 %       -         -         -   
+BTC / EUR     Kraken      Bitfinex    0.69 %    1.12 %    0.69 %       -         -         -   
+BTC / EUR     Cex         Bitfinex    0.62 %    1.1 %     0.62 %       -         -         -   
+BTC / EUR     Bl3p        Bitfinex    0.42 %    1.1 %     0.42 %       -         -         -   
+BTC / EUR     Quoinex     Kraken      0.24 %    0.72 %    0.25 %       -         -         -   
+BTC / EUR     theRock     Bitfinex    0.07 %    1.0 %     0.07 %       -         -         -   
+BTC / EUR     Gdax        Kraken      0.03 %    0.97 %    0.05 %       -         -         -   
+ETH / EUR     Cex         Kraken      0.02 %    1.22 %    0.04 %       -         -         -   
+BTC / EUR     Bitstamp    Kraken      0.01 %    1.22 %    0.01 %       -         -         -   
+BTC / EUR     Cex         Kraken      -0.08 %   1.22 %    -0.06 %      -         -         -   
+ETH / EUR     Bitstamp    Kraken      -0.11 %   1.22 %    -0.1 %       -         -         -   
+ETH / EUR     Gdax        Kraken      -0.13 %   0.97 %    -0.11 %      -         -         -   
+ETH / EUR     theRock     Bitfinex    -0.26 %   1.0 %     -0.13 %      -         -         -   
+BTC / EUR     Bl3p        Kraken      -0.27 %   1.22 %    -0.27 %      -         -         -   
+BTC / EUR     Quoinex     Cex         -0.41 %   0.7 %     -0.08 %      -         -         -   
+BTC / EUR     Gdax        Cex         -0.61 %   0.95 %    -0.29 %      -         -         -   
+BTC / EUR     theRock     Kraken      -0.61 %   1.12 %    -0.61 %      -         -         -   
+BTC / EUR     Bitstamp    Cex         -0.63 %   1.2 %     -0.24 %      -         -         -   
+BTC / EUR     Kraken      Cex         -0.64 %   1.22 %    -0.33 %      -         -         -   
+BTC / EUR     Bitfinex    Kraken      -0.69 %   1.12 %    -0.67 %      -         -         -   
+BTC / EUR     Bl3p        Cex         -0.9 %    1.2 %     -0.58 %      -         -         -   
+BTC / EUR     Gdax        Quoinex     -0.92 %   0.94 %    -0.92 %      -         -         -   
+BTC / EUR     Bitstamp    Quoinex     -0.94 %   0.7 %     -0.88 %      -         -         -   
+ETH / EUR     Bitfinex    Kraken      -0.95 %   1.12 %    -0.94 %      -         -         -   
+BTC / EUR     Kraken      Quoinex     -0.96 %   0.72 %    -0.96 %      -         -         -   
+BTC / EUR     Cex         Quoinex     -1.03 %   0.7 %     -1.03 %      -         -         -   
+BTC / EUR     BitBay      Bitfinex    -1.14 %   1.46 %    0.62 %       -         -         -   
+ETH / EUR     theRock     Kraken      -1.2 %    1.12 %    -1.06 %      -         -         -   
+BTC / EUR     Bl3p        Quoinex     -1.22 %   0.7 %     -1.22 %      -         -         -   
+BTC / EUR     theRock     Cex         -1.25 %   1.1 %     -0.93 %      -         -         -   
+BTC / EUR     Bitfinex    Cex         -1.33 %   1.1 %     -1.01 %      -         -         -   
+BTC / EUR     theRock     Quoinex     -1.56 %   0.79 %    -1.56 %      -         -         -   
+BTC / EUR     Bitfinex    Quoinex     -1.64 %   0.79 %    -1.63 %      -         -         -   
+BTC / EUR     BitBay      Kraken      -1.82 %   1.58 %    -0.07 %      -         -         -   
+ETH / EUR     BitBay      Bitfinex    -1.92 %   1.46 %    0.38 %       -         -         -   
+BTC / EUR     BitBay      Cex         -2.45 %   1.56 %    -0.39 %      -         -         -   
+BTC / EUR     BitBay      Quoinex     -2.75 %   1.06 %    -1.03 %      -         -         -   
+ETH / EUR     BitBay      Kraken      -2.85 %   1.58 %    -0.56 %      -         -         -   
+ETH / EUR     Wex         Bitfinex    -3.26 %   1.0 %     -3.26 %      -         -         -   
+BTC / EUR     Wex         Bitfinex    -3.67 %   1.0 %     -3.67 %      -         -         -   
+ETH / EUR     Wex         Kraken      -4.18 %   1.12 %    -4.16 %      -         -         -   
+BTC / EUR     Wex         Kraken      -4.34 %   1.12 %    -4.34 %      -         -         -   
+BTC / EUR     Wex         Cex         -4.95 %   1.1 %     -4.64 %      -         -         -   
+BTC / EUR     Wex         Quoinex     -5.25 %   0.79 %    -5.25 %      -         -         -   
+ETH / EUR     Quoinex     Bitfinex    -8.0 %    0.79 %    -8.0 %       -         -         -   
+ETH / EUR     Quoinex     Kraken      -8.87 %   0.72 %    -8.87 %      -         -         -   
+
+
+
+Total Profit Since Running: 0.0 Euro
+
+Time to execute loop is: 0:01:36.099000s
+
+Scanning Markets
+
+2018-07-08 10:53:45.544000
+
+-------------------   ------------   ------------   ------------   ------------   
+Exchange Balances      EUR Balance    BTC Balance    LTC Balance    ETH Balance   
+-------------------   ------------   ------------   ------------   ------------   
+Bitfinex              103.75         0.0            0.0            0.0            
+Kraken                130.01         0.0            0.0            0.0            
+Bitstamp              0.0            0.0            0.0            0.0            
+Gdax                  146.94         0.0            0.0            0.0            
+Bl3p                  100.75         0.0            0.0            0.0            
+theRock               138.19         6.584e-05      0.0            0.0            
+Cex                   143.34         0.0            0.0            0.0            
+Wex                   108.51         0.0            0.0            0.0            
+BitBay                128.98         7.529e-05      0.0            0.0            
+Quoinex               97.7           0.0            0.0            0.0            
+-----------   -----------   --------    --------    --------    --------    --------    --------    
+Instrument    Exchange        Ask         Bid       Entry Ask   Entry Bid   Exit Ask    Exit Bid    
+-----------   -----------   --------    --------    --------    --------    --------    --------    
+BTC / EUR     Bitfinex      5778.0      5777.9      5778.0      5777.9      5778.0      5777.9      
+BTC / EUR     Kraken        5737.0      5736.9      5737.0      5736.9      5737.0      5736.9      
+BTC / EUR     Bitstamp      5738.33     5729.31     5738.33     5729.31     5738.33     5729.31     
+BTC / EUR     Gdax          5736.41     5736.39     5736.41     5736.39     5736.41     5736.39     
+BTC / EUR     Bl3p          5751.34     5732.2      5751.34     5732.2      5751.34     5732.2      
+BTC / EUR     theRock       5772.11     5744.25     5772.12     5725.76     5772.11     5744.25     
+BTC / EUR     Cex           5740.8      5715.1      5741.23     5715.1      5740.8      5715.1      
+BTC / EUR     Wex           5996.9      5957.35     5999.07     5957.35     5996.9      5957.35     
+BTC / EUR     BitBay        5729.79     5670.0      5843.13     5670.0      5729.79     5670.0      
+BTC / EUR     Quoinex       5723.25     5682.33     5723.25     5682.32     5723.25     5682.33     
+LTC / EUR     Bitfinex      0           0           0           0           0           0           
+LTC / EUR     Kraken        71.41       71.28       71.42       71.27       71.41       71.28       
+LTC / EUR     Bitstamp      71.36       71.15       71.36       71.15       71.36       71.15       
+LTC / EUR     Gdax          71.45       71.35       71.45       71.35       71.45       71.35       
+LTC / EUR     Bl3p          71.48       71.28       71.48       71.28       71.48       71.28       
+LTC / EUR     theRock       72.12       71.15       72.12       71.15       72.12       71.15       
+LTC / EUR     Cex           0           0           0           0           0           0           
+LTC / EUR     Wex           75.0        74.44       75.15       73.96       75.0        74.44       
+LTC / EUR     BitBay        72.27       70.4        82.46       60.48       72.27       70.4        
+LTC / EUR     Quoinex       0           0           0           0           0           0           
+ETH / EUR     Bitfinex      416.5       416.48      416.5       416.48      416.5       416.48      
+ETH / EUR     Kraken        412.97      412.8       412.97      412.8       412.97      412.8       
+ETH / EUR     Bitstamp      413.0       412.2       413.0       412.2       413.0       412.2       
+ETH / EUR     Gdax          413.17      413.07      413.17      413.04      413.17      413.07      
+ETH / EUR     Bl3p          0           0           0           0           0           0           
+ETH / EUR     theRock       416.99      411.67      417.0       411.67      416.99      411.67      
+ETH / EUR     Cex           410.0       409.92      412.49      409.9       410.0       409.92      
+ETH / EUR     Wex           428.99      425.92      430.52      424.35      428.99      425.92      
+ETH / EUR     BitBay        414.96      407.37      414.96      406.69      414.96      407.37      
+ETH / EUR     Quoinex       412.66      411.58      452.23      411.58      412.66      411.58      
+
+-----------------------------------     -------------------------     -------------------------     
+     ------ ARBITRAGE ------            Potential Opportunities          Current Positions          
+-----------------------------------     --------------------------    -------------------------     
+----------    ------      ------      ------    ------    ------    ------    ------    ------
+Instrument     Long        Short      Spread    Target     Max       Spread   Target     Min
+----------    ------      ------      ------    ------    ------    ------    ------    ------
+ETH / EUR     Cex         Bitfinex    0.97 %    1.1 %     0.98 %       -         -         -   
+BTC / EUR     Quoinex     Bitfinex    0.95 %    0.67 %    0.95 %       -         -         -   
+ETH / EUR     Kraken      Bitfinex    0.85 %    1.12 %    0.9 %        -         -         -   
+ETH / EUR     Bitstamp    Bitfinex    0.84 %    1.1 %     0.84 %       -         -         -   
+ETH / EUR     Gdax        Bitfinex    0.8 %     0.85 %    0.83 %       -         -         -   
+BTC / EUR     Gdax        Bitfinex    0.72 %    0.85 %    0.73 %       -         -         -   
+BTC / EUR     Kraken      Bitfinex    0.71 %    1.12 %    0.71 %       -         -         -   
+BTC / EUR     Bitstamp    Bitfinex    0.69 %    1.1 %     0.77 %       -         -         -   
+BTC / EUR     Cex         Bitfinex    0.64 %    1.1 %     0.64 %       -         -         -   
+BTC / EUR     Bl3p        Bitfinex    0.46 %    1.1 %     0.46 %       -         -         -   
+ETH / EUR     BitBay      Bitfinex    0.37 %    1.46 %    0.38 %       -         -         -   
+BTC / EUR     Quoinex     Kraken      0.24 %    0.72 %    0.25 %       -         -         -   
+BTC / EUR     theRock     Bitfinex    0.1 %     1.0 %     0.1 %        -         -         -   
+ETH / EUR     Cex         Kraken      0.08 %    1.22 %    0.08 %       -         -         -   
+BTC / EUR     Gdax        Kraken      0.01 %    0.97 %    0.05 %       -         -         -   
+BTC / EUR     Bitstamp    Kraken      -0.02 %   1.22 %    0.01 %       -         -         -   
+ETH / EUR     Bitstamp    Kraken      -0.05 %   1.22 %    -0.05 %      -         -         -   
+BTC / EUR     Cex         Kraken      -0.08 %   1.22 %    -0.06 %      -         -         -   
+ETH / EUR     Gdax        Kraken      -0.09 %   0.97 %    -0.09 %      -         -         -   
+ETH / EUR     theRock     Bitfinex    -0.12 %   1.0 %     -0.12 %      -         -         -   
+BTC / EUR     Quoinex     Cex         -0.14 %   0.7 %     -0.08 %      -         -         -   
+BTC / EUR     Bl3p        Kraken      -0.25 %   1.22 %    -0.25 %      -         -         -   
+BTC / EUR     Gdax        Cex         -0.37 %   0.95 %    -0.29 %      -         -         -   
+BTC / EUR     Kraken      Cex         -0.38 %   1.22 %    -0.33 %      -         -         -   
+BTC / EUR     Bitstamp    Cex         -0.4 %    1.2 %     -0.24 %      -         -         -   
+ETH / EUR     BitBay      Kraken      -0.52 %   1.58 %    -0.52 %      -         -         -   
+BTC / EUR     theRock     Kraken      -0.61 %   1.12 %    -0.61 %      -         -         -   
+BTC / EUR     Bl3p        Cex         -0.63 %   1.2 %     -0.58 %      -         -         -   
+BTC / EUR     Bitfinex    Kraken      -0.71 %   1.12 %    -0.67 %      -         -         -   
+ETH / EUR     Bitfinex    Kraken      -0.89 %   1.12 %    -0.89 %      -         -         -   
+BTC / EUR     Gdax        Quoinex     -0.94 %   0.82 %    -0.92 %      -         -         -   
+BTC / EUR     Kraken      Quoinex     -0.95 %   0.72 %    -0.95 %      -         -         -   
+BTC / EUR     Bitstamp    Quoinex     -0.98 %   0.7 %     -0.88 %      -         -         -   
+BTC / EUR     theRock     Cex         -0.99 %   1.1 %     -0.93 %      -         -         -   
+ETH / EUR     theRock     Kraken      -1.01 %   1.12 %    -1.01 %      -         -         -   
+BTC / EUR     Cex         Quoinex     -1.03 %   0.7 %     -1.03 %      -         -         -   
+BTC / EUR     Bitfinex    Cex         -1.09 %   1.1 %     -1.01 %      -         -         -   
+BTC / EUR     BitBay      Bitfinex    -1.12 %   1.46 %    0.62 %       -         -         -   
+BTC / EUR     Bl3p        Quoinex     -1.2 %    0.7 %     -1.2 %       -         -         -   
+BTC / EUR     theRock     Quoinex     -1.56 %   0.67 %    -1.56 %      -         -         -   
+BTC / EUR     Bitfinex    Quoinex     -1.66 %   0.67 %    -1.63 %      -         -         -   
+BTC / EUR     BitBay      Kraken      -1.82 %   1.58 %    -0.07 %      -         -         -   
+BTC / EUR     BitBay      Cex         -2.19 %   1.56 %    -0.39 %      -         -         -   
+BTC / EUR     BitBay      Quoinex     -2.75 %   1.06 %    -1.03 %      -         -         -   
+ETH / EUR     Wex         Bitfinex    -3.26 %   1.0 %     -3.26 %      -         -         -   
+BTC / EUR     Wex         Bitfinex    -3.69 %   1.0 %     -3.67 %      -         -         -   
+ETH / EUR     Wex         Kraken      -4.12 %   1.12 %    -4.12 %      -         -         -   
+BTC / EUR     Wex         Kraken      -4.37 %   1.12 %    -4.34 %      -         -         -   
+BTC / EUR     Wex         Cex         -4.73 %   1.1 %     -4.64 %      -         -         -   
+BTC / EUR     Wex         Quoinex     -5.28 %   0.67 %    -5.25 %      -         -         -   
+ETH / EUR     Quoinex     Bitfinex    -7.91 %   0.67 %    -7.91 %      -         -         -   
+ETH / EUR     Quoinex     Kraken      -8.72 %   0.72 %    -8.72 %      -         -         -   
+
+
+
+Total Profit Since Running: 0.0 Euro
+
+Time to execute loop is: 0:02:07.433000s
+
+Scanning Markets
+
+2018-07-08 10:56:01.011000
+
+-------------------   ------------   ------------   ------------   ------------   
+Exchange Balances      EUR Balance    BTC Balance    LTC Balance    ETH Balance   
+-------------------   ------------   ------------   ------------   ------------   
+Bitfinex              103.75         0.0            0.0            0.0            
+Kraken                130.01         0.0            0.0            0.0            
+Bitstamp              0.0            0.0            0.0            0.0            
+Gdax                  146.94         0.0            0.0            0.0            
+Bl3p                  100.75         0.0            0.0            0.0            
+theRock               138.19         6.584e-05      0.0            0.0            
+Cex                   143.34         0.0            0.0            0.0            
+Wex                   108.51         0.0            0.0            0.0            
+BitBay                128.98         7.529e-05      0.0            0.0            
+Quoinex               97.7           0.0            0.0            0.0            
+-----------   -----------   --------    --------    --------    --------    --------    --------    
+Instrument    Exchange        Ask         Bid       Entry Ask   Entry Bid   Exit Ask    Exit Bid    
+-----------   -----------   --------    --------    --------    --------    --------    --------    
+BTC / EUR     Bitfinex      5778.0      5777.9      5778.0      5777.9      5778.0      5777.9      
+BTC / EUR     Kraken        5737.0      5736.9      5737.0      5736.9      5737.0      5736.9      
+BTC / EUR     Bitstamp      5739.72     5730.95     5739.72     5730.95     5739.72     5730.95     
+BTC / EUR     Gdax          5735.94     5735.33     5735.94     5735.33     5735.94     5735.33     
+BTC / EUR     Bl3p          5751.34     5732.2      5751.34     5732.2      5751.34     5732.2      
+BTC / EUR     theRock       5771.87     5725.73     5771.89     5725.73     5771.87     5725.73     
+BTC / EUR     Cex           5740.8      5707.2      5741.21     5707.2      5740.8      5707.2      
+BTC / EUR     Wex           5996.9      5957.35     5999.07     5957.35     5996.9      5957.35     
+BTC / EUR     BitBay        5729.79     5670.0      5843.14     5670.0      5729.79     5670.0      
+BTC / EUR     Quoinex       5723.26     5682.32     5723.26     5682.31     5723.26     5682.32     
+LTC / EUR     Bitfinex      0           0           0           0           0           0           
+LTC / EUR     Kraken        71.45       71.27       71.45       71.27       71.45       71.27       
+LTC / EUR     Bitstamp      71.36       71.18       71.36       71.18       71.36       71.18       
+LTC / EUR     Gdax          71.45       71.27       71.45       71.27       71.45       71.27       
+LTC / EUR     Bl3p          71.48       71.28       71.48       71.28       71.48       71.28       
+LTC / EUR     theRock       72.12       71.15       72.12       71.15       72.12       71.15       
+LTC / EUR     Cex           0           0           0           0           0           0           
+LTC / EUR     Wex           75.0        74.44       75.15       74.17       75.0        74.44       
+LTC / EUR     BitBay        72.27       70.4        82.46       60.48       72.27       70.4        
+LTC / EUR     Quoinex       0           0           0           0           0           0           
+ETH / EUR     Bitfinex      416.5       416.49      416.5       416.49      416.5       416.49      
+ETH / EUR     Kraken        412.95      412.8       412.98      412.8       412.95      412.8       
+ETH / EUR     Bitstamp      413.0       412.26      413.0       412.26      413.0       412.26      
+ETH / EUR     Gdax          413.17      413.08      413.17      413.08      413.17      413.08      
+ETH / EUR     Bl3p          0           0           0           0           0           0           
+ETH / EUR     theRock       417.5       411.78      417.51      411.78      417.5       411.78      
+ETH / EUR     Cex           410.0       409.93      412.49      408.93      410.0       409.93      
+ETH / EUR     Wex           429.21      426.6       430.54      424.78      429.21      426.6       
+ETH / EUR     BitBay        415.0       407.37      424.65      401.68      415.0       407.37      
+ETH / EUR     Quoinex       412.66      411.58      453.01      411.58      412.66      411.58      
+
+-----------------------------------     -------------------------     -------------------------     
+     ------ ARBITRAGE ------            Potential Opportunities          Current Positions          
+-----------------------------------     --------------------------    -------------------------     
+----------    ------      ------      ------    ------    ------    ------    ------    ------
+Instrument     Long        Short      Spread    Target     Max       Spread   Target     Min
+----------    ------      ------      ------    ------    ------    ------    ------    ------
+ETH / EUR     Cex         Bitfinex    0.97 %    1.1 %     0.98 %       -         -         -   
+BTC / EUR     Quoinex     Bitfinex    0.95 %    0.72 %    0.95 %       -         -         -   
+ETH / EUR     Kraken      Bitfinex    0.85 %    1.12 %    0.9 %        -         -         -   
+ETH / EUR     Bitstamp    Bitfinex    0.85 %    1.1 %     0.85 %       -         -         -   
+ETH / EUR     Gdax        Bitfinex    0.8 %     0.85 %    0.83 %       -         -         -   
+BTC / EUR     Gdax        Bitfinex    0.73 %    0.85 %    0.73 %       -         -         -   
+BTC / EUR     Kraken      Bitfinex    0.71 %    1.12 %    0.71 %       -         -         -   
+BTC / EUR     Bitstamp    Bitfinex    0.67 %    1.1 %     0.77 %       -         -         -   
+BTC / EUR     Cex         Bitfinex    0.64 %    1.1 %     0.64 %       -         -         -   
+BTC / EUR     Bl3p        Bitfinex    0.46 %    1.1 %     0.46 %       -         -         -   
+BTC / EUR     Quoinex     Kraken      0.24 %    0.72 %    0.25 %       -         -         -   
+BTC / EUR     theRock     Bitfinex    0.1 %     1.0 %     0.1 %        -         -         -   
+ETH / EUR     Cex         Kraken      0.08 %    1.22 %    0.08 %       -         -         -   
+BTC / EUR     Gdax        Kraken      0.02 %    0.97 %    0.05 %       -         -         -   
+ETH / EUR     Bitstamp    Kraken      -0.05 %   1.22 %    -0.05 %      -         -         -   
+BTC / EUR     Bitstamp    Kraken      -0.05 %   1.22 %    0.01 %       -         -         -   
+BTC / EUR     Cex         Kraken      -0.08 %   1.22 %    -0.06 %      -         -         -   
+ETH / EUR     Gdax        Kraken      -0.09 %   0.97 %    -0.09 %      -         -         -   
+ETH / EUR     theRock     Bitfinex    -0.24 %   1.0 %     -0.12 %      -         -         -   
+BTC / EUR     Bl3p        Kraken      -0.25 %   1.22 %    -0.25 %      -         -         -   
+BTC / EUR     Quoinex     Cex         -0.28 %   0.7 %     -0.08 %      -         -         -   
+BTC / EUR     Gdax        Cex         -0.5 %    0.95 %    -0.29 %      -         -         -   
+BTC / EUR     Kraken      Cex         -0.52 %   1.22 %    -0.33 %      -         -         -   
+BTC / EUR     Bitstamp    Cex         -0.57 %   1.2 %     -0.24 %      -         -         -   
+BTC / EUR     theRock     Kraken      -0.61 %   1.12 %    -0.61 %      -         -         -   
+BTC / EUR     Bitfinex    Kraken      -0.71 %   1.12 %    -0.67 %      -         -         -   
+BTC / EUR     Bl3p        Cex         -0.77 %   1.2 %     -0.58 %      -         -         -   
+ETH / EUR     Bitfinex    Kraken      -0.89 %   1.12 %    -0.89 %      -         -         -   
+BTC / EUR     Gdax        Quoinex     -0.93 %   0.87 %    -0.92 %      -         -         -   
+BTC / EUR     Kraken      Quoinex     -0.95 %   0.72 %    -0.95 %      -         -         -   
+BTC / EUR     Bitstamp    Quoinex     -1.0 %    0.7 %     -0.88 %      -         -         -   
+BTC / EUR     Cex         Quoinex     -1.03 %   0.7 %     -1.03 %      -         -         -   
+BTC / EUR     BitBay      Bitfinex    -1.12 %   1.46 %    0.62 %       -         -         -   
+BTC / EUR     theRock     Cex         -1.12 %   1.1 %     -0.93 %      -         -         -   
+ETH / EUR     theRock     Kraken      -1.13 %   1.12 %    -1.01 %      -         -         -   
+BTC / EUR     Bl3p        Quoinex     -1.2 %    0.7 %     -1.2 %       -         -         -   
+BTC / EUR     Bitfinex    Cex         -1.23 %   1.1 %     -1.01 %      -         -         -   
+BTC / EUR     theRock     Quoinex     -1.55 %   0.72 %    -1.55 %      -         -         -   
+BTC / EUR     Bitfinex    Quoinex     -1.66 %   0.72 %    -1.63 %      -         -         -   
+BTC / EUR     BitBay      Kraken      -1.82 %   1.58 %    -0.07 %      -         -         -   
+ETH / EUR     BitBay      Bitfinex    -1.92 %   1.46 %    0.38 %       -         -         -   
+BTC / EUR     BitBay      Cex         -2.33 %   1.56 %    -0.39 %      -         -         -   
+BTC / EUR     BitBay      Quoinex     -2.75 %   1.06 %    -1.03 %      -         -         -   
+ETH / EUR     BitBay      Kraken      -2.79 %   1.58 %    -0.52 %      -         -         -   
+ETH / EUR     Wex         Bitfinex    -3.26 %   1.0 %     -3.26 %      -         -         -   
+BTC / EUR     Wex         Bitfinex    -3.69 %   1.0 %     -3.67 %      -         -         -   
+ETH / EUR     Wex         Kraken      -4.12 %   1.12 %    -4.12 %      -         -         -   
+BTC / EUR     Wex         Kraken      -4.37 %   1.12 %    -4.34 %      -         -         -   
+BTC / EUR     Wex         Cex         -4.87 %   1.1 %     -4.64 %      -         -         -   
+BTC / EUR     Wex         Quoinex     -5.28 %   0.72 %    -5.25 %      -         -         -   
+ETH / EUR     Quoinex     Bitfinex    -8.06 %   0.72 %    -7.91 %      -         -         -   
+ETH / EUR     Quoinex     Kraken      -8.88 %   0.72 %    -8.72 %      -         -         -   
+
+
+
+Total Profit Since Running: 0.0 Euro
+
+Time to execute loop is: 0:02:53.969000s
+
+Scanning Markets
+
+2018-07-08 10:59:03.023000
+
+-------------------   ------------   ------------   ------------   ------------   
+Exchange Balances      EUR Balance    BTC Balance    LTC Balance    ETH Balance   
+-------------------   ------------   ------------   ------------   ------------   
+Bitfinex              103.75         0.0            0.0            0.0            
+Kraken                130.01         0.0            0.0            0.0            
+Bitstamp              0.0            0.0            0.0            0.0            
+Gdax                  146.94         0.0            0.0            0.0            
+Bl3p                  100.75         0.0            0.0            0.0            
+theRock               138.19         6.584e-05      0.0            0.0            
+Cex                   143.34         0.0            0.0            0.0            
+Wex                   108.51         0.0            0.0            0.0            
+BitBay                128.98         7.529e-05      0.0            0.0            
+Quoinex               97.7           0.0            0.0            0.0            
+-----------   -----------   --------    --------    --------    --------    --------    --------    
+Instrument    Exchange        Ask         Bid       Entry Ask   Entry Bid   Exit Ask    Exit Bid    
+-----------   -----------   --------    --------    --------    --------    --------    --------    
+BTC / EUR     Bitfinex      5778.0      5777.9      5778.0      5777.9      5778.0      5777.9      
+BTC / EUR     Kraken        5737.0      5736.9      5737.0      5736.9      5737.0      5736.9      
+BTC / EUR     Bitstamp      5739.43     5730.1      5739.43     5730.1      5739.43     5730.1      
+BTC / EUR     Gdax          5735.32     5735.31     5736.35     5735.31     5735.32     5735.31     
+BTC / EUR     Bl3p          5751.34     5732.2      5751.34     5732.2      5751.34     5732.2      
+BTC / EUR     theRock       5771.69     5744.25     5779.89     5725.76     5771.69     5744.25     
+BTC / EUR     Cex           5740.8      5704.8      5741.21     5704.8      5740.8      5704.8      
+BTC / EUR     Wex           5996.29     5957.35     5998.03     5957.35     5996.29     5957.35     
+BTC / EUR     BitBay        5729.79     5670.0      5843.2      5670.0      5729.79     5670.0      
+BTC / EUR     Quoinex       5723.11     5682.03     5723.11     5682.03     5723.11     5682.03     
+LTC / EUR     Bitfinex      0           0           0           0           0           0           
+LTC / EUR     Kraken        71.42       71.24       71.42       71.24       71.42       71.24       
+LTC / EUR     Bitstamp      71.36       71.16       71.36       71.16       71.36       71.16       
+LTC / EUR     Gdax          71.45       71.27       71.45       71.2        71.45       71.27       
+LTC / EUR     Bl3p          71.48       71.28       71.48       71.28       71.48       71.28       
+LTC / EUR     theRock       72.15       71.15       72.15       71.15       72.15       71.15       
+LTC / EUR     Cex           0           0           0           0           0           0           
+LTC / EUR     Wex           75.0        74.44       75.15       74.17       75.0        74.44       
+LTC / EUR     BitBay        72.27       70.4        82.46       60.48       72.27       70.4        
+LTC / EUR     Quoinex       0           0           0           0           0           0           
+ETH / EUR     Bitfinex      416.5       416.48      416.5       416.48      416.5       416.48      
+ETH / EUR     Kraken        412.71      412.47      412.71      412.47      412.71      412.47      
+ETH / EUR     Bitstamp      413.0       412.2       413.0       412.2       413.0       412.2       
+ETH / EUR     Gdax          0           0           0           0           0           0           
+ETH / EUR     Bl3p          0           0           0           0           0           0           
+ETH / EUR     theRock       417.5       411.94      417.54      411.94      417.5       411.94      
+ETH / EUR     Cex           410.0       409.99      412.49      409.13      410.0       409.99      
+ETH / EUR     Wex           429.59      427.29      430.66      424.4       429.59      427.29      
+ETH / EUR     BitBay        414.92      407.37      414.92      406.92      414.92      407.37      
+ETH / EUR     Quoinex       412.66      411.58      452.92      411.58      412.66      411.58      
+
+-----------------------------------     -------------------------     -------------------------     
+     ------ ARBITRAGE ------            Potential Opportunities          Current Positions          
+-----------------------------------     --------------------------    -------------------------     
+----------    ------      ------      ------    ------    ------    ------    ------    ------
+Instrument     Long        Short      Spread    Target     Max       Spread   Target     Min
+----------    ------      ------      ------    ------    ------    ------    ------    ------
+ETH / EUR     Cex         Bitfinex    0.97 %    1.1 %     0.98 %       -         -         -   
+BTC / EUR     Quoinex     Bitfinex    0.96 %    0.75 %    0.96 %       -         -         -   
+ETH / EUR     Kraken      Bitfinex    0.91 %    1.12 %    0.91 %       -         -         -   
+ETH / EUR     Bitstamp    Bitfinex    0.84 %    1.1 %     0.85 %       -         -         -   
+ETH / EUR     Gdax        Bitfinex    0.8 %     0.85 %    0.83 %       -         -         -   
+BTC / EUR     Gdax        Bitfinex    0.72 %    0.85 %    0.73 %       -         -         -   
+BTC / EUR     Kraken      Bitfinex    0.71 %    1.12 %    0.71 %       -         -         -   
+BTC / EUR     Bitstamp    Bitfinex    0.67 %    1.1 %     0.77 %       -         -         -   
+BTC / EUR     Cex         Bitfinex    0.64 %    1.1 %     0.64 %       -         -         -   
+BTC / EUR     Bl3p        Bitfinex    0.46 %    1.1 %     0.46 %       -         -         -   
+ETH / EUR     BitBay      Bitfinex    0.38 %    1.46 %    0.38 %       -         -         -   
+BTC / EUR     Quoinex     Kraken      0.24 %    0.72 %    0.25 %       -         -         -   
+BTC / EUR     Gdax        Kraken      0.01 %    0.97 %    0.05 %       -         -         -   
+ETH / EUR     Cex         Kraken      -0.0 %    1.22 %    0.08 %       -         -         -   
+BTC / EUR     theRock     Bitfinex    -0.03 %   1.0 %     0.1 %        -         -         -   
+BTC / EUR     Bitstamp    Kraken      -0.04 %   1.22 %    0.01 %       -         -         -   
+BTC / EUR     Cex         Kraken      -0.08 %   1.22 %    -0.06 %      -         -         -   
+ETH / EUR     Gdax        Kraken      -0.09 %   0.97 %    -0.09 %      -         -         -   
+ETH / EUR     Bitstamp    Kraken      -0.13 %   1.22 %    -0.05 %      -         -         -   
+BTC / EUR     Bl3p        Kraken      -0.25 %   1.22 %    -0.25 %      -         -         -   
+ETH / EUR     theRock     Bitfinex    -0.25 %   1.0 %     -0.12 %      -         -         -   
+BTC / EUR     Quoinex     Cex         -0.32 %   0.7 %     -0.08 %      -         -         -   
+BTC / EUR     Gdax        Cex         -0.55 %   0.95 %    -0.29 %      -         -         -   
+BTC / EUR     Kraken      Cex         -0.56 %   1.22 %    -0.33 %      -         -         -   
+ETH / EUR     BitBay      Kraken      -0.59 %   1.58 %    -0.52 %      -         -         -   
+BTC / EUR     Bitstamp    Cex         -0.6 %    1.2 %     -0.24 %      -         -         -   
+BTC / EUR     Bitfinex    Kraken      -0.71 %   1.12 %    -0.67 %      -         -         -   
+BTC / EUR     theRock     Kraken      -0.74 %   1.12 %    -0.61 %      -         -         -   
+BTC / EUR     Bl3p        Cex         -0.81 %   1.2 %     -0.58 %      -         -         -   
+BTC / EUR     Gdax        Quoinex     -0.95 %   0.9 %     -0.92 %      -         -         -   
+BTC / EUR     Kraken      Quoinex     -0.96 %   0.72 %    -0.95 %      -         -         -   
+ETH / EUR     Bitfinex    Kraken      -0.97 %   1.12 %    -0.89 %      -         -         -   
+BTC / EUR     Bitstamp    Quoinex     -1.0 %    0.7 %     -0.88 %      -         -         -   
+BTC / EUR     Cex         Quoinex     -1.03 %   0.7 %     -1.03 %      -         -         -   
+BTC / EUR     BitBay      Bitfinex    -1.12 %   1.46 %    0.62 %       -         -         -   
+BTC / EUR     Bl3p        Quoinex     -1.21 %   0.7 %     -1.2 %       -         -         -   
+ETH / EUR     theRock     Kraken      -1.21 %   1.12 %    -1.01 %      -         -         -   
+BTC / EUR     Bitfinex    Cex         -1.27 %   1.1 %     -1.01 %      -         -         -   
+BTC / EUR     theRock     Cex         -1.3 %    1.1 %     -0.93 %      -         -         -   
+BTC / EUR     Bitfinex    Quoinex     -1.66 %   0.75 %    -1.63 %      -         -         -   
+BTC / EUR     theRock     Quoinex     -1.69 %   0.75 %    -1.55 %      -         -         -   
+BTC / EUR     BitBay      Kraken      -1.82 %   1.58 %    -0.07 %      -         -         -   
+BTC / EUR     BitBay      Cex         -2.37 %   1.56 %    -0.39 %      -         -         -   
+BTC / EUR     BitBay      Quoinex     -2.76 %   1.06 %    -1.03 %      -         -         -   
+ETH / EUR     Wex         Bitfinex    -3.29 %   1.0 %     -3.26 %      -         -         -   
+BTC / EUR     Wex         Bitfinex    -3.67 %   1.0 %     -3.67 %      -         -         -   
+ETH / EUR     Wex         Kraken      -4.22 %   1.12 %    -4.12 %      -         -         -   
+BTC / EUR     Wex         Kraken      -4.35 %   1.12 %    -4.34 %      -         -         -   
+BTC / EUR     Wex         Cex         -4.89 %   1.1 %     -4.64 %      -         -         -   
+BTC / EUR     Wex         Quoinex     -5.27 %   0.75 %    -5.25 %      -         -         -   
+ETH / EUR     Quoinex     Bitfinex    -8.05 %   0.75 %    -7.91 %      -         -         -   
+ETH / EUR     Quoinex     Kraken      -8.93 %   0.72 %    -8.72 %      -         -         -   
+
+
+
+Total Profit Since Running: 0.0 Euro
+
+Time to execute loop is: 0:01:46.720000s
+
+Scanning Markets
+
+2018-07-08 11:00:57.787000
+
+-------------------   ------------   ------------   ------------   ------------   
+Exchange Balances      EUR Balance    BTC Balance    LTC Balance    ETH Balance   
+-------------------   ------------   ------------   ------------   ------------   
+Bitfinex              103.75         0.0            0.0            0.0            
+Kraken                130.01         0.0            0.0            0.0            
+Bitstamp              0.0            0.0            0.0            0.0            
+Gdax                  146.94         0.0            0.0            0.0            
+Bl3p                  100.75         0.0            0.0            0.0            
+theRock               138.19         6.584e-05      0.0            0.0            
+Cex                   143.34         0.0            0.0            0.0            
+Wex                   108.51         0.0            0.0            0.0            
+BitBay                128.98         7.529e-05      0.0            0.0            
+Quoinex               97.7           0.0            0.0            0.0            
+-----------   -----------   --------    --------    --------    --------    --------    --------    
+Instrument    Exchange        Ask         Bid       Entry Ask   Entry Bid   Exit Ask    Exit Bid    
+-----------   -----------   --------    --------    --------    --------    --------    --------    
+BTC / EUR     Bitfinex      5777.9      5777.8      5777.9      5777.8      5777.9      5777.8      
+BTC / EUR     Kraken        5737.0      5736.9      5737.0      5736.9      5737.0      5736.9      
+BTC / EUR     Bitstamp      5736.33     5728.42     5736.33     5728.42     5736.33     5728.42     
+BTC / EUR     Gdax          5736.41     5735.59     5736.41     5735.59     5736.41     5735.59     
+BTC / EUR     Bl3p          5748.38     5729.91     5748.38     5729.91     5748.38     5729.91     
+BTC / EUR     theRock       5771.56     5725.74     5779.9      5725.73     5771.56     5725.74     
+BTC / EUR     Cex           5740.8      5702.1      5741.21     5702.1      5740.8      5702.1      
+BTC / EUR     Wex           6001.46     5957.35     6006.75     5939.34     6001.46     5957.35     
+BTC / EUR     BitBay        5729.79     5670.0      5739.18     5670.0      5729.79     5670.0      
+BTC / EUR     Quoinex       5723.04     5682.1      5723.04     5682.1      5723.04     5682.1      
+LTC / EUR     Bitfinex      0           0           0           0           0           0           
+LTC / EUR     Kraken        71.42       71.25       71.42       71.25       71.42       71.25       
+LTC / EUR     Bitstamp      71.36       71.17       71.36       71.17       71.36       71.17       
+LTC / EUR     Gdax          71.45       71.27       71.45       71.04       71.45       71.27       
+LTC / EUR     Bl3p          71.48       71.28       71.48       71.28       71.48       71.28       
+LTC / EUR     theRock       72.15       71.15       72.15       71.15       72.15       71.15       
+LTC / EUR     Cex           0           0           0           0           0           0           
+LTC / EUR     Wex           75.0        74.44       75.15       74.05       75.0        74.44       
+LTC / EUR     BitBay        72.27       70.4        82.46       60.48       72.27       70.4        
+LTC / EUR     Quoinex       0           0           0           0           0           0           
+ETH / EUR     Bitfinex      416.5       416.48      416.5       416.48      416.5       416.48      
+ETH / EUR     Kraken        412.71      412.53      412.71      412.53      412.71      412.53      
+ETH / EUR     Bitstamp      413.0       411.92      413.0       411.92      413.0       411.92      
+ETH / EUR     Gdax          413.15      412.54      413.15      412.54      413.15      412.54      
+ETH / EUR     Bl3p          0           0           0           0           0           0           
+ETH / EUR     theRock       417.53      411.94      417.54      411.94      417.53      411.94      
+ETH / EUR     Cex           410.0       409.85      412.27      408.57      410.0       409.85      
+ETH / EUR     Wex           430.71      427.29      433.65      424.41      430.71      427.29      
+ETH / EUR     BitBay        414.96      407.37      414.96      407.05      414.96      407.37      
+ETH / EUR     Quoinex       412.66      411.59      452.93      411.59      412.66      411.59      
+
+-----------------------------------     -------------------------     -------------------------     
+     ------ ARBITRAGE ------            Potential Opportunities          Current Positions          
+-----------------------------------     --------------------------    -------------------------     
+----------    ------      ------      ------    ------    ------    ------    ------    ------
+Instrument     Long        Short      Spread    Target     Max       Spread   Target     Min
+----------    ------      ------      ------    ------    ------    ------    ------    ------
+ETH / EUR     Cex         Bitfinex    1.02 %    1.1 %     1.02 %       -         -         -   
+BTC / EUR     Quoinex     Bitfinex    0.96 %    0.88 %    0.96 %       -         -         -   
+ETH / EUR     Kraken      Bitfinex    0.91 %    1.12 %    0.91 %       -         -         -   
+ETH / EUR     Bitstamp    Bitfinex    0.84 %    1.1 %     0.85 %       -         -         -   
+ETH / EUR     Gdax        Bitfinex    0.81 %    0.85 %    0.83 %       -         -         -   
+BTC / EUR     Bitstamp    Bitfinex    0.72 %    1.1 %     0.77 %       -         -         -   
+BTC / EUR     Gdax        Bitfinex    0.72 %    0.85 %    0.73 %       -         -         -   
+BTC / EUR     Kraken      Bitfinex    0.71 %    1.12 %    0.71 %       -         -         -   
+BTC / EUR     BitBay      Bitfinex    0.67 %    1.46 %    0.67 %       -         -         -   
+BTC / EUR     Cex         Bitfinex    0.64 %    1.1 %     0.64 %       -         -         -   
+BTC / EUR     Bl3p        Bitfinex    0.51 %    1.1 %     0.51 %       -         -         -   
+ETH / EUR     BitBay      Bitfinex    0.37 %    1.46 %    0.38 %       -         -         -   
+BTC / EUR     Quoinex     Kraken      0.24 %    0.76 %    0.25 %       -         -         -   
+ETH / EUR     Cex         Kraken      0.06 %    1.22 %    0.08 %       -         -         -   
+BTC / EUR     Bitstamp    Kraken      0.01 %    1.22 %    0.01 %       -         -         -   
+BTC / EUR     Gdax        Kraken      0.01 %    0.97 %    0.05 %       -         -         -   
+BTC / EUR     theRock     Bitfinex    -0.04 %   1.0 %     0.1 %        -         -         -   
+BTC / EUR     BitBay      Kraken      -0.04 %   1.58 %    -0.04 %      -         -         -   
+BTC / EUR     Cex         Kraken      -0.08 %   1.22 %    -0.06 %      -         -         -   
+ETH / EUR     Bitstamp    Kraken      -0.11 %   1.22 %    -0.05 %      -         -         -   
+ETH / EUR     Gdax        Kraken      -0.15 %   0.97 %    -0.09 %      -         -         -   
+BTC / EUR     Bl3p        Kraken      -0.2 %    1.22 %    -0.2 %       -         -         -   
+ETH / EUR     theRock     Bitfinex    -0.25 %   1.0 %     -0.12 %      -         -         -   
+BTC / EUR     Quoinex     Cex         -0.37 %   0.78 %    -0.08 %      -         -         -   
+ETH / EUR     BitBay      Kraken      -0.59 %   1.58 %    -0.52 %      -         -         -   
+BTC / EUR     Bitstamp    Cex         -0.6 %    1.2 %     -0.24 %      -         -         -   
+BTC / EUR     Gdax        Cex         -0.6 %    0.95 %    -0.29 %      -         -         -   
+BTC / EUR     Kraken      Cex         -0.61 %   1.22 %    -0.33 %      -         -         -   
+BTC / EUR     BitBay      Cex         -0.65 %   1.56 %    -0.39 %      -         -         -   
+BTC / EUR     Bitfinex    Kraken      -0.71 %   1.12 %    -0.67 %      -         -         -   
+BTC / EUR     theRock     Kraken      -0.74 %   1.12 %    -0.61 %      -         -         -   
+BTC / EUR     Bl3p        Cex         -0.81 %   1.2 %     -0.58 %      -         -         -   
+BTC / EUR     Bitstamp    Quoinex     -0.95 %   0.78 %    -0.88 %      -         -         -   
+BTC / EUR     Gdax        Quoinex     -0.95 %   1.03 %    -0.92 %      -         -         -   
+ETH / EUR     Bitfinex    Kraken      -0.95 %   1.12 %    -0.89 %      -         -         -   
+BTC / EUR     Kraken      Quoinex     -0.96 %   0.76 %    -0.95 %      -         -         -   
+BTC / EUR     BitBay      Quoinex     -0.99 %   1.06 %    -0.99 %      -         -         -   
+BTC / EUR     Cex         Quoinex     -1.03 %   0.78 %    -1.03 %      -         -         -   
+BTC / EUR     Bl3p        Quoinex     -1.15 %   0.78 %    -1.15 %      -         -         -   
+ETH / EUR     theRock     Kraken      -1.2 %    1.12 %    -1.01 %      -         -         -   
+BTC / EUR     Bitfinex    Cex         -1.31 %   1.1 %     -1.01 %      -         -         -   
+BTC / EUR     theRock     Cex         -1.35 %   1.1 %     -0.93 %      -         -         -   
+BTC / EUR     Bitfinex    Quoinex     -1.66 %   0.88 %    -1.63 %      -         -         -   
+BTC / EUR     theRock     Quoinex     -1.69 %   0.88 %    -1.55 %      -         -         -   
+BTC / EUR     Wex         Bitfinex    -3.81 %   1.0 %     -3.67 %      -         -         -   
+ETH / EUR     Wex         Bitfinex    -3.96 %   1.0 %     -3.26 %      -         -         -   
+BTC / EUR     Wex         Kraken      -4.49 %   1.12 %    -4.34 %      -         -         -   
+ETH / EUR     Wex         Kraken      -4.87 %   1.12 %    -4.12 %      -         -         -   
+BTC / EUR     Wex         Cex         -5.07 %   1.1 %     -4.64 %      -         -         -   
+BTC / EUR     Wex         Quoinex     -5.4 %    0.88 %    -5.25 %      -         -         -   
+ETH / EUR     Quoinex     Bitfinex    -8.05 %   0.88 %    -7.91 %      -         -         -   
+ETH / EUR     Quoinex     Kraken      -8.92 %   0.76 %    -8.72 %      -         -         -   
+
+
+
+Total Profit Since Running: 0.0 Euro
+
+Time to execute loop is: 0:02:00.545000s
+
+Scanning Markets
+
+2018-07-08 11:03:06.377000
+
+-------------------   ------------   ------------   ------------   ------------   
+Exchange Balances      EUR Balance    BTC Balance    LTC Balance    ETH Balance   
+-------------------   ------------   ------------   ------------   ------------   
+Bitfinex              103.75         0.0            0.0            0.0            
+Kraken                130.01         0.0            0.0            0.0            
+Bitstamp              0.0            0.0            0.0            0.0            
+Gdax                  146.94         0.0            0.0            0.0            
+Bl3p                  100.75         0.0            0.0            0.0            
+theRock               138.19         6.584e-05      0.0            0.0            
+Cex                   143.34         0.0            0.0            0.0            
+Wex                   108.51         0.0            0.0            0.0            
+BitBay                128.98         7.529e-05      0.0            0.0            
+Quoinex               97.7           0.0            0.0            0.0            
+-----------   -----------   --------    --------    --------    --------    --------    --------    
+Instrument    Exchange        Ask         Bid       Entry Ask   Entry Bid   Exit Ask    Exit Bid    
+-----------   -----------   --------    --------    --------    --------    --------    --------    
+BTC / EUR     Bitfinex      5777.9      5777.8      5777.9      5777.8      5777.9      5777.8      
+BTC / EUR     Kraken        5737.0      5736.9      5737.0      5736.9      5737.0      5736.9      
+BTC / EUR     Bitstamp      5736.66     5729.3      5736.66     5729.3      5736.66     5729.3      
+BTC / EUR     Gdax          5736.4      5729.95     5736.4      5729.95     5736.4      5729.95     
+BTC / EUR     Bl3p          5748.38     5729.91     5748.38     5729.91     5748.38     5729.91     
+BTC / EUR     theRock       5771.44     5744.29     5779.89     5725.77     5771.44     5744.29     
+BTC / EUR     Cex           5740.8      5717.5      5741.3      5717.4      5740.8      5717.5      
+BTC / EUR     Wex           6020.69     5998.95     6032.16     5975.96     6020.69     5998.95     
+BTC / EUR     BitBay        5729.79     5670.0      5843.13     5670.0      5729.79     5670.0      
+BTC / EUR     Quoinex       5723.1      5682.04     5723.1      5682.03     5723.1      5682.04     
+LTC / EUR     Bitfinex      0           0           0           0           0           0           
+LTC / EUR     Kraken        71.44       71.32       71.44       71.29       71.44       71.32       
+LTC / EUR     Bitstamp      71.36       71.17       71.36       71.17       71.36       71.17       
+LTC / EUR     Gdax          71.28       71.27       71.44       71.25       71.28       71.27       
+LTC / EUR     Bl3p          71.48       71.21       71.48       71.21       71.48       71.21       
+LTC / EUR     theRock       72.16       71.15       72.59       71.15       72.16       71.15       
+LTC / EUR     Cex           0           0           0           0           0           0           
+LTC / EUR     Wex           75.0        74.44       75.15       74.43       75.0        74.44       
+LTC / EUR     BitBay        72.27       70.4        82.46       60.48       72.27       70.4        
+LTC / EUR     Quoinex       0           0           0           0           0           0           
+ETH / EUR     Bitfinex      416.5       416.48      416.5       416.48      416.5       416.48      
+ETH / EUR     Kraken        412.5       412.45      412.68      412.45      412.5       412.45      
+ETH / EUR     Bitstamp      412.98      411.86      412.98      411.86      412.98      411.86      
+ETH / EUR     Gdax          413.15      413.13      413.15      412.65      413.15      413.13      
+ETH / EUR     Bl3p          0           0           0           0           0           0           
+ETH / EUR     theRock       417.53      411.96      417.54      411.96      417.53      411.96      
+ETH / EUR     Cex           412.99      410.47      413.31      410.46      412.99      410.47      
+ETH / EUR     Wex           430.71      427.92      433.31      427.3       430.71      427.92      
+ETH / EUR     BitBay        415.0       407.37      424.65      401.68      415.0       407.37      
+ETH / EUR     Quoinex       412.66      411.35      452.66      411.35      412.66      411.35      
+Trade Amount 5: 0.0169004560465
+Trade Amount Buy 7: 0.0168666551345
+Trade Amount Sell 8: 0.0168666551345
+
+---Entry Found---
+BTC / EUR
+Long: Quoinex / Short: Bitfinex. Spread: 0.96%
+Prices 5723.1EUR / 5777.8EUR
+Balances 97.7EUR / 103.75341105EUR
+
+Attempting Trade...
+Placing Buy Order at Quoinex.
+Quoinex Exchange Buy Order: {'Position_ID': '91226af13a0644beb5900976e35c3f07', 'Price': 5723.1, 'ID': '91226af13a0644beb5900976e35c3f07', 'Response': 'Test Mode'}
+Placing Sell Order at Bitfinex.
+Bitfinex Exchange Sell Order: {'Position_ID': '6de151d1b43b46818ced7ea52479ff34', 'Price': 5777.8, 'ID': '6de151d1b43b46818ced7ea52479ff34', 'Response': 'Test Mode'}
+Checking if Buy Order at Quoinex filled. Attempt: 1
+Buy Order at Quoinex successfully filled.
+Checking if Sell Order at Bitfinex filled. Attempt: 1
+Sell Order at Bitfinex successfully filled.
+Bought 0.01686666 BTC at Quoinex for 5723.1 EUR
+Sold 0.01686666 BTC at Bitfinex for 5777.8 EUR
+Trades Successfully Executed, in the Market!
+
+-----------------------------------     -------------------------     -------------------------     
+     ------ ARBITRAGE ------            Potential Opportunities          Current Positions          
+-----------------------------------     --------------------------    -------------------------     
+----------    ------      ------      ------    ------    ------    ------    ------    ------
+Instrument     Long        Short      Spread    Target     Max       Spread   Target     Min
+----------    ------      ------      ------    ------    ------    ------    ------    ------
+BTC / EUR     Quoinex     Bitfinex       -         -         -      1.69 %    0.2 %     1.69 %
+ETH / EUR     Kraken      Bitfinex    0.92 %    1.12 %    0.92 %       -         -         -   
+ETH / EUR     Bitstamp    Bitfinex    0.85 %    1.1 %     0.85 %       -         -         -   
+ETH / EUR     Gdax        Bitfinex    0.81 %    0.85 %    0.83 %       -         -         -   
+ETH / EUR     Cex         Bitfinex    0.77 %    1.1 %     1.02 %       -         -         -   
+BTC / EUR     Gdax        Bitfinex    0.72 %    0.85 %    0.73 %       -         -         -   
+BTC / EUR     Bitstamp    Bitfinex    0.72 %    1.1 %     0.77 %       -         -         -   
+BTC / EUR     Kraken      Bitfinex    0.71 %    1.12 %    0.71 %       -         -         -   
+BTC / EUR     Cex         Bitfinex    0.64 %    1.1 %     0.64 %       -         -         -   
+BTC / EUR     Bl3p        Bitfinex    0.51 %    1.1 %     0.51 %       -         -         -   
+BTC / EUR     Quoinex     Kraken      0.24 %    0.72 %    0.25 %       -         -         -   
+BTC / EUR     Gdax        Kraken      0.01 %    0.97 %    0.05 %       -         -         -   
+BTC / EUR     Bitstamp    Kraken      0.0 %     1.22 %    0.01 %       -         -         -   
+BTC / EUR     theRock     Bitfinex    -0.04 %   1.0 %     0.1 %        -         -         -   
+BTC / EUR     Cex         Kraken      -0.08 %   1.22 %    -0.06 %      -         -         -   
+BTC / EUR     Quoinex     Cex         -0.1 %    0.7 %     -0.08 %      -         -         -   
+ETH / EUR     Bitstamp    Kraken      -0.13 %   1.22 %    -0.05 %      -         -         -   
+ETH / EUR     Gdax        Kraken      -0.17 %   0.97 %    -0.09 %      -         -         -   
+BTC / EUR     Bl3p        Kraken      -0.2 %    1.22 %    -0.2 %       -         -         -   
+ETH / EUR     Cex         Kraken      -0.21 %   1.22 %    0.08 %       -         -         -   
+ETH / EUR     theRock     Bitfinex    -0.25 %   1.0 %     -0.12 %      -         -         -   
+BTC / EUR     Gdax        Cex         -0.33 %   0.95 %    -0.29 %      -         -         -   
+BTC / EUR     Bitstamp    Cex         -0.34 %   1.2 %     -0.24 %      -         -         -   
+BTC / EUR     Kraken      Cex         -0.34 %   1.22 %    -0.33 %      -         -         -   
+BTC / EUR     Bl3p        Cex         -0.54 %   1.2 %     -0.54 %      -         -         -   
+BTC / EUR     Bitfinex    Kraken      -0.71 %   1.12 %    -0.67 %      -         -         -   
+BTC / EUR     theRock     Kraken      -0.74 %   1.12 %    -0.61 %      -         -         -   
+BTC / EUR     Gdax        Quoinex     -0.95 %   0.9 %     -0.92 %      -         -         -   
+BTC / EUR     Bitstamp    Quoinex     -0.95 %   0.7 %     -0.88 %      -         -         -   
+BTC / EUR     Kraken      Quoinex     -0.96 %   0.72 %    -0.95 %      -         -         -   
+ETH / EUR     Bitfinex    Kraken      -0.97 %   1.12 %    -0.89 %      -         -         -   
+BTC / EUR     Cex         Quoinex     -1.03 %   0.7 %     -1.03 %      -         -         -   
+BTC / EUR     Bitfinex    Cex         -1.05 %   1.1 %     -1.01 %      -         -         -   
+BTC / EUR     theRock     Cex         -1.08 %   1.1 %     -0.93 %      -         -         -   
+BTC / EUR     BitBay      Bitfinex    -1.12 %   1.46 %    0.67 %       -         -         -   
+BTC / EUR     Bl3p        Quoinex     -1.15 %   0.7 %     -1.15 %      -         -         -   
+ETH / EUR     theRock     Kraken      -1.22 %   1.12 %    -1.01 %      -         -         -   
+BTC / EUR     Bitfinex    Quoinex     -1.66 %   0.75 %    -1.63 %      -         -         -   
+BTC / EUR     theRock     Quoinex     -1.69 %   0.75 %    -1.55 %      -         -         -   
+BTC / EUR     BitBay      Kraken      -1.82 %   1.58 %    -0.04 %      -         -         -   
+ETH / EUR     BitBay      Bitfinex    -1.92 %   1.46 %    0.38 %       -         -         -   
+BTC / EUR     BitBay      Cex         -2.15 %   1.56 %    -0.39 %      -         -         -   
+BTC / EUR     BitBay      Quoinex     -2.76 %   1.06 %    -0.99 %      -         -         -   
+ETH / EUR     BitBay      Kraken      -2.87 %   1.58 %    -0.52 %      -         -         -   
+ETH / EUR     Wex         Bitfinex    -3.88 %   1.0 %     -3.26 %      -         -         -   
+BTC / EUR     Wex         Bitfinex    -4.22 %   1.0 %     -3.67 %      -         -         -   
+ETH / EUR     Wex         Kraken      -4.81 %   1.12 %    -4.12 %      -         -         -   
+BTC / EUR     Wex         Kraken      -4.89 %   1.12 %    -4.34 %      -         -         -   
+BTC / EUR     Wex         Cex         -5.22 %   1.1 %     -4.64 %      -         -         -   
+BTC / EUR     Wex         Quoinex     -5.8 %    0.75 %    -5.25 %      -         -         -   
+ETH / EUR     Quoinex     Kraken      -8.88 %   0.72 %    -8.72 %      -         -         -   
+
+
+
+Looking for exit
+BTC / EUR
+Long: Quoinex / Short: Bitfinex. 
+Spread: 1.68707%. Target: 0.2048%
+
+Total Profit Since Running: 0.0 Euro
+
+Time to execute loop is: 0:02:17.036000s
+
+Scanning Markets
+
+2018-07-08 11:05:31.434000
+
+-------------------   ------------   ------------   ------------   ------------   
+Exchange Balances      EUR Balance    BTC Balance    LTC Balance    ETH Balance   
+-------------------   ------------   ------------   ------------   ------------   
+Bitfinex              6.1            -0.01686666    0.0            0.0            
+Kraken                130.01         0.0            0.0            0.0            
+Bitstamp              0.0            0.0            0.0            0.0            
+Gdax                  146.94         0.0            0.0            0.0            
+Bl3p                  100.75         0.0            0.0            0.0            
+theRock               138.19         6.584e-05      0.0            0.0            
+Cex                   143.34         0.0            0.0            0.0            
+Wex                   108.51         0.0            0.0            0.0            
+BitBay                128.98         7.529e-05      0.0            0.0            
+Quoinex               1.17           0.01686666     0.0            0.0            
+-----------   -----------   --------    --------    --------    --------    --------    --------    
+Instrument    Exchange        Ask         Bid       Entry Ask   Entry Bid   Exit Ask    Exit Bid    
+-----------   -----------   --------    --------    --------    --------    --------    --------    
+BTC / EUR     Bitfinex      5777.9      5777.8      5777.9      5777.8      5777.9      5777.8      
+BTC / EUR     Kraken        5737.0      5736.9      5737.0      5736.9      5737.0      5736.9      
+BTC / EUR     Bitstamp      5742.17     5731.68     5742.17     5731.68     5742.17     5731.68     
+BTC / EUR     Gdax          5735.9      5735.89     5736.34     5735.89     5735.9      5735.89     
+BTC / EUR     Bl3p          5751.34     5729.91     5751.34     5729.91     5751.34     5729.91     
+BTC / EUR     theRock       5771.29     5744.29     5779.11     5725.73     5771.29     5725.73     
+BTC / EUR     Cex           5740.8      5718.1      5741.3      5718.0      5740.8      5718.1      
+BTC / EUR     Wex           6028.52     6019.95     6068.16     5982.9      6028.52     6019.95     
+BTC / EUR     BitBay        5729.79     5670.0      5739.18     5670.0      5729.79     5670.0      
+BTC / EUR     Quoinex       5723.1      5682.07     5723.1      5682.07     5723.1      5682.06     
+LTC / EUR     Bitfinex      0           0           0           0           0           0           
+LTC / EUR     Kraken        71.43       71.28       71.43       71.28       71.43       71.28       
+LTC / EUR     Bitstamp      71.36       71.24       71.36       71.24       71.36       71.24       
+LTC / EUR     Gdax          71.28       71.27       71.45       71.21       71.28       71.27       
+LTC / EUR     Bl3p          71.48       71.3        71.48       71.3        71.48       71.3        
+LTC / EUR     theRock       72.16       71.15       72.66       71.15       72.16       71.15       
+LTC / EUR     Cex           0           0           0           0           0           0           
+LTC / EUR     Wex           75.43       74.95       75.93       74.83       75.43       74.95       
+LTC / EUR     BitBay        72.27       70.4        82.46       60.48       72.27       70.4        
+LTC / EUR     Quoinex       0           0           0           0           0           0           
+ETH / EUR     Bitfinex      416.5       416.48      416.5       416.48      416.5       416.48      
+ETH / EUR     Kraken        412.45      412.42      412.45      412.42      412.45      412.42      
+ETH / EUR     Bitstamp      413.0       412.08      413.0       412.08      413.0       412.08      
+ETH / EUR     Gdax          413.2       413.13      413.21      412.54      413.2       413.13      
+ETH / EUR     Bl3p          0           0           0           0           0           0           
+ETH / EUR     theRock       417.52      411.96      417.52      411.96      417.52      411.96      
+ETH / EUR     Cex           413.44      413.0       413.45      413.0       413.44      413.0       
+ETH / EUR     Wex           435.25      431.79      435.92      428.88      435.25      431.79      
+ETH / EUR     BitBay        414.96      407.37      414.96      406.88      414.96      407.37      
+ETH / EUR     Quoinex       412.66      411.54      412.68      411.54      412.66      411.54      
+
+-----------------------------------     -------------------------     -------------------------     
+     ------ ARBITRAGE ------            Potential Opportunities          Current Positions          
+-----------------------------------     --------------------------    -------------------------     
+----------    ------      ------      ------    ------    ------    ------    ------    ------
+Instrument     Long        Short      Spread    Target     Max       Spread   Target     Min
+----------    ------      ------      ------    ------    ------    ------    ------    ------
+BTC / EUR     Quoinex     Bitfinex       -         -         -      1.69 %    0.2 %     1.69 %
+ETH / EUR     Kraken      Bitfinex    0.98 %    1.12 %    0.98 %       -         -         -   
+ETH / EUR     Bitstamp    Bitfinex    0.84 %    1.1 %     0.85 %       -         -         -   
+ETH / EUR     Gdax        Bitfinex    0.79 %    0.85 %    0.83 %       -         -         -   
+ETH / EUR     Cex         Bitfinex    0.73 %    1.1 %     1.02 %       -         -         -   
+BTC / EUR     Gdax        Bitfinex    0.72 %    0.85 %    0.73 %       -         -         -   
+BTC / EUR     Kraken      Bitfinex    0.71 %    1.12 %    0.71 %       -         -         -   
+BTC / EUR     BitBay      Bitfinex    0.67 %    1.46 %    0.67 %       -         -         -   
+BTC / EUR     Cex         Bitfinex    0.64 %    1.1 %     0.64 %       -         -         -   
+BTC / EUR     Bitstamp    Bitfinex    0.62 %    1.1 %     0.77 %       -         -         -   
+BTC / EUR     Bl3p        Bitfinex    0.46 %    1.1 %     0.51 %       -         -         -   
+ETH / EUR     BitBay      Bitfinex    0.37 %    1.46 %    0.38 %       -         -         -   
+BTC / EUR     Quoinex     Kraken      0.24 %    0.72 %    0.25 %       -         -         -   
+BTC / EUR     Gdax        Kraken      0.01 %    0.97 %    0.05 %       -         -         -   
+BTC / EUR     theRock     Bitfinex    -0.02 %   1.0 %     0.1 %        -         -         -   
+BTC / EUR     BitBay      Kraken      -0.04 %   1.58 %    -0.04 %      -         -         -   
+ETH / EUR     Quoinex     Kraken      -0.06 %   0.72 %    -0.06 %      -         -         -   
+BTC / EUR     Cex         Kraken      -0.08 %   1.22 %    -0.06 %      -         -         -   
+BTC / EUR     Quoinex     Cex         -0.09 %   0.7 %     -0.08 %      -         -         -   
+BTC / EUR     Bitstamp    Kraken      -0.09 %   1.22 %    0.01 %       -         -         -   
+ETH / EUR     Bitstamp    Kraken      -0.14 %   1.22 %    -0.05 %      -         -         -   
+ETH / EUR     Gdax        Kraken      -0.19 %   0.97 %    -0.09 %      -         -         -   
+ETH / EUR     theRock     Bitfinex    -0.25 %   1.0 %     -0.12 %      -         -         -   
+ETH / EUR     Cex         Kraken      -0.25 %   1.22 %    0.08 %       -         -         -   
+BTC / EUR     Bl3p        Kraken      -0.25 %   1.22 %    -0.2 %       -         -         -   
+BTC / EUR     Gdax        Cex         -0.32 %   0.95 %    -0.29 %      -         -         -   
+BTC / EUR     Kraken      Cex         -0.33 %   1.22 %    -0.33 %      -         -         -   
+BTC / EUR     BitBay      Cex         -0.37 %   1.56 %    -0.37 %      -         -         -   
+BTC / EUR     Bitstamp    Cex         -0.42 %   1.2 %     -0.24 %      -         -         -   
+BTC / EUR     Bl3p        Cex         -0.58 %   1.2 %     -0.54 %      -         -         -   
+ETH / EUR     BitBay      Kraken      -0.61 %   1.58 %    -0.52 %      -         -         -   
+BTC / EUR     Bitfinex    Kraken      -0.71 %   1.12 %    -0.67 %      -         -         -   
+BTC / EUR     theRock     Kraken      -0.73 %   1.12 %    -0.61 %      -         -         -   
+BTC / EUR     Gdax        Quoinex     -0.95 %   0.9 %     -0.92 %      -         -         -   
+BTC / EUR     Kraken      Quoinex     -0.96 %   0.72 %    -0.95 %      -         -         -   
+ETH / EUR     Bitfinex    Kraken      -0.98 %   1.12 %    -0.89 %      -         -         -   
+BTC / EUR     BitBay      Quoinex     -1.0 %    1.06 %    -0.99 %      -         -         -   
+BTC / EUR     Cex         Quoinex     -1.03 %   0.7 %     -1.03 %      -         -         -   
+BTC / EUR     Bitfinex    Cex         -1.04 %   1.1 %     -1.01 %      -         -         -   
+BTC / EUR     Bitstamp    Quoinex     -1.05 %   0.7 %     -0.88 %      -         -         -   
+BTC / EUR     theRock     Cex         -1.06 %   1.1 %     -0.93 %      -         -         -   
+BTC / EUR     Bl3p        Quoinex     -1.2 %    0.7 %     -1.15 %      -         -         -   
+ETH / EUR     theRock     Kraken      -1.22 %   1.12 %    -1.01 %      -         -         -   
+BTC / EUR     Bitfinex    Quoinex     -1.66 %   0.75 %    -1.63 %      -         -         -   
+BTC / EUR     theRock     Quoinex     -1.68 %   0.75 %    -1.55 %      -         -         -   
+ETH / EUR     Wex         Bitfinex    -4.46 %   1.0 %     -3.26 %      -         -         -   
+BTC / EUR     Wex         Bitfinex    -4.78 %   1.0 %     -3.67 %      -         -         -   
+ETH / EUR     Wex         Kraken      -5.39 %   1.12 %    -4.12 %      -         -         -   
+BTC / EUR     Wex         Kraken      -5.46 %   1.12 %    -4.34 %      -         -         -   
+BTC / EUR     Wex         Cex         -5.77 %   1.1 %     -4.64 %      -         -         -   
+BTC / EUR     Wex         Quoinex     -6.36 %   0.75 %    -5.25 %      -         -         -   
+
+
+
+Looking for exit
+BTC / EUR
+Long: Quoinex / Short: Bitfinex. 
+Spread: 1.68671%. Target: 0.2048%
+
+Total Profit Since Running: 0.0 Euro
+
+Time to execute loop is: 0:01:02.979000s
+
+Scanning Markets
+
+2018-07-08 11:06:42.448000
+
+-------------------   ------------   ------------   ------------   ------------   
+Exchange Balances      EUR Balance    BTC Balance    LTC Balance    ETH Balance   
+-------------------   ------------   ------------   ------------   ------------   
+Bitfinex              6.1            -0.01686666    0.0            0.0            
+Kraken                130.01         0.0            0.0            0.0            
+Bitstamp              0.0            0.0            0.0            0.0            
+Gdax                  146.94         0.0            0.0            0.0            
+Bl3p                  100.75         0.0            0.0            0.0            
+theRock               138.19         6.584e-05      0.0            0.0            
+Cex                   143.34         0.0            0.0            0.0            
+Wex                   108.51         0.0            0.0            0.0            
+BitBay                128.98         7.529e-05      0.0            0.0            
+Quoinex               1.17           0.01686666     0.0            0.0            
+-----------   -----------   --------    --------    --------    --------    --------    --------    
+Instrument    Exchange        Ask         Bid       Entry Ask   Entry Bid   Exit Ask    Exit Bid    
+-----------   -----------   --------    --------    --------    --------    --------    --------    
+BTC / EUR     Bitfinex      5777.9      5777.8      5777.9      5777.8      5777.9      5777.8      
+BTC / EUR     Kraken        5737.0      5736.9      5737.0      5736.9      5737.0      5736.9      
+BTC / EUR     Bitstamp      5731.69     5731.68     5731.69     5731.68     5731.69     5731.68     
+BTC / EUR     Gdax          5735.9      5735.89     5736.39     5733.61     5735.9      5735.89     
+BTC / EUR     Bl3p          5751.34     5729.91     5751.34     5729.91     5751.34     5729.91     
+BTC / EUR     theRock       5771.2      5744.29     5779.1      5725.76     5771.2      5744.29     
+BTC / EUR     Cex           5742.0      5713.9      5742.16     5713.9      5742.0      5713.9      
+BTC / EUR     Wex           6068.2      6019.95     6068.84     6008.52     6068.2      6019.95     
+BTC / EUR     BitBay        5729.79     5670.0      5740.35     5670.0      5729.79     5670.0      
+BTC / EUR     Quoinex       5723.1      5682.04     5723.1      5682.04     5723.1      5682.04     
+LTC / EUR     Bitfinex      0           0           0           0           0           0           
+LTC / EUR     Kraken        71.43       71.25       71.43       71.25       71.43       71.25       
+LTC / EUR     Bitstamp      71.36       71.17       71.36       71.17       71.36       71.17       
+LTC / EUR     Gdax          71.27       71.08       71.29       71.08       71.27       71.08       
+LTC / EUR     Bl3p          71.48       71.3        71.48       71.3        71.48       71.3        
+LTC / EUR     theRock       72.13       71.15       72.55       71.15       72.13       71.15       
+LTC / EUR     Cex           0           0           0           0           0           0           
+LTC / EUR     Wex           75.81       75.26       75.96       74.86       75.81       75.26       
+LTC / EUR     BitBay        72.27       70.4        82.46       60.48       72.27       70.4        
+LTC / EUR     Quoinex       0           0           0           0           0           0           
+ETH / EUR     Bitfinex      416.5       416.48      416.5       416.48      416.5       416.48      
+ETH / EUR     Kraken        412.45      412.44      412.45      412.44      412.45      412.44      
+ETH / EUR     Bitstamp      413.0       412.05      413.0       412.05      413.0       412.05      
+ETH / EUR     Gdax          413.21      413.13      413.21      412.66      413.21      413.13      
+ETH / EUR     Bl3p          0           0           0           0           0           0           
+ETH / EUR     theRock       417.52      411.96      417.53      411.96      417.52      411.96      
+ETH / EUR     Cex           413.43      413.0       413.44      410.15      413.43      413.0       
+ETH / EUR     Wex           435.12      431.83      437.04      428.88      435.12      431.83      
+ETH / EUR     BitBay        414.92      407.37      414.92      406.87      414.92      407.37      
+ETH / EUR     Quoinex       412.66      411.59      452.9       411.59      412.66      411.59      
+
+-----------------------------------     -------------------------     -------------------------     
+     ------ ARBITRAGE ------            Potential Opportunities          Current Positions          
+-----------------------------------     --------------------------    -------------------------     
+----------    ------      ------      ------    ------    ------    ------    ------    ------
+Instrument     Long        Short      Spread    Target     Max       Spread   Target     Min
+----------    ------      ------      ------    ------    ------    ------    ------    ------
+BTC / EUR     Quoinex     Bitfinex       -         -         -      1.69 %    0.2 %     1.69 %
+ETH / EUR     Kraken      Bitfinex    0.98 %    1.12 %    0.98 %       -         -         -   
+ETH / EUR     Bitstamp    Bitfinex    0.84 %    1.1 %     0.85 %       -         -         -   
+BTC / EUR     Bitstamp    Bitfinex    0.8 %     1.1 %     0.8 %        -         -         -   
+ETH / EUR     Gdax        Bitfinex    0.79 %    0.85 %    0.83 %       -         -         -   
+ETH / EUR     Cex         Bitfinex    0.74 %    1.1 %     1.02 %       -         -         -   
+BTC / EUR     Gdax        Bitfinex    0.72 %    0.85 %    0.73 %       -         -         -   
+BTC / EUR     Kraken      Bitfinex    0.71 %    1.12 %    0.71 %       -         -         -   
+BTC / EUR     BitBay      Bitfinex    0.65 %    1.46 %    0.67 %       -         -         -   
+BTC / EUR     Cex         Bitfinex    0.62 %    1.1 %     0.64 %       -         -         -   
+BTC / EUR     Bl3p        Bitfinex    0.46 %    1.1 %     0.51 %       -         -         -   
+ETH / EUR     BitBay      Bitfinex    0.38 %    1.46 %    0.38 %       -         -         -   
+BTC / EUR     Quoinex     Kraken      0.24 %    0.72 %    0.25 %       -         -         -   
+BTC / EUR     Bitstamp    Kraken      0.09 %    1.22 %    0.09 %       -         -         -   
+BTC / EUR     Gdax        Kraken      0.01 %    0.97 %    0.05 %       -         -         -   
+BTC / EUR     theRock     Bitfinex    -0.02 %   1.0 %     0.1 %        -         -         -   
+BTC / EUR     BitBay      Kraken      -0.06 %   1.58 %    -0.04 %      -         -         -   
+BTC / EUR     Cex         Kraken      -0.09 %   1.22 %    -0.06 %      -         -         -   
+ETH / EUR     Bitstamp    Kraken      -0.14 %   1.22 %    -0.05 %      -         -         -   
+BTC / EUR     Quoinex     Cex         -0.16 %   0.7 %     -0.08 %      -         -         -   
+ETH / EUR     Gdax        Kraken      -0.19 %   0.97 %    -0.09 %      -         -         -   
+ETH / EUR     Cex         Kraken      -0.24 %   1.22 %    0.08 %       -         -         -   
+BTC / EUR     Bl3p        Kraken      -0.25 %   1.22 %    -0.2 %       -         -         -   
+ETH / EUR     theRock     Bitfinex    -0.25 %   1.0 %     -0.12 %      -         -         -   
+BTC / EUR     Bitstamp    Cex         -0.31 %   1.2 %     -0.24 %      -         -         -   
+BTC / EUR     Gdax        Cex         -0.39 %   0.95 %    -0.29 %      -         -         -   
+BTC / EUR     Kraken      Cex         -0.4 %    1.22 %    -0.33 %      -         -         -   
+BTC / EUR     BitBay      Cex         -0.46 %   1.56 %    -0.37 %      -         -         -   
+ETH / EUR     BitBay      Kraken      -0.6 %    1.58 %    -0.52 %      -         -         -   
+BTC / EUR     Bl3p        Cex         -0.65 %   1.2 %     -0.54 %      -         -         -   
+BTC / EUR     Bitfinex    Kraken      -0.71 %   1.12 %    -0.67 %      -         -         -   
+BTC / EUR     theRock     Kraken      -0.73 %   1.12 %    -0.61 %      -         -         -   
+BTC / EUR     Bitstamp    Quoinex     -0.87 %   0.7 %     -0.87 %      -         -         -   
+BTC / EUR     Gdax        Quoinex     -0.95 %   0.95 %    -0.92 %      -         -         -   
+BTC / EUR     Kraken      Quoinex     -0.96 %   0.72 %    -0.95 %      -         -         -   
+ETH / EUR     Bitfinex    Kraken      -0.97 %   1.12 %    -0.89 %      -         -         -   
+BTC / EUR     BitBay      Quoinex     -1.02 %   1.06 %    -0.99 %      -         -         -   
+BTC / EUR     Cex         Quoinex     -1.05 %   0.7 %     -1.03 %      -         -         -   
+BTC / EUR     Bitfinex    Cex         -1.11 %   1.1 %     -1.01 %      -         -         -   
+BTC / EUR     theRock     Cex         -1.13 %   1.1 %     -0.93 %      -         -         -   
+BTC / EUR     Bl3p        Quoinex     -1.2 %    0.7 %     -1.15 %      -         -         -   
+ETH / EUR     theRock     Kraken      -1.22 %   1.12 %    -1.01 %      -         -         -   
+BTC / EUR     Bitfinex    Quoinex     -1.66 %   0.8 %     -1.63 %      -         -         -   
+BTC / EUR     theRock     Quoinex     -1.68 %   0.8 %     -1.55 %      -         -         -   
+ETH / EUR     Wex         Bitfinex    -4.7 %    1.0 %     -3.26 %      -         -         -   
+BTC / EUR     Wex         Bitfinex    -4.8 %    1.0 %     -3.67 %      -         -         -   
+BTC / EUR     Wex         Kraken      -5.47 %   1.12 %    -4.34 %      -         -         -   
+ETH / EUR     Wex         Kraken      -5.63 %   1.12 %    -4.12 %      -         -         -   
+BTC / EUR     Wex         Cex         -5.85 %   1.1 %     -4.64 %      -         -         -   
+BTC / EUR     Wex         Quoinex     -6.37 %   0.8 %     -5.25 %      -         -         -   
+ETH / EUR     Quoinex     Kraken      -8.93 %   0.72 %    -0.06 %      -         -         -   
+
+
+
+Looking for exit
+BTC / EUR
+Long: Quoinex / Short: Bitfinex. 
+Spread: 1.68707%. Target: 0.2048%
+
+Total Profit Since Running: 0.0 Euro
+
+Time to execute loop is: 0:01:48.422000s
+
+Scanning Markets
+
+2018-07-08 11:08:38.904000
+
+-------------------   ------------   ------------   ------------   ------------   
+Exchange Balances      EUR Balance    BTC Balance    LTC Balance    ETH Balance   
+-------------------   ------------   ------------   ------------   ------------   
+Bitfinex              6.1            -0.01686666    0.0            0.0            
+Kraken                130.01         0.0            0.0            0.0            
+Bitstamp              0.0            0.0            0.0            0.0            
+Gdax                  146.94         0.0            0.0            0.0            
+Bl3p                  100.75         0.0            0.0            0.0            
+theRock               138.19         6.584e-05      0.0            0.0            
+Cex                   143.34         0.0            0.0            0.0            
+Wex                   108.51         0.0            0.0            0.0            
+BitBay                128.98         7.529e-05      0.0            0.0            
+Quoinex               1.17           0.01686666     0.0            0.0            
+-----------   -----------   --------    --------    --------    --------    --------    --------    
+Instrument    Exchange        Ask         Bid       Entry Ask   Entry Bid   Exit Ask    Exit Bid    
+-----------   -----------   --------    --------    --------    --------    --------    --------    
+BTC / EUR     Bitfinex      5778.0      5777.9      5778.0      5777.9      5778.0      5777.9      
+BTC / EUR     Kraken        5737.0      5736.9      5737.0      5736.9      5737.0      5736.9      
+BTC / EUR     Bitstamp      5741.88     5731.87     5741.88     5731.87     5741.88     5731.87     
+BTC / EUR     Gdax          5735.75     5735.0      5735.75     5732.63     5735.75     5735.0      
+BTC / EUR     Bl3p          5754.78     5732.8      5754.78     5732.8      5754.78     5732.8      
+BTC / EUR     theRock       5771.11     5744.31     5779.1      5725.77     5771.11     5744.31     
+BTC / EUR     Cex           5741.6      5720.9      5741.69     5720.9      5741.6      5720.9      
+BTC / EUR     Wex           6068.2      6026.75     6068.89     6017.82     6068.2      6026.75     
+BTC / EUR     BitBay        5729.79     5670.0      5742.5      5670.0      5729.79     5670.0      
+BTC / EUR     Quoinex       5729.35     5688.15     5729.35     5688.15     5729.35     5688.14     
+LTC / EUR     Bitfinex      0           0           0           0           0           0           
+LTC / EUR     Kraken        71.42       71.26       71.43       71.26       71.42       71.26       
+LTC / EUR     Bitstamp      71.36       71.17       71.36       71.17       71.36       71.17       
+LTC / EUR     Gdax          71.26       71.08       71.28       71.08       71.26       71.08       
+LTC / EUR     Bl3p          71.48       71.3        71.48       71.3        71.48       71.3        
+LTC / EUR     theRock       72.13       71.15       72.54       71.15       72.13       71.15       
+LTC / EUR     Cex           0           0           0           0           0           0           
+LTC / EUR     Wex           75.86       75.47       76.27       75.21       75.86       75.47       
+LTC / EUR     BitBay        72.27       70.4        82.46       60.48       72.27       70.4        
+LTC / EUR     Quoinex       0           0           0           0           0           0           
+ETH / EUR     Bitfinex      416.5       416.48      416.5       416.48      416.5       416.48      
+ETH / EUR     Kraken        412.45      412.44      412.45      412.44      412.45      412.44      
+ETH / EUR     Bitstamp      413.0       412.36      413.0       412.36      413.0       412.36      
+ETH / EUR     Gdax          413.2       412.36      413.2       412.34      413.2       412.36      
+ETH / EUR     Bl3p          0           0           0           0           0           0           
+ETH / EUR     theRock       417.51      411.96      417.51      411.96      417.51      411.96      
+ETH / EUR     Cex           413.43      413.0       413.44      409.21      413.43      413.0       
+ETH / EUR     Wex           435.12      432.61      436.47      428.89      435.12      432.61      
+ETH / EUR     BitBay        414.96      407.37      414.96      406.96      414.96      407.37      
+ETH / EUR     Quoinex       412.66      411.59      453.2       411.59      412.66      411.59      
+
+-----------------------------------     -------------------------     -------------------------     
+     ------ ARBITRAGE ------            Potential Opportunities          Current Positions          
+-----------------------------------     --------------------------    -------------------------     
+----------    ------      ------      ------    ------    ------    ------    ------    ------
+Instrument     Long        Short      Spread    Target     Max       Spread   Target     Min
+----------    ------      ------      ------    ------    ------    ------    ------    ------
+BTC / EUR     Quoinex     Bitfinex       -         -         -      1.58 %    0.2 %     1.58 %
+ETH / EUR     Kraken      Bitfinex    0.98 %    1.12 %    0.98 %       -         -         -   
+ETH / EUR     Bitstamp    Bitfinex    0.84 %    1.1 %     0.85 %       -         -         -   
+ETH / EUR     Gdax        Bitfinex    0.79 %    0.85 %    0.83 %       -         -         -   
+ETH / EUR     Cex         Bitfinex    0.74 %    1.1 %     1.02 %       -         -         -   
+BTC / EUR     Gdax        Bitfinex    0.73 %    0.85 %    0.73 %       -         -         -   
+BTC / EUR     Kraken      Bitfinex    0.71 %    1.12 %    0.71 %       -         -         -   
+BTC / EUR     Cex         Bitfinex    0.63 %    1.1 %     0.64 %       -         -         -   
+BTC / EUR     Bitstamp    Bitfinex    0.63 %    1.1 %     0.8 %        -         -         -   
+BTC / EUR     BitBay      Bitfinex    0.62 %    1.46 %    0.67 %       -         -         -   
+BTC / EUR     Bl3p        Bitfinex    0.4 %     1.1 %     0.51 %       -         -         -   
+ETH / EUR     BitBay      Bitfinex    0.37 %    1.46 %    0.38 %       -         -         -   
+BTC / EUR     Quoinex     Kraken      0.13 %    0.72 %    0.25 %       -         -         -   
+BTC / EUR     Gdax        Kraken      0.02 %    0.97 %    0.05 %       -         -         -   
+BTC / EUR     theRock     Bitfinex    -0.02 %   1.0 %     0.1 %        -         -         -   
+BTC / EUR     Cex         Kraken      -0.08 %   1.22 %    -0.06 %      -         -         -   
+BTC / EUR     Bitstamp    Kraken      -0.09 %   1.22 %    0.09 %       -         -         -   
+BTC / EUR     BitBay      Kraken      -0.1 %    1.58 %    -0.04 %      -         -         -   
+ETH / EUR     Bitstamp    Kraken      -0.14 %   1.22 %    -0.05 %      -         -         -   
+BTC / EUR     Quoinex     Cex         -0.15 %   0.7 %     -0.08 %      -         -         -   
+ETH / EUR     Gdax        Kraken      -0.18 %   0.97 %    -0.09 %      -         -         -   
+ETH / EUR     Cex         Kraken      -0.24 %   1.22 %    0.08 %       -         -         -   
+ETH / EUR     theRock     Bitfinex    -0.25 %   1.0 %     -0.12 %      -         -         -   
+BTC / EUR     Gdax        Cex         -0.26 %   0.95 %    -0.26 %      -         -         -   
+BTC / EUR     Kraken      Cex         -0.28 %   1.22 %    -0.28 %      -         -         -   
+BTC / EUR     Bl3p        Kraken      -0.31 %   1.22 %    -0.2 %       -         -         -   
+BTC / EUR     Bitstamp    Cex         -0.37 %   1.2 %     -0.24 %      -         -         -   
+BTC / EUR     BitBay      Cex         -0.38 %   1.56 %    -0.37 %      -         -         -   
+BTC / EUR     Bl3p        Cex         -0.59 %   1.2 %     -0.54 %      -         -         -   
+ETH / EUR     BitBay      Kraken      -0.61 %   1.58 %    -0.52 %      -         -         -   
+BTC / EUR     Bitfinex    Kraken      -0.71 %   1.12 %    -0.67 %      -         -         -   
+BTC / EUR     theRock     Kraken      -0.73 %   1.12 %    -0.61 %      -         -         -   
+BTC / EUR     Gdax        Quoinex     -0.83 %   0.9 %     -0.83 %      -         -         -   
+BTC / EUR     Kraken      Quoinex     -0.85 %   0.72 %    -0.85 %      -         -         -   
+BTC / EUR     Cex         Quoinex     -0.93 %   0.7 %     -0.93 %      -         -         -   
+BTC / EUR     Bitstamp    Quoinex     -0.94 %   0.7 %     -0.87 %      -         -         -   
+BTC / EUR     BitBay      Quoinex     -0.95 %   1.06 %    -0.95 %      -         -         -   
+ETH / EUR     Bitfinex    Kraken      -0.97 %   1.12 %    -0.89 %      -         -         -   
+BTC / EUR     Bitfinex    Cex         -0.99 %   1.1 %     -0.99 %      -         -         -   
+BTC / EUR     theRock     Cex         -1.01 %   1.1 %     -0.93 %      -         -         -   
+BTC / EUR     Bl3p        Quoinex     -1.16 %   0.7 %     -1.15 %      -         -         -   
+ETH / EUR     theRock     Kraken      -1.21 %   1.12 %    -1.01 %      -         -         -   
+BTC / EUR     Bitfinex    Quoinex     -1.56 %   0.75 %    -1.56 %      -         -         -   
+BTC / EUR     theRock     Quoinex     -1.57 %   0.75 %    -1.55 %      -         -         -   
+ETH / EUR     Wex         Bitfinex    -4.58 %   1.0 %     -3.26 %      -         -         -   
+BTC / EUR     Wex         Bitfinex    -4.79 %   1.0 %     -3.67 %      -         -         -   
+BTC / EUR     Wex         Kraken      -5.47 %   1.12 %    -4.34 %      -         -         -   
+ETH / EUR     Wex         Kraken      -5.51 %   1.12 %    -4.12 %      -         -         -   
+BTC / EUR     Wex         Cex         -5.73 %   1.1 %     -4.64 %      -         -         -   
+BTC / EUR     Wex         Quoinex     -6.27 %   0.75 %    -5.25 %      -         -         -   
+ETH / EUR     Quoinex     Kraken      -8.99 %   0.72 %    -0.06 %      -         -         -   
+
+
+
+Looking for exit
+BTC / EUR
+Long: Quoinex / Short: Bitfinex. 
+Spread: 1.57978%. Target: 0.2048%
+
+Total Profit Since Running: 0.0 Euro
+
+Time to execute loop is: 0:01:45.059000s
+
+Scanning Markets
+
+2018-07-08 11:10:31.996000
+
+-------------------   ------------   ------------   ------------   ------------   
+Exchange Balances      EUR Balance    BTC Balance    LTC Balance    ETH Balance   
+-------------------   ------------   ------------   ------------   ------------   
+Bitfinex              6.1            -0.01686666    0.0            0.0            
+Kraken                130.01         0.0            0.0            0.0            
+Bitstamp              0.0            0.0            0.0            0.0            
+Gdax                  146.94         0.0            0.0            0.0            
+Bl3p                  100.75         0.0            0.0            0.0            
+theRock               138.19         6.584e-05      0.0            0.0            
+Cex                   143.34         0.0            0.0            0.0            
+Wex                   108.51         0.0            0.0            0.0            
+BitBay                128.98         7.529e-05      0.0            0.0            
+Quoinex               1.17           0.01686666     0.0            0.0            
+-----------   -----------   --------    --------    --------    --------    --------    --------    
+Instrument    Exchange        Ask         Bid       Entry Ask   Entry Bid   Exit Ask    Exit Bid    
+-----------   -----------   --------    --------    --------    --------    --------    --------    
+BTC / EUR     Bitfinex      5778.3      5778.1      5778.3      5778.1      5778.3      5778.1      
+BTC / EUR     Kraken        5737.0      5736.9      5737.0      5736.9      5737.0      5736.9      
+BTC / EUR     Bitstamp      5741.88     5729.35     5741.88     5729.35     5741.88     5729.35     
+BTC / EUR     Gdax          5735.5      5735.0      5735.5      5733.23     5735.5      5735.0      
+BTC / EUR     Bl3p          5751.34     5732.8      5751.34     5732.8      5751.34     5732.8      
+BTC / EUR     theRock       5771.07     5744.33     5779.08     5725.76     5771.07     5744.33     
+BTC / EUR     Cex           5742.0      5722.9      5743.27     5722.9      5742.0      5722.9      
+BTC / EUR     Wex           6068.2      6026.75     6068.89     6023.84     6068.2      6026.75     
+BTC / EUR     BitBay        5729.79     5670.0      5740.65     5670.0      5729.79     5670.0      
+BTC / EUR     Quoinex       5729.85     5690.01     5729.85     5690.01     5729.85     5688.91     
+LTC / EUR     Bitfinex      0           0           0           0           0           0           
+LTC / EUR     Kraken        71.42       71.26       71.42       71.26       71.42       71.26       
+LTC / EUR     Bitstamp      71.36       71.17       71.36       71.17       71.36       71.17       
+LTC / EUR     Gdax          71.26       71.07       71.28       71.07       71.26       71.07       
+LTC / EUR     Bl3p          71.48       71.23       71.48       71.23       71.48       71.23       
+LTC / EUR     theRock       72.13       71.15       72.13       71.15       72.13       71.15       
+LTC / EUR     Cex           0           0           0           0           0           0           
+LTC / EUR     Wex           75.86       75.47       76.27       75.21       75.86       75.47       
+LTC / EUR     BitBay        72.27       70.4        82.46       60.48       72.27       70.4        
+LTC / EUR     Quoinex       0           0           0           0           0           0           
+ETH / EUR     Bitfinex      416.5       416.48      416.5       416.48      416.5       416.48      
+ETH / EUR     Kraken        412.45      412.44      412.45      412.44      412.45      412.44      
+ETH / EUR     Bitstamp      413.0       412.08      413.0       412.08      413.0       412.08      
+ETH / EUR     Gdax          412.99      412.53      412.99      412.53      412.99      412.53      
+ETH / EUR     Bl3p          0           0           0           0           0           0           
+ETH / EUR     theRock       417.5       411.96      417.54      411.96      417.5       411.96      
+ETH / EUR     Cex           413.43      409.34      413.45      409.32      413.43      409.34      
+ETH / EUR     Wex           435.12      432.61      436.47      428.9       435.12      432.61      
+ETH / EUR     BitBay        414.92      407.37      414.92      407.05      414.92      407.37      
+ETH / EUR     Quoinex       412.66      411.58      413.01      411.58      412.66      411.58      
+
+-----------------------------------     -------------------------     -------------------------     
+     ------ ARBITRAGE ------            Potential Opportunities          Current Positions          
+-----------------------------------     --------------------------    -------------------------     
+----------    ------      ------      ------    ------    ------    ------    ------    ------
+Instrument     Long        Short      Spread    Target     Max       Spread   Target     Min
+----------    ------      ------      ------    ------    ------    ------    ------    ------
+BTC / EUR     Quoinex     Bitfinex       -         -         -      1.57 %    0.2 %     1.57 %
+ETH / EUR     Kraken      Bitfinex    0.98 %    1.12 %    0.98 %       -         -         -   
+ETH / EUR     Gdax        Bitfinex    0.85 %    0.85 %    0.85 %       -         -         -   
+ETH / EUR     Bitstamp    Bitfinex    0.84 %    1.1 %     0.85 %       -         -         -   
+BTC / EUR     Gdax        Bitfinex    0.74 %    0.85 %    0.74 %       -         -         -   
+ETH / EUR     Cex         Bitfinex    0.73 %    1.1 %     1.02 %       -         -         -   
+BTC / EUR     Kraken      Bitfinex    0.72 %    1.12 %    0.72 %       -         -         -   
+BTC / EUR     BitBay      Bitfinex    0.65 %    1.46 %    0.67 %       -         -         -   
+BTC / EUR     Bitstamp    Bitfinex    0.63 %    1.1 %     0.8 %        -         -         -   
+BTC / EUR     Cex         Bitfinex    0.61 %    1.1 %     0.64 %       -         -         -   
+BTC / EUR     Bl3p        Bitfinex    0.47 %    1.1 %     0.51 %       -         -         -   
+ETH / EUR     BitBay      Bitfinex    0.38 %    1.46 %    0.38 %       -         -         -   
+BTC / EUR     Quoinex     Kraken      0.12 %    0.72 %    0.25 %       -         -         -   
+BTC / EUR     Gdax        Kraken      0.02 %    0.97 %    0.05 %       -         -         -   
+BTC / EUR     theRock     Bitfinex    -0.02 %   1.0 %     0.1 %        -         -         -   
+BTC / EUR     BitBay      Kraken      -0.07 %   1.58 %    -0.04 %      -         -         -   
+BTC / EUR     Bitstamp    Kraken      -0.09 %   1.22 %    0.09 %       -         -         -   
+BTC / EUR     Cex         Kraken      -0.11 %   1.22 %    -0.06 %      -         -         -   
+BTC / EUR     Quoinex     Cex         -0.12 %   0.7 %     -0.08 %      -         -         -   
+ETH / EUR     Gdax        Kraken      -0.13 %   0.97 %    -0.09 %      -         -         -   
+ETH / EUR     Bitstamp    Kraken      -0.14 %   1.22 %    -0.05 %      -         -         -   
+ETH / EUR     Quoinex     Kraken      -0.14 %   0.72 %    -0.06 %      -         -         -   
+BTC / EUR     Gdax        Cex         -0.22 %   0.95 %    -0.22 %      -         -         -   
+ETH / EUR     Cex         Kraken      -0.24 %   1.22 %    0.08 %       -         -         -   
+BTC / EUR     Kraken      Cex         -0.25 %   1.22 %    -0.25 %      -         -         -   
+BTC / EUR     Bl3p        Kraken      -0.25 %   1.22 %    -0.2 %       -         -         -   
+ETH / EUR     theRock     Bitfinex    -0.25 %   1.0 %     -0.12 %      -         -         -   
+BTC / EUR     BitBay      Cex         -0.31 %   1.56 %    -0.31 %      -         -         -   
+BTC / EUR     Bitstamp    Cex         -0.33 %   1.2 %     -0.24 %      -         -         -   
+BTC / EUR     Bl3p        Cex         -0.49 %   1.2 %     -0.49 %      -         -         -   
+ETH / EUR     BitBay      Kraken      -0.6 %    1.58 %    -0.52 %      -         -         -   
+BTC / EUR     Bitfinex    Kraken      -0.72 %   1.12 %    -0.67 %      -         -         -   
+BTC / EUR     theRock     Kraken      -0.73 %   1.12 %    -0.61 %      -         -         -   
+BTC / EUR     Gdax        Quoinex     -0.79 %   0.92 %    -0.79 %      -         -         -   
+BTC / EUR     Kraken      Quoinex     -0.82 %   0.72 %    -0.82 %      -         -         -   
+BTC / EUR     BitBay      Quoinex     -0.88 %   1.06 %    -0.88 %      -         -         -   
+BTC / EUR     Bitstamp    Quoinex     -0.9 %    0.7 %     -0.87 %      -         -         -   
+BTC / EUR     Cex         Quoinex     -0.93 %   0.7 %     -0.93 %      -         -         -   
+BTC / EUR     Bitfinex    Cex         -0.96 %   1.1 %     -0.96 %      -         -         -   
+BTC / EUR     theRock     Cex         -0.97 %   1.1 %     -0.93 %      -         -         -   
+ETH / EUR     Bitfinex    Kraken      -0.97 %   1.12 %    -0.89 %      -         -         -   
+BTC / EUR     Bl3p        Quoinex     -1.07 %   0.7 %     -1.07 %      -         -         -   
+ETH / EUR     theRock     Kraken      -1.22 %   1.12 %    -1.01 %      -         -         -   
+BTC / EUR     Bitfinex    Quoinex     -1.53 %   0.77 %    -1.53 %      -         -         -   
+BTC / EUR     theRock     Quoinex     -1.54 %   0.77 %    -1.54 %      -         -         -   
+ETH / EUR     Wex         Bitfinex    -4.58 %   1.0 %     -3.26 %      -         -         -   
+BTC / EUR     Wex         Bitfinex    -4.79 %   1.0 %     -3.67 %      -         -         -   
+BTC / EUR     Wex         Kraken      -5.47 %   1.12 %    -4.34 %      -         -         -   
+ETH / EUR     Wex         Kraken      -5.51 %   1.12 %    -4.12 %      -         -         -   
+BTC / EUR     Wex         Cex         -5.7 %    1.1 %     -4.64 %      -         -         -   
+BTC / EUR     Wex         Quoinex     -6.24 %   0.77 %    -5.25 %      -         -         -   
+
+
+
+Looking for exit
+BTC / EUR
+Long: Quoinex / Short: Bitfinex. 
+Spread: 1.5713%. Target: 0.2048%
+
+Total Profit Since Running: 0.0 Euro
+
+Time to execute loop is: 0:01:29.662000s
+
+Scanning Markets
+
+2018-07-08 11:12:09.697000
+
+-------------------   ------------   ------------   ------------   ------------   
+Exchange Balances      EUR Balance    BTC Balance    LTC Balance    ETH Balance   
+-------------------   ------------   ------------   ------------   ------------   
+Bitfinex              6.1            -0.01686666    0.0            0.0            
+Kraken                130.01         0.0            0.0            0.0            
+Bitstamp              0.0            0.0            0.0            0.0            
+Gdax                  146.94         0.0            0.0            0.0            
+Bl3p                  100.75         0.0            0.0            0.0            
+theRock               138.19         6.584e-05      0.0            0.0            
+Cex                   143.34         0.0            0.0            0.0            
+Wex                   108.51         0.0            0.0            0.0            
+BitBay                128.98         7.529e-05      0.0            0.0            
+Quoinex               1.17           0.01686666     0.0            0.0            
+-----------   -----------   --------    --------    --------    --------    --------    --------    
+Instrument    Exchange        Ask         Bid       Entry Ask   Entry Bid   Exit Ask    Exit Bid    
+-----------   -----------   --------    --------    --------    --------    --------    --------    
+BTC / EUR     Bitfinex      5778.4      5778.3      5778.4      5778.3      5778.4      5778.3      
+BTC / EUR     Kraken        5737.0      5736.9      5737.0      5736.9      5737.0      5736.9      
+BTC / EUR     Bitstamp      5741.88     5729.92     5741.88     5729.92     5741.88     5729.92     
+BTC / EUR     Gdax          5735.5      5735.0      5735.5      5733.18     5735.5      5735.0      
+BTC / EUR     Bl3p          5751.34     5732.8      5751.34     5732.8      5751.34     5732.8      
+BTC / EUR     theRock       5771.02     5744.34     5779.04     5725.76     5771.02     5744.34     
+BTC / EUR     Cex           5742.0      5717.8      5743.27     5717.77     5742.0      5717.8      
+BTC / EUR     Wex           6068.2      6026.75     6068.88     6023.84     6068.2      6026.75     
+BTC / EUR     BitBay        5729.79     5670.0      5843.14     5670.0      5729.79     5670.0      
+BTC / EUR     Quoinex       5729.94     5690.01     5729.94     5690.01     5729.94     5688.83     
+LTC / EUR     Bitfinex      0           0           0           0           0           0           
+LTC / EUR     Kraken        71.39       71.26       71.4        71.26       71.39       71.26       
+LTC / EUR     Bitstamp      71.36       71.18       71.36       71.18       71.36       71.18       
+LTC / EUR     Gdax          71.29       71.07       71.44       71.06       71.29       71.07       
+LTC / EUR     Bl3p          71.48       71.23       71.48       71.23       71.48       71.23       
+LTC / EUR     theRock       72.13       71.15       72.13       71.15       72.13       71.15       
+LTC / EUR     Cex           0           0           0           0           0           0           
+LTC / EUR     Wex           75.86       75.47       76.27       75.21       75.86       75.47       
+LTC / EUR     BitBay        72.27       70.4        82.46       60.48       72.27       70.4        
+LTC / EUR     Quoinex       0           0           0           0           0           0           
+ETH / EUR     Bitfinex      416.5       416.48      416.5       416.48      416.5       416.48      
+ETH / EUR     Kraken        412.45      412.44      412.45      412.44      412.45      412.44      
+ETH / EUR     Bitstamp      413.0       412.05      413.0       412.05      413.0       412.05      
+ETH / EUR     Gdax          412.99      412.64      412.99      412.37      412.99      412.64      
+ETH / EUR     Bl3p          0           0           0           0           0           0           
+ETH / EUR     theRock       417.48      411.96      417.49      411.96      417.48      411.96      
+ETH / EUR     Cex           413.44      411.04      413.45      409.06      413.44      411.04      
+ETH / EUR     Wex           435.12      432.61      436.47      428.9       435.12      432.61      
+ETH / EUR     BitBay        415.0       407.37      424.65      401.68      415.0       407.37      
+ETH / EUR     Quoinex       412.66      411.59      413.01      411.59      412.66      411.59      
+
+-----------------------------------     -------------------------     -------------------------     
+     ------ ARBITRAGE ------            Potential Opportunities          Current Positions          
+-----------------------------------     --------------------------    -------------------------     
+----------    ------      ------      ------    ------    ------    ------    ------    ------
+Instrument     Long        Short      Spread    Target     Max       Spread   Target     Min
+----------    ------      ------      ------    ------    ------    ------    ------    ------
+BTC / EUR     Quoinex     Bitfinex       -         -         -      1.57 %    0.2 %     1.57 %
+ETH / EUR     Kraken      Bitfinex    0.98 %    1.12 %    0.98 %       -         -         -   
+ETH / EUR     Gdax        Bitfinex    0.85 %    0.85 %    0.85 %       -         -         -   
+ETH / EUR     Bitstamp    Bitfinex    0.84 %    1.1 %     0.85 %       -         -         -   
+BTC / EUR     Gdax        Bitfinex    0.75 %    0.85 %    0.75 %       -         -         -   
+ETH / EUR     Cex         Bitfinex    0.73 %    1.1 %     1.02 %       -         -         -   
+BTC / EUR     Kraken      Bitfinex    0.72 %    1.12 %    0.72 %       -         -         -   
+BTC / EUR     Bitstamp    Bitfinex    0.63 %    1.1 %     0.8 %        -         -         -   
+BTC / EUR     Cex         Bitfinex    0.61 %    1.1 %     0.64 %       -         -         -   
+BTC / EUR     Bl3p        Bitfinex    0.47 %    1.1 %     0.51 %       -         -         -   
+BTC / EUR     Quoinex     Kraken      0.12 %    0.72 %    0.25 %       -         -         -   
+BTC / EUR     Gdax        Kraken      0.02 %    0.97 %    0.05 %       -         -         -   
+BTC / EUR     theRock     Bitfinex    -0.01 %   1.0 %     0.1 %        -         -         -   
+BTC / EUR     Bitstamp    Kraken      -0.09 %   1.22 %    0.09 %       -         -         -   
+BTC / EUR     Cex         Kraken      -0.11 %   1.22 %    -0.06 %      -         -         -   
+ETH / EUR     Gdax        Kraken      -0.13 %   0.97 %    -0.09 %      -         -         -   
+ETH / EUR     Bitstamp    Kraken      -0.14 %   1.22 %    -0.05 %      -         -         -   
+ETH / EUR     Quoinex     Kraken      -0.14 %   0.72 %    -0.06 %      -         -         -   
+BTC / EUR     Quoinex     Cex         -0.21 %   0.7 %     -0.08 %      -         -         -   
+ETH / EUR     theRock     Bitfinex    -0.24 %   1.0 %     -0.12 %      -         -         -   
+ETH / EUR     Cex         Kraken      -0.24 %   1.22 %    0.08 %       -         -         -   
+BTC / EUR     Bl3p        Kraken      -0.25 %   1.22 %    -0.2 %       -         -         -   
+BTC / EUR     Gdax        Cex         -0.31 %   0.95 %    -0.22 %      -         -         -   
+BTC / EUR     Kraken      Cex         -0.34 %   1.22 %    -0.25 %      -         -         -   
+BTC / EUR     Bitstamp    Cex         -0.42 %   1.2 %     -0.24 %      -         -         -   
+BTC / EUR     Bl3p        Cex         -0.58 %   1.2 %     -0.49 %      -         -         -   
+BTC / EUR     Bitfinex    Kraken      -0.72 %   1.12 %    -0.67 %      -         -         -   
+BTC / EUR     theRock     Kraken      -0.73 %   1.12 %    -0.61 %      -         -         -   
+BTC / EUR     Gdax        Quoinex     -0.79 %   0.94 %    -0.79 %      -         -         -   
+BTC / EUR     Kraken      Quoinex     -0.82 %   0.72 %    -0.82 %      -         -         -   
+BTC / EUR     Bitstamp    Quoinex     -0.9 %    0.7 %     -0.87 %      -         -         -   
+BTC / EUR     Cex         Quoinex     -0.93 %   0.7 %     -0.93 %      -         -         -   
+ETH / EUR     Bitfinex    Kraken      -0.97 %   1.12 %    -0.89 %      -         -         -   
+BTC / EUR     Bitfinex    Cex         -1.05 %   1.1 %     -0.96 %      -         -         -   
+BTC / EUR     theRock     Cex         -1.06 %   1.1 %     -0.93 %      -         -         -   
+BTC / EUR     Bl3p        Quoinex     -1.07 %   0.7 %     -1.07 %      -         -         -   
+BTC / EUR     BitBay      Bitfinex    -1.11 %   1.46 %    0.67 %       -         -         -   
+ETH / EUR     theRock     Kraken      -1.21 %   1.12 %    -1.01 %      -         -         -   
+BTC / EUR     Bitfinex    Quoinex     -1.53 %   0.79 %    -1.53 %      -         -         -   
+BTC / EUR     theRock     Quoinex     -1.54 %   0.79 %    -1.54 %      -         -         -   
+BTC / EUR     BitBay      Kraken      -1.82 %   1.58 %    -0.04 %      -         -         -   
+ETH / EUR     BitBay      Bitfinex    -1.92 %   1.46 %    0.38 %       -         -         -   
+BTC / EUR     BitBay      Cex         -2.15 %   1.56 %    -0.31 %      -         -         -   
+BTC / EUR     BitBay      Quoinex     -2.62 %   1.06 %    -0.88 %      -         -         -   
+ETH / EUR     BitBay      Kraken      -2.88 %   1.58 %    -0.52 %      -         -         -   
+ETH / EUR     Wex         Bitfinex    -4.58 %   1.0 %     -3.26 %      -         -         -   
+BTC / EUR     Wex         Bitfinex    -4.79 %   1.0 %     -3.67 %      -         -         -   
+BTC / EUR     Wex         Kraken      -5.47 %   1.12 %    -4.34 %      -         -         -   
+ETH / EUR     Wex         Kraken      -5.51 %   1.12 %    -4.12 %      -         -         -   
+BTC / EUR     Wex         Cex         -5.79 %   1.1 %     -4.64 %      -         -         -   
+BTC / EUR     Wex         Quoinex     -6.24 %   0.79 %    -5.25 %      -         -         -   
+
+
+
+Looking for exit
+BTC / EUR
+Long: Quoinex / Short: Bitfinex. 
+Spread: 1.57449%. Target: 0.2048%
+
+Total Profit Since Running: 0.0 Euro
+
+Time to execute loop is: 0:02:07.693000s
+
+Scanning Markets
+
+2018-07-08 11:14:25.422000

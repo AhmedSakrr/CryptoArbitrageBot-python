@@ -1,0 +1,9 @@
+
+
+BTC / EUR
+Long: Bitfinex / Short: Quoinex 
+Profit: 0.56 EUR
+Return: 0.28 %
+Start Time: 1520362503.58
+End Time: 1520380403.92
+Elapsed Time: 17900.3370001
