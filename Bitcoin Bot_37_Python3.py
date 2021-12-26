@@ -3159,7 +3159,7 @@ def Print_Exit(Coin, Exchange2, Exchange1, spread):
     
 def Print_Profit(Closed_Arb):
     
-    winsound.PlaySound(r'cash.wav', winsound.SND_ASYNC)
+    # winsound.PlaySound(r'cash.wav', winsound.SND_ASYNC)
     
     Coin = Closed_Arb['Coin']
     
@@ -4604,8 +4604,8 @@ if __name__ == "__main__":
         
         Create_Price_Database()
     
-        log = open('Log_'+str(datetime.now())[0:10]+'.txt', "w")
-        profit_file = open('Profits_'+str(datetime.now())[0:10]+'.txt', "w") 
+        log = open('/_Logs/Log_'+str(datetime.now())[0:10]+'.txt', "w")
+        profit_file = open('/_Logs/Profits_'+str(datetime.now())[0:10]+'.txt', "w") 
         
         Opportunities = []
         Current_Arbs = []
@@ -4687,8 +4687,8 @@ if __name__ == "__main__":
 
         start_time = datetime.now()
         
-        log = open('Log_'+str(datetime.now())[0:10]+'.txt', "a")
-        profit_file = open('Profits_'+str(datetime.now())[0:10]+'.txt', "a")
+        log = open('/_Logs/Log_'+str(datetime.now())[0:10]+'.txt', "a")
+        profit_file = open('/_Logs/Profits_'+str(datetime.now())[0:10]+'.txt', "a")
         
 #        Run_Optimisation()
         

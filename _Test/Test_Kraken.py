@@ -69,7 +69,7 @@ def Kraken_Limit_Order(Coin, amount, side, price, leverage):
         
     Order = Kraken_Private_Client().place_order(params)
 
-    print 'Message from Kraken: ' + str(Order)
+    print ('Message from Kraken: ' + str(Order))
 #    log.write('\nMessage from Kraken: ' + str(Order)) 
     
     return Order
@@ -99,7 +99,7 @@ def Kraken_Market_Order(Coin, amount, side, leverage):
               
     Order = Kraken_Private_Client().place_order(params)
 
-    print 'Message from Kraken: ' + str(Order)
+    print ('Message from Kraken: ' + str(Order))
 #    log.write('\nMessage from Kraken: ' + str(Order)) 
     
     return Order
@@ -108,7 +108,7 @@ def Kraken_Check_Order(ref):
         
     Order = Kraken_Private_Client().query_order(ref)
 
-    print 'Message from Kraken: ' + str(Order)
+    print ('Message from Kraken: ' + str(Order))
 #    log.write('\nMessage from Kraken: ' + str(Order)) 
     
     return Order
@@ -146,7 +146,7 @@ def Kraken_Cancel_Order(ref):
         
     Order = Kraken_Private_Client().cancel_order(ref)
     
-    print 'Message from Kraken: ' + str(Order)
+    print ('Message from Kraken: ' + str(Order))
 #    log.write('\nMessage from Kraken: ' + str(Order)) 
     
     if Order['result']['count'] == 1:
@@ -174,7 +174,7 @@ def Kraken_Open_Orders():
                 
     Orders = Kraken_Private_Client().open_orders()
     
-    print 'Message from Kraken: ' + str(Orders)
+    print ('Message from Kraken: ' + str(Orders))
     
     if Orders['result']['open']:
     
@@ -187,7 +187,7 @@ def Kraken_Closed_Orders():
                 
     Orders = Kraken_Private_Client().closed_orders()
     
-    print 'Message from Kraken: ' + str(Orders)
+    print ('Message from Kraken: ' + str(Orders))
     
     return Orders
     
@@ -195,7 +195,7 @@ def Kraken_Open_Positions():
                 
     Orders = Kraken_Private_Client().open_positions()
     
-    print 'Message from Kraken: ' + str(Orders)
+    print ('Message from Kraken: ' + str(Orders))
     
     if Orders['result']:
     
@@ -204,7 +204,7 @@ def Kraken_Open_Positions():
     else:
         return False
         
-print Kraken_Balances('BTC')
+print (Kraken_Balances('BTC'))
     
 #Price = float(Kraken_Check_Order('OLGCGX-VR7AG-YZXXOV')['result']['OLGCGX-VR7AG-YZXXOV']['price'])
 
