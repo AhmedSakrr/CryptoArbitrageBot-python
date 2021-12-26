@@ -4527,6 +4527,8 @@ def Save_Variables():
     Fake_Fees, Multi_Threading, Place_Concurrent_Orders, 
     Limit_Arbitrages, iteration, Min_Bal, liquid_factor, Attempts,
     Coins, Fiat, Total_Profit]
+    
+    Saved_Variables = [str(i) for i in Saved_Variables]
 
 
     with open('Saved_Variables.pkl', 'w') as f:
@@ -4604,8 +4606,8 @@ if __name__ == "__main__":
         
         Create_Price_Database()
     
-        log = open('/_Logs/Log_'+str(datetime.now())[0:10]+'.txt', "w")
-        profit_file = open('/_Logs/Profits_'+str(datetime.now())[0:10]+'.txt', "w") 
+        log = open('_Logs/Log_'+str(datetime.now())[0:10]+'.txt', "w")
+        profit_file = open('_Logs/Profits_'+str(datetime.now())[0:10]+'.txt', "w") 
         
         Opportunities = []
         Current_Arbs = []
@@ -4687,8 +4689,8 @@ if __name__ == "__main__":
 
         start_time = datetime.now()
         
-        log = open('/_Logs/Log_'+str(datetime.now())[0:10]+'.txt', "a")
-        profit_file = open('/_Logs/Profits_'+str(datetime.now())[0:10]+'.txt', "a")
+        log = open('_Logs/Log_'+str(datetime.now())[0:10]+'.txt', "a")
+        profit_file = open('_Logs/Profits_'+str(datetime.now())[0:10]+'.txt', "a")
         
 #        Run_Optimisation()
         
@@ -4784,7 +4786,7 @@ if __name__ == "__main__":
         print('\nTime to execute loop is: ' + str(loop_time) + 's')
         log.write('\n\nTime to execute loop is: ' + str(loop_time) + 's')
         
-        Save_Variables()
+        # Save_Variables() # not working, TypeError: write() argument must be str, not bytes
                         
         print('\nScanning Markets',)
         time.sleep(1); print('.',)

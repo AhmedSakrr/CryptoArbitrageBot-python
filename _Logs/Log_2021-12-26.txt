@@ -1,0 +1,1359 @@
+
+-------------------   ------------   ------------   ------------   ------------   
+Exchange Balances      EUR Balance    BTC Balance    ETH Balance    LTC Balance   
+-------------------   ------------   ------------   ------------   ------------   
+Bitfinex              1000.0         0.0            0.0            0.0            
+Kraken                1000.0         0.0            0.0            0.0            
+Bitstamp              1000.0         0.0            0.0            0.0            
+Coinbase              1000.0         0.0            0.0            0.0            
+Bl3p                  1000.0         0.0            0.0            0.0            
+theRock               1000.0         0.0            0.0            0.0            
+Cex                   1000.0         0.0            0.0            0.0            
+BitBay                1000.0         0.0            0.0            0.0            
+Liquid                1000.0         0.0            0.0            0.0            
+-----------   -----------   --------    --------    --------    --------    --------    --------    
+Instrument    Exchange        Ask         Bid       Entry Ask   Entry Bid   Exit Ask    Exit Bid    
+-----------   -----------   --------    --------    --------    --------    --------    --------    
+BTC / EUR     Bitfinex      43937.0     43936.0     43937.0     43930.23    43937.0     43936.0     
+BTC / EUR     Kraken        44065.0     44064.9     44065.0     44059.18    44065.0     44064.9     
+BTC / EUR     Bitstamp      44079.39    44051.3     44079.39    44051.3     44079.39    44051.3     
+BTC / EUR     Coinbase      0           0           0           0           0           0           
+BTC / EUR     Bl3p          0           0           0           0           0           0           
+BTC / EUR     theRock       44136.12    44117.36    44136.12    43902.02    44136.12    44117.36    
+BTC / EUR     Cex           0           0           0           0           0           0           
+BTC / EUR     BitBay        44244.18    44016.73    44244.18    44016.73    44244.18    44016.73    
+BTC / EUR     Liquid        0           0           0           0           0           0           
+ETH / EUR     Bitfinex      3568.4      3568.2      3568.4      3567.34     3568.4      3568.2      
+ETH / EUR     Kraken        3578.56     3577.76     3578.56     3577.76     3578.56     3577.76     
+ETH / EUR     Bitstamp      3580.17     3576.83     3580.17     3576.83     3580.17     3576.83     
+ETH / EUR     Coinbase      0           0           0           0           0           0           
+ETH / EUR     Bl3p          0           0           0           0           0           0           
+ETH / EUR     theRock       3577.16     3563.08     3577.17     3563.07     3577.16     3563.08     
+ETH / EUR     Cex           0           0           0           0           0           0           
+ETH / EUR     BitBay        3592.64     3564.49     3593.72     3564.49     3592.64     3564.49     
+ETH / EUR     Liquid        0           0           0           0           0           0           
+LTC / EUR     Bitfinex      0           0           0           0           0           0           
+LTC / EUR     Kraken        136.09      136.05      136.09      136.05      136.09      136.05      
+LTC / EUR     Bitstamp      136.14      135.96      136.15      135.96      136.14      135.96      
+LTC / EUR     Coinbase      0           0           0           0           0           0           
+LTC / EUR     Bl3p          0           0           0           0           0           0           
+LTC / EUR     theRock       136.31      135.91      136.36      135.3       136.31      135.91      
+LTC / EUR     Cex           0           0           0           0           0           0           
+LTC / EUR     BitBay        141.85      135.06      141.86      135.01      141.85      135.06      
+LTC / EUR     Liquid        0           0           0           0           0           0           
+
+-----------------------------------     -------------------------     -------------------------     
+     ------ ARBITRAGE ------            Potential Opportunities          Current Positions          
+-----------------------------------     --------------------------    -------------------------     
+----------    ------      ------      ------    ------    ------    ------    ------    ------
+Instrument     Long        Short      Spread    Target     Max       Spread   Target     Min
+----------    ------      ------      ------    ------    ------    ------    ------    ------
+BTC / EUR     Bitfinex    Kraken      0.28 %    400.92 %  0.28 %       -         -         -   
+ETH / EUR     Bitfinex    Kraken      0.26 %    400.92 %  0.26 %       -         -         -   
+ETH / EUR     theRock     Kraken      0.02 %    400.92 %  0.02 %       -         -         -   
+BTC / EUR     Bitstamp    Kraken      -0.05 %   400.92 %  -0.05 %      -         -         -   
+ETH / EUR     Bitstamp    Kraken      -0.07 %   400.92 %  -0.07 %      -         -         -   
+BTC / EUR     theRock     Kraken      -0.17 %   400.92 %  -0.17 %      -         -         -   
+ETH / EUR     theRock     Bitfinex    -0.27 %   400.8 %   -0.27 %      -         -         -   
+BTC / EUR     Kraken      Bitfinex    -0.31 %   400.92 %  -0.31 %      -         -         -   
+ETH / EUR     Kraken      Bitfinex    -0.31 %   400.92 %  -0.31 %      -         -         -   
+BTC / EUR     Bitstamp    Bitfinex    -0.34 %   400.8 %   -0.34 %      -         -         -   
+ETH / EUR     Bitstamp    Bitfinex    -0.36 %   400.8 %   -0.36 %      -         -         -   
+BTC / EUR     BitBay      Kraken      -0.42 %   400.92 %  -0.42 %      -         -         -   
+ETH / EUR     BitBay      Kraken      -0.44 %   400.92 %  -0.44 %      -         -         -   
+BTC / EUR     theRock     Bitfinex    -0.47 %   400.8 %   -0.47 %      -         -         -   
+BTC / EUR     BitBay      Bitfinex    -0.71 %   400.8 %   -0.71 %      -         -         -   
+ETH / EUR     BitBay      Bitfinex    -0.73 %   400.8 %   -0.73 %      -         -         -   
+
+
+-------------------   ------------   ------------   ------------   ------------   
+Exchange Balances      EUR Balance    BTC Balance    ETH Balance    LTC Balance   
+-------------------   ------------   ------------   ------------   ------------   
+Bitfinex              1000.0         0.0            0.0            0.0            
+Kraken                1000.0         0.0            0.0            0.0            
+Bitstamp              1000.0         0.0            0.0            0.0            
+Coinbase              1000.0         0.0            0.0            0.0            
+Bl3p                  1000.0         0.0            0.0            0.0            
+theRock               1000.0         0.0            0.0            0.0            
+Cex                   1000.0         0.0            0.0            0.0            
+BitBay                1000.0         0.0            0.0            0.0            
+Liquid                1000.0         0.0            0.0            0.0            
+-----------   -----------   --------    --------    --------    --------    --------    --------    
+Instrument    Exchange        Ask         Bid       Entry Ask   Entry Bid   Exit Ask    Exit Bid    
+-----------   -----------   --------    --------    --------    --------    --------    --------    
+BTC / EUR     Bitfinex      43937.0     43935.0     43937.0     43935.0     43937.0     43935.0     
+BTC / EUR     Kraken        44065.0     44064.9     44065.0     44060.53    44065.0     44064.9     
+BTC / EUR     Bitstamp      44082.96    44051.3     44082.96    44051.3     44082.96    44051.3     
+BTC / EUR     Coinbase      0           0           0           0           0           0           
+BTC / EUR     Bl3p          0           0           0           0           0           0           
+BTC / EUR     theRock       44136.1     44117.36    44136.11    43902.01    44136.1     44117.36    
+BTC / EUR     Cex           0           0           0           0           0           0           
+BTC / EUR     BitBay        44244.18    44017.77    44244.18    44017.77    44244.18    44017.77    
+BTC / EUR     Liquid        0           0           0           0           0           0           
+ETH / EUR     Bitfinex      3568.4      3568.0      3568.4      3567.3      3568.4      3568.0      
+ETH / EUR     Kraken        3578.58     3577.63     3578.58     3577.63     3578.58     3577.63     
+ETH / EUR     Bitstamp      3579.24     3576.84     3579.24     3576.84     3579.24     3576.84     
+ETH / EUR     Coinbase      0           0           0           0           0           0           
+ETH / EUR     Bl3p          0           0           0           0           0           0           
+ETH / EUR     theRock       3577.12     3563.08     3577.13     3563.07     3577.12     3563.08     
+ETH / EUR     Cex           0           0           0           0           0           0           
+ETH / EUR     BitBay        3591.92     3565.12     3593.58     3565.12     3591.92     3565.12     
+ETH / EUR     Liquid        0           0           0           0           0           0           
+LTC / EUR     Bitfinex      0           0           0           0           0           0           
+LTC / EUR     Kraken        136.1       136.05      136.1       136.05      136.1       136.05      
+LTC / EUR     Bitstamp      136.14      135.97      136.17      135.96      136.14      135.97      
+LTC / EUR     Coinbase      0           0           0           0           0           0           
+LTC / EUR     Bl3p          0           0           0           0           0           0           
+LTC / EUR     theRock       136.27      135.91      136.33      135.29      136.27      135.91      
+LTC / EUR     Cex           0           0           0           0           0           0           
+LTC / EUR     BitBay        141.85      135.18      141.86      135.13      141.85      135.18      
+LTC / EUR     Liquid        0           0           0           0           0           0           
+
+-----------------------------------     -------------------------     -------------------------     
+     ------ ARBITRAGE ------            Potential Opportunities          Current Positions          
+-----------------------------------     --------------------------    -------------------------     
+----------    ------      ------      ------    ------    ------    ------    ------    ------
+Instrument     Long        Short      Spread    Target     Max       Spread   Target     Min
+----------    ------      ------      ------    ------    ------    ------    ------    ------
+BTC / EUR     Bitfinex    Kraken      0.28 %    1.92 %    0.28 %       -         -         -   
+ETH / EUR     Bitfinex    Kraken      0.26 %    1.92 %    0.26 %       -         -         -   
+ETH / EUR     theRock     Kraken      0.01 %    1.92 %    0.02 %       -         -         -   
+ETH / EUR     Bitstamp    Kraken      -0.04 %   1.92 %    -0.04 %      -         -         -   
+BTC / EUR     Bitstamp    Kraken      -0.05 %   1.92 %    -0.05 %      -         -         -   
+BTC / EUR     theRock     Kraken      -0.17 %   1.92 %    -0.17 %      -         -         -   
+ETH / EUR     theRock     Bitfinex    -0.27 %   1.8 %     -0.27 %      -         -         -   
+BTC / EUR     Kraken      Bitfinex    -0.3 %    1.92 %    -0.3 %       -         -         -   
+ETH / EUR     Kraken      Bitfinex    -0.32 %   1.92 %    -0.31 %      -         -         -   
+ETH / EUR     Bitstamp    Bitfinex    -0.33 %   1.8 %     -0.33 %      -         -         -   
+BTC / EUR     Bitstamp    Bitfinex    -0.34 %   1.8 %     -0.34 %      -         -         -   
+BTC / EUR     BitBay      Kraken      -0.42 %   1.92 %    -0.42 %      -         -         -   
+ETH / EUR     BitBay      Kraken      -0.44 %   1.92 %    -0.44 %      -         -         -   
+BTC / EUR     theRock     Bitfinex    -0.46 %   1.8 %     -0.46 %      -         -         -   
+BTC / EUR     BitBay      Bitfinex    -0.7 %    1.8 %     -0.7 %       -         -         -   
+ETH / EUR     BitBay      Bitfinex    -0.73 %   1.8 %     -0.73 %      -         -         -   
+
+
+
+Total Profit Since Running: 0 Euro
+
+Time to execute loop is: 0:00:09.980390s
+
+Scanning Markets
+
+2021-12-26 08:42:53.073539
+
+-------------------   ------------   ------------   ------------   ------------   
+Exchange Balances      EUR Balance    BTC Balance    ETH Balance    LTC Balance   
+-------------------   ------------   ------------   ------------   ------------   
+Bitfinex              1000.0         0.0            0.0            0.0            
+Kraken                1000.0         0.0            0.0            0.0            
+Bitstamp              1000.0         0.0            0.0            0.0            
+Coinbase              1000.0         0.0            0.0            0.0            
+Bl3p                  1000.0         0.0            0.0            0.0            
+theRock               1000.0         0.0            0.0            0.0            
+Cex                   1000.0         0.0            0.0            0.0            
+BitBay                1000.0         0.0            0.0            0.0            
+Liquid                1000.0         0.0            0.0            0.0            
+-----------   -----------   --------    --------    --------    --------    --------    --------    
+Instrument    Exchange        Ask         Bid       Entry Ask   Entry Bid   Exit Ask    Exit Bid    
+-----------   -----------   --------    --------    --------    --------    --------    --------    
+BTC / EUR     Bitfinex      43936.0     43935.0     43936.0     43935.0     43936.0     43935.0     
+BTC / EUR     Kraken        44065.0     44064.9     44065.0     44058.95    44065.0     44064.9     
+BTC / EUR     Bitstamp      44081.83    44054.69    44081.83    44054.69    44081.83    44054.69    
+BTC / EUR     Coinbase      0           0           0           0           0           0           
+BTC / EUR     Bl3p          0           0           0           0           0           0           
+BTC / EUR     theRock       44136.1     44117.36    44136.1     43902.01    44136.1     44117.36    
+BTC / EUR     Cex           0           0           0           0           0           0           
+BTC / EUR     BitBay        44244.18    44017.77    44244.18    44017.77    44244.18    44017.77    
+BTC / EUR     Liquid        0           0           0           0           0           0           
+ETH / EUR     Bitfinex      3568.0      3567.7      3568.19     3567.55     3568.0      3567.7      
+ETH / EUR     Kraken        3578.34     3577.57     3578.34     3577.57     3578.34     3577.57     
+ETH / EUR     Bitstamp      3579.24     3577.14     3579.24     3577.05     3579.24     3577.14     
+ETH / EUR     Coinbase      0           0           0           0           0           0           
+ETH / EUR     Bl3p          0           0           0           0           0           0           
+ETH / EUR     theRock       3577.06     3563.08     3579.18     3563.07     3577.06     3563.08     
+ETH / EUR     Cex           0           0           0           0           0           0           
+ETH / EUR     BitBay        3591.08     3564.4      3593.42     3564.4      3591.08     3564.4      
+ETH / EUR     Liquid        0           0           0           0           0           0           
+LTC / EUR     Bitfinex      0           0           0           0           0           0           
+LTC / EUR     Kraken        136.13      136.08      136.13      136.08      136.13      136.08      
+LTC / EUR     Bitstamp      136.18      135.97      136.18      135.96      136.18      135.97      
+LTC / EUR     Coinbase      0           0           0           0           0           0           
+LTC / EUR     Bl3p          0           0           0           0           0           0           
+LTC / EUR     theRock       136.3       135.91      136.33      135.21      136.3       135.91      
+LTC / EUR     Cex           0           0           0           0           0           0           
+LTC / EUR     BitBay        141.85      135.3       141.86      135.25      141.85      135.3       
+LTC / EUR     Liquid        0           0           0           0           0           0           
+
+-----------------------------------     -------------------------     -------------------------     
+     ------ ARBITRAGE ------            Potential Opportunities          Current Positions          
+-----------------------------------     --------------------------    -------------------------     
+----------    ------      ------      ------    ------    ------    ------    ------    ------
+Instrument     Long        Short      Spread    Target     Max       Spread   Target     Min
+----------    ------      ------      ------    ------    ------    ------    ------    ------
+BTC / EUR     Bitfinex    Kraken      0.28 %    1.92 %    0.28 %       -         -         -   
+ETH / EUR     Bitfinex    Kraken      0.26 %    1.92 %    0.26 %       -         -         -   
+ETH / EUR     theRock     Kraken      -0.04 %   1.92 %    0.02 %       -         -         -   
+ETH / EUR     Bitstamp    Kraken      -0.05 %   1.92 %    -0.04 %      -         -         -   
+BTC / EUR     Bitstamp    Kraken      -0.05 %   1.92 %    -0.05 %      -         -         -   
+BTC / EUR     theRock     Kraken      -0.17 %   1.92 %    -0.17 %      -         -         -   
+BTC / EUR     Kraken      Bitfinex    -0.3 %    1.92 %    -0.3 %       -         -         -   
+ETH / EUR     Kraken      Bitfinex    -0.3 %    1.92 %    -0.3 %       -         -         -   
+ETH / EUR     theRock     Bitfinex    -0.32 %   1.8 %     -0.27 %      -         -         -   
+ETH / EUR     Bitstamp    Bitfinex    -0.33 %   1.8 %     -0.33 %      -         -         -   
+BTC / EUR     Bitstamp    Bitfinex    -0.33 %   1.8 %     -0.33 %      -         -         -   
+BTC / EUR     BitBay      Kraken      -0.42 %   1.92 %    -0.42 %      -         -         -   
+ETH / EUR     BitBay      Kraken      -0.44 %   1.92 %    -0.44 %      -         -         -   
+BTC / EUR     theRock     Bitfinex    -0.46 %   1.8 %     -0.46 %      -         -         -   
+BTC / EUR     BitBay      Bitfinex    -0.7 %    1.8 %     -0.7 %       -         -         -   
+ETH / EUR     BitBay      Bitfinex    -0.72 %   1.8 %     -0.72 %      -         -         -   
+
+
+
+Total Profit Since Running: 0 Euro
+
+Time to execute loop is: 0:00:04.103224s
+
+Scanning Markets
+
+2021-12-26 08:43:05.181723
+
+-------------------   ------------   ------------   ------------   ------------   
+Exchange Balances      EUR Balance    BTC Balance    ETH Balance    LTC Balance   
+-------------------   ------------   ------------   ------------   ------------   
+Bitfinex              1000.0         0.0            0.0            0.0            
+Kraken                1000.0         0.0            0.0            0.0            
+Bitstamp              1000.0         0.0            0.0            0.0            
+Bl3p                  1000.0         0.0            0.0            0.0            
+theRock               1000.0         0.0            0.0            0.0            
+BitBay                1000.0         0.0            0.0            0.0            
+-----------   -----------   --------    --------    --------    --------    --------    --------    
+Instrument    Exchange        Ask         Bid       Entry Ask   Entry Bid   Exit Ask    Exit Bid    
+-----------   -----------   --------    --------    --------    --------    --------    --------    
+BTC / EUR     Bitfinex      43936.0     43935.0     43936.0     43935.0     43936.0     43935.0     
+BTC / EUR     Kraken        44065.0     44064.9     44065.0     44059.9     44065.0     44064.9     
+BTC / EUR     Bitstamp      44081.83    44054.23    44081.83    44054.23    44081.83    44054.23    
+BTC / EUR     Bl3p          0           0           0           0           0           0           
+BTC / EUR     theRock       44136.07    44117.36    44136.07    43901.98    44136.07    44117.36    
+BTC / EUR     BitBay        44244.18    44017.77    44244.18    44017.77    44244.18    44017.77    
+ETH / EUR     Bitfinex      3568.0      3567.8      3568.19     3567.57     3568.0      3567.8      
+ETH / EUR     Kraken        3578.69     3577.86     3578.7      3577.86     3578.69     3577.86     
+ETH / EUR     Bitstamp      3579.24     3577.14     3579.24     3577.14     3579.24     3577.14     
+ETH / EUR     Bl3p          0           0           0           0           0           0           
+ETH / EUR     theRock       3576.97     3563.08     3576.98     3563.07     3576.97     3563.08     
+ETH / EUR     BitBay        3590.47     3565.04     3593.28     3565.03     3590.47     3565.04     
+LTC / EUR     Bitfinex      0           0           0           0           0           0           
+LTC / EUR     Kraken        136.13      136.08      136.13      136.08      136.13      136.08      
+LTC / EUR     Bitstamp      136.18      135.97      136.18      135.97      136.18      135.97      
+LTC / EUR     Bl3p          0           0           0           0           0           0           
+LTC / EUR     theRock       136.22      135.91      136.33      135.29      136.22      135.91      
+LTC / EUR     BitBay        141.85      135.37      141.86      135.37      141.85      135.37      
+
+-----------------------------------     -------------------------     -------------------------     
+     ------ ARBITRAGE ------            Potential Opportunities          Current Positions          
+-----------------------------------     --------------------------    -------------------------     
+----------    ------      ------      ------    ------    ------    ------    ------    ------
+Instrument     Long        Short      Spread    Target     Max       Spread   Target     Min
+----------    ------      ------      ------    ------    ------    ------    ------    ------
+BTC / EUR     Bitfinex    Kraken      0.28 %    1.92 %    0.28 %       -         -         -   
+ETH / EUR     Bitfinex    Kraken      0.27 %    1.92 %    0.27 %       -         -         -   
+ETH / EUR     theRock     Kraken      0.02 %    1.92 %    0.02 %       -         -         -   
+ETH / EUR     Bitstamp    Kraken      -0.04 %   1.92 %    -0.04 %      -         -         -   
+BTC / EUR     Bitstamp    Kraken      -0.05 %   1.92 %    -0.05 %      -         -         -   
+BTC / EUR     theRock     Kraken      -0.17 %   1.92 %    -0.17 %      -         -         -   
+ETH / EUR     theRock     Bitfinex    -0.26 %   1.8 %     -0.26 %      -         -         -   
+BTC / EUR     Kraken      Bitfinex    -0.3 %    1.92 %    -0.3 %       -         -         -   
+ETH / EUR     Kraken      Bitfinex    -0.31 %   1.92 %    -0.3 %       -         -         -   
+ETH / EUR     Bitstamp    Bitfinex    -0.33 %   1.8 %     -0.33 %      -         -         -   
+BTC / EUR     Bitstamp    Bitfinex    -0.33 %   1.8 %     -0.33 %      -         -         -   
+BTC / EUR     BitBay      Kraken      -0.42 %   1.92 %    -0.42 %      -         -         -   
+ETH / EUR     BitBay      Kraken      -0.43 %   1.92 %    -0.43 %      -         -         -   
+BTC / EUR     theRock     Bitfinex    -0.46 %   1.8 %     -0.46 %      -         -         -   
+BTC / EUR     BitBay      Bitfinex    -0.7 %    1.8 %     -0.7 %       -         -         -   
+ETH / EUR     BitBay      Bitfinex    -0.72 %   1.8 %     -0.72 %      -         -         -   
+
+
+
+Total Profit Since Running: 0 Euro
+
+Time to execute loop is: 0:00:09.793595s
+
+Scanning Markets
+
+2021-12-26 08:43:22.978305
+
+-------------------   ------------   ------------   ------------   ------------   
+Exchange Balances      EUR Balance    BTC Balance    ETH Balance    LTC Balance   
+-------------------   ------------   ------------   ------------   ------------   
+Bitfinex              1000.0         0.0            0.0            0.0            
+Kraken                1000.0         0.0            0.0            0.0            
+Bitstamp              1000.0         0.0            0.0            0.0            
+theRock               1000.0         0.0            0.0            0.0            
+BitBay                1000.0         0.0            0.0            0.0            
+-----------   -----------   --------    --------    --------    --------    --------    --------    
+Instrument    Exchange        Ask         Bid       Entry Ask   Entry Bid   Exit Ask    Exit Bid    
+-----------   -----------   --------    --------    --------    --------    --------    --------    
+BTC / EUR     Bitfinex      43934.0     43930.0     43934.0     43930.0     43934.0     43930.0     
+BTC / EUR     Kraken        44065.0     44064.9     44065.0     44056.17    44065.0     44064.9     
+BTC / EUR     Bitstamp      44072.18    44045.41    44072.18    44045.41    44072.18    44045.41    
+BTC / EUR     theRock       44136.06    44117.36    44136.07    43901.95    44136.06    44117.36    
+BTC / EUR     BitBay        44244.18    44017.77    44244.18    44017.77    44244.18    44017.77    
+ETH / EUR     Bitfinex      3568.3      3567.7      3568.3      3567.6      3568.3      3567.7      
+ETH / EUR     Kraken        3578.7      3577.82     3578.77     3577.82     3578.7      3577.82     
+ETH / EUR     Bitstamp      3579.44     3577.59     3579.44     3577.22     3579.44     3577.59     
+ETH / EUR     theRock       3576.89     3563.08     3576.9      3563.07     3576.89     3563.08     
+ETH / EUR     BitBay        3589.64     3564.82     3593.14     3564.82     3589.64     3564.82     
+LTC / EUR     Bitfinex      0           0           0           0           0           0           
+LTC / EUR     Kraken        136.08      136.01      136.1       136.0       136.08      136.01      
+LTC / EUR     Bitstamp      136.18      135.96      136.18      135.96      136.18      135.96      
+LTC / EUR     theRock       136.31      135.91      136.31      135.29      136.31      135.91      
+LTC / EUR     BitBay        141.85      135.38      141.86      135.37      141.85      135.38      
+
+-----------------------------------     -------------------------     -------------------------     
+     ------ ARBITRAGE ------            Potential Opportunities          Current Positions          
+-----------------------------------     --------------------------    -------------------------     
+----------    ------      ------      ------    ------    ------    ------    ------    ------
+Instrument     Long        Short      Spread    Target     Max       Spread   Target     Min
+----------    ------      ------      ------    ------    ------    ------    ------    ------
+BTC / EUR     Bitfinex    Kraken      0.28 %    1.92 %    0.28 %       -         -         -   
+ETH / EUR     Bitfinex    Kraken      0.27 %    1.92 %    0.27 %       -         -         -   
+ETH / EUR     theRock     Kraken      0.03 %    1.92 %    0.03 %       -         -         -   
+BTC / EUR     Bitstamp    Kraken      -0.04 %   1.92 %    -0.04 %      -         -         -   
+ETH / EUR     Bitstamp    Kraken      -0.05 %   1.92 %    -0.04 %      -         -         -   
+BTC / EUR     theRock     Kraken      -0.18 %   1.92 %    -0.17 %      -         -         -   
+ETH / EUR     theRock     Bitfinex    -0.26 %   1.8 %     -0.26 %      -         -         -   
+BTC / EUR     Kraken      Bitfinex    -0.31 %   1.92 %    -0.3 %       -         -         -   
+ETH / EUR     Kraken      Bitfinex    -0.31 %   1.92 %    -0.3 %       -         -         -   
+BTC / EUR     Bitstamp    Bitfinex    -0.32 %   1.8 %     -0.32 %      -         -         -   
+ETH / EUR     Bitstamp    Bitfinex    -0.33 %   1.8 %     -0.33 %      -         -         -   
+BTC / EUR     BitBay      Kraken      -0.42 %   1.92 %    -0.42 %      -         -         -   
+ETH / EUR     BitBay      Kraken      -0.43 %   1.92 %    -0.43 %      -         -         -   
+BTC / EUR     theRock     Bitfinex    -0.47 %   1.8 %     -0.46 %      -         -         -   
+BTC / EUR     BitBay      Bitfinex    -0.71 %   1.8 %     -0.7 %       -         -         -   
+ETH / EUR     BitBay      Bitfinex    -0.71 %   1.8 %     -0.71 %      -         -         -   
+
+
+
+Total Profit Since Running: 0 Euro
+
+Time to execute loop is: 0:00:07.485465s
+
+Scanning Markets
+
+2021-12-26 08:43:38.467172
+
+-------------------   ------------   ------------   ------------   ------------   
+Exchange Balances      EUR Balance    BTC Balance    ETH Balance    LTC Balance   
+-------------------   ------------   ------------   ------------   ------------   
+Bitfinex              1000.0         0.0            0.0            0.0            
+Kraken                1000.0         0.0            0.0            0.0            
+Bitstamp              1000.0         0.0            0.0            0.0            
+theRock               1000.0         0.0            0.0            0.0            
+BitBay                1000.0         0.0            0.0            0.0            
+-----------   -----------   --------    --------    --------    --------    --------    --------    
+Instrument    Exchange        Ask         Bid       Entry Ask   Entry Bid   Exit Ask    Exit Bid    
+-----------   -----------   --------    --------    --------    --------    --------    --------    
+BTC / EUR     Bitfinex      43934.0     43933.0     43934.0     43932.0     43934.0     43933.0     
+BTC / EUR     Kraken        44073.5     44069.3     44073.6     44069.3     44073.5     44069.3     
+BTC / EUR     Bitstamp      44086.32    44061.82    44086.32    44061.82    44086.32    44061.82    
+BTC / EUR     theRock       44136.04    44117.36    44136.04    43901.15    44136.04    44117.36    
+BTC / EUR     BitBay        44244.18    44018.8     44244.18    44018.8     44244.18    44018.8     
+ETH / EUR     Bitfinex      3568.3      3568.1      3568.38     3568.1      3568.3      3568.1      
+ETH / EUR     Kraken        3578.99     3578.56     3579.0      3578.56     3578.99     3578.56     
+ETH / EUR     Bitstamp      3580.23     3577.85     3580.23     3577.41     3580.23     3577.85     
+ETH / EUR     theRock       3579.45     3563.49     3579.67     3563.48     3579.45     3563.49     
+ETH / EUR     BitBay        3589.03     3565.69     3593.22     3565.01     3589.03     3565.69     
+LTC / EUR     Bitfinex      0           0           0           0           0           0           
+LTC / EUR     Kraken        136.12      136.04      136.13      136.04      136.12      136.04      
+LTC / EUR     Bitstamp      136.2       135.99      136.21      135.99      136.2       135.99      
+LTC / EUR     theRock       136.22      135.91      136.31      135.28      136.22      135.91      
+LTC / EUR     BitBay        141.85      135.38      141.86      135.37      141.85      135.38      
+
+-----------------------------------     -------------------------     -------------------------     
+     ------ ARBITRAGE ------            Potential Opportunities          Current Positions          
+-----------------------------------     --------------------------    -------------------------     
+----------    ------      ------      ------    ------    ------    ------    ------    ------
+Instrument     Long        Short      Spread    Target     Max       Spread   Target     Min
+----------    ------      ------      ------    ------    ------    ------    ------    ------
+BTC / EUR     Bitfinex    Kraken      0.31 %    1.92 %    0.31 %       -         -         -   
+ETH / EUR     Bitfinex    Kraken      0.29 %    1.92 %    0.29 %       -         -         -   
+ETH / EUR     theRock     Kraken      -0.03 %   1.92 %    0.03 %       -         -         -   
+BTC / EUR     Bitstamp    Kraken      -0.04 %   1.92 %    -0.04 %      -         -         -   
+ETH / EUR     Bitstamp    Kraken      -0.05 %   1.92 %    -0.04 %      -         -         -   
+BTC / EUR     theRock     Kraken      -0.15 %   1.92 %    -0.15 %      -         -         -   
+ETH / EUR     Kraken      Bitfinex    -0.3 %    1.92 %    -0.3 %       -         -         -   
+BTC / EUR     Kraken      Bitfinex    -0.32 %   1.92 %    -0.3 %       -         -         -   
+ETH / EUR     theRock     Bitfinex    -0.32 %   1.8 %     -0.26 %      -         -         -   
+ETH / EUR     Bitstamp    Bitfinex    -0.34 %   1.8 %     -0.33 %      -         -         -   
+BTC / EUR     Bitstamp    Bitfinex    -0.35 %   1.8 %     -0.32 %      -         -         -   
+BTC / EUR     BitBay      Kraken      -0.4 %    1.92 %    -0.4 %       -         -         -   
+ETH / EUR     BitBay      Kraken      -0.41 %   1.92 %    -0.41 %      -         -         -   
+BTC / EUR     theRock     Bitfinex    -0.46 %   1.8 %     -0.46 %      -         -         -   
+ETH / EUR     BitBay      Bitfinex    -0.7 %    1.8 %     -0.7 %       -         -         -   
+BTC / EUR     BitBay      Bitfinex    -0.71 %   1.8 %     -0.7 %       -         -         -   
+
+
+
+Total Profit Since Running: 0 Euro
+
+Time to execute loop is: 0:00:08.883111s
+
+Scanning Markets
+
+2021-12-26 08:43:55.356272
+
+-------------------   ------------   ------------   ------------   ------------   
+Exchange Balances      EUR Balance    BTC Balance    ETH Balance    LTC Balance   
+-------------------   ------------   ------------   ------------   ------------   
+Bitfinex              1000.0         0.0            0.0            0.0            
+Kraken                1000.0         0.0            0.0            0.0            
+Bitstamp              1000.0         0.0            0.0            0.0            
+theRock               1000.0         0.0            0.0            0.0            
+BitBay                1000.0         0.0            0.0            0.0            
+-----------   -----------   --------    --------    --------    --------    --------    --------    
+Instrument    Exchange        Ask         Bid       Entry Ask   Entry Bid   Exit Ask    Exit Bid    
+-----------   -----------   --------    --------    --------    --------    --------    --------    
+BTC / EUR     Bitfinex      43942.0     43940.0     43953.17    43940.0     43942.0     43940.0     
+BTC / EUR     Kraken        44073.6     44073.5     44073.6     44073.5     44073.6     44073.5     
+BTC / EUR     Bitstamp      44090.76    44065.05    44090.76    44065.05    44090.76    44065.05    
+BTC / EUR     theRock       44119.56    44117.36    44136.03    43901.23    44119.56    44117.36    
+BTC / EUR     BitBay        44244.18    44020.62    44244.18    44020.62    44244.18    44020.62    
+ETH / EUR     Bitfinex      3568.3      3568.1      3568.36     3568.1      3568.3      3568.1      
+ETH / EUR     Kraken        3579.0      3578.89     3579.12     3578.89     3579.0      3578.89     
+ETH / EUR     Bitstamp      3580.72     3578.61     3580.72     3578.14     3580.72     3578.61     
+ETH / EUR     theRock       3579.45     3564.05     3579.65     3563.49     3579.45     3564.05     
+ETH / EUR     BitBay        3593.84     3566.53     3593.95     3566.52     3593.84     3566.53     
+LTC / EUR     Bitfinex      0           0           0           0           0           0           
+LTC / EUR     Kraken        136.17      136.13      136.2       136.13      136.17      136.13      
+LTC / EUR     Bitstamp      136.25      135.99      136.26      135.99      136.25      135.99      
+LTC / EUR     theRock       136.3       135.91      136.31      135.29      136.3       135.91      
+LTC / EUR     BitBay        141.85      135.43      141.86      135.38      141.85      135.43      
+
+-----------------------------------     -------------------------     -------------------------     
+     ------ ARBITRAGE ------            Potential Opportunities          Current Positions          
+-----------------------------------     --------------------------    -------------------------     
+----------    ------      ------      ------    ------    ------    ------    ------    ------
+Instrument     Long        Short      Spread    Target     Max       Spread   Target     Min
+----------    ------      ------      ------    ------    ------    ------    ------    ------
+ETH / EUR     Bitfinex    Kraken      0.3 %     1.92 %    0.3 %        -         -         -   
+BTC / EUR     Bitfinex    Kraken      0.27 %    1.92 %    0.31 %       -         -         -   
+ETH / EUR     theRock     Kraken      -0.02 %   1.92 %    0.03 %       -         -         -   
+BTC / EUR     Bitstamp    Kraken      -0.04 %   1.92 %    -0.04 %      -         -         -   
+ETH / EUR     Bitstamp    Kraken      -0.05 %   1.92 %    -0.04 %      -         -         -   
+BTC / EUR     theRock     Kraken      -0.14 %   1.92 %    -0.14 %      -         -         -   
+BTC / EUR     Kraken      Bitfinex    -0.3 %    1.92 %    -0.3 %       -         -         -   
+ETH / EUR     Kraken      Bitfinex    -0.31 %   1.92 %    -0.3 %       -         -         -   
+ETH / EUR     theRock     Bitfinex    -0.32 %   1.8 %     -0.26 %      -         -         -   
+BTC / EUR     Bitstamp    Bitfinex    -0.34 %   1.8 %     -0.32 %      -         -         -   
+ETH / EUR     Bitstamp    Bitfinex    -0.35 %   1.8 %     -0.33 %      -         -         -   
+BTC / EUR     BitBay      Kraken      -0.39 %   1.92 %    -0.39 %      -         -         -   
+ETH / EUR     BitBay      Kraken      -0.42 %   1.92 %    -0.41 %      -         -         -   
+BTC / EUR     theRock     Bitfinex    -0.44 %   1.8 %     -0.44 %      -         -         -   
+BTC / EUR     BitBay      Bitfinex    -0.69 %   1.8 %     -0.69 %      -         -         -   
+ETH / EUR     BitBay      Bitfinex    -0.72 %   1.8 %     -0.7 %       -         -         -   
+
+
+
+Total Profit Since Running: 0 Euro
+
+Time to execute loop is: 0:00:09.912162s
+
+Scanning Markets
+
+2021-12-26 08:44:13.273320
+
+-------------------   ------------   ------------   ------------   ------------   
+Exchange Balances      EUR Balance    BTC Balance    ETH Balance    LTC Balance   
+-------------------   ------------   ------------   ------------   ------------   
+Bitfinex              1000.0         0.0            0.0            0.0            
+Kraken                1000.0         0.0            0.0            0.0            
+Bitstamp              1000.0         0.0            0.0            0.0            
+theRock               1000.0         0.0            0.0            0.0            
+BitBay                1000.0         0.0            0.0            0.0            
+-----------   -----------   --------    --------    --------    --------    --------    --------    
+Instrument    Exchange        Ask         Bid       Entry Ask   Entry Bid   Exit Ask    Exit Bid    
+-----------   -----------   --------    --------    --------    --------    --------    --------    
+BTC / EUR     Bitfinex      43949.0     43947.0     43949.0     43947.0     43949.0     43947.0     
+BTC / EUR     Kraken        44073.6     44073.5     44073.6     44073.5     44073.6     44073.5     
+BTC / EUR     Bitstamp      44093.03    44068.76    44093.03    44068.76    44093.03    44068.76    
+BTC / EUR     theRock       44136.03    44117.36    44136.04    43902.14    44136.03    44117.36    
+BTC / EUR     BitBay        44244.18    44022.7     44244.18    44022.7     44244.18    44022.7     
+ETH / EUR     Bitfinex      3568.7      3568.5      3568.7      3568.5      3568.7      3568.5      
+ETH / EUR     Kraken        3579.0      3578.99     3579.2      3578.99     3579.0      3578.99     
+ETH / EUR     Bitstamp      3580.65     3578.67     3580.65     3578.45     3580.65     3578.67     
+ETH / EUR     theRock       3579.45     3563.99     3579.61     3563.98     3579.45     3563.99     
+ETH / EUR     BitBay        3593.0      3565.83     3593.79     3565.83     3593.0      3565.83     
+LTC / EUR     Bitfinex      0           0           0           0           0           0           
+LTC / EUR     Kraken        136.19      136.13      136.19      136.13      136.19      136.13      
+LTC / EUR     Bitstamp      136.25      135.99      136.26      135.99      136.25      135.99      
+LTC / EUR     theRock       136.3       135.91      136.31      135.29      136.3       135.91      
+LTC / EUR     BitBay        141.85      135.38      141.86      135.37      141.85      135.38      
+
+-----------------------------------     -------------------------     -------------------------     
+     ------ ARBITRAGE ------            Potential Opportunities          Current Positions          
+-----------------------------------     --------------------------    -------------------------     
+----------    ------      ------      ------    ------    ------    ------    ------    ------
+Instrument     Long        Short      Spread    Target     Max       Spread   Target     Min
+----------    ------      ------      ------    ------    ------    ------    ------    ------
+ETH / EUR     Bitfinex    Kraken      0.29 %    1.92 %    0.3 %        -         -         -   
+BTC / EUR     Bitfinex    Kraken      0.28 %    1.92 %    0.31 %       -         -         -   
+ETH / EUR     theRock     Kraken      -0.02 %   1.92 %    0.03 %       -         -         -   
+BTC / EUR     Bitstamp    Kraken      -0.04 %   1.92 %    -0.04 %      -         -         -   
+ETH / EUR     Bitstamp    Kraken      -0.05 %   1.92 %    -0.04 %      -         -         -   
+BTC / EUR     theRock     Kraken      -0.14 %   1.92 %    -0.14 %      -         -         -   
+BTC / EUR     Kraken      Bitfinex    -0.29 %   1.92 %    -0.29 %      -         -         -   
+ETH / EUR     Kraken      Bitfinex    -0.3 %    1.92 %    -0.3 %       -         -         -   
+ETH / EUR     theRock     Bitfinex    -0.31 %   1.8 %     -0.26 %      -         -         -   
+BTC / EUR     Bitstamp    Bitfinex    -0.33 %   1.8 %     -0.32 %      -         -         -   
+ETH / EUR     Bitstamp    Bitfinex    -0.34 %   1.8 %     -0.33 %      -         -         -   
+BTC / EUR     BitBay      Kraken      -0.39 %   1.92 %    -0.39 %      -         -         -   
+ETH / EUR     BitBay      Kraken      -0.41 %   1.92 %    -0.41 %      -         -         -   
+BTC / EUR     theRock     Bitfinex    -0.43 %   1.8 %     -0.43 %      -         -         -   
+BTC / EUR     BitBay      Bitfinex    -0.67 %   1.8 %     -0.67 %      -         -         -   
+ETH / EUR     BitBay      Bitfinex    -0.7 %    1.8 %     -0.7 %       -         -         -   
+
+
+
+Total Profit Since Running: 0 Euro
+
+Time to execute loop is: 0:00:08.085509s
+
+Scanning Markets
+
+2021-12-26 08:44:29.362252
+
+-------------------   ------------   ------------   ------------   ------------   
+Exchange Balances      EUR Balance    BTC Balance    ETH Balance    LTC Balance   
+-------------------   ------------   ------------   ------------   ------------   
+Bitfinex              1000.0         0.0            0.0            0.0            
+Kraken                1000.0         0.0            0.0            0.0            
+Bitstamp              1000.0         0.0            0.0            0.0            
+theRock               1000.0         0.0            0.0            0.0            
+BitBay                1000.0         0.0            0.0            0.0            
+-----------   -----------   --------    --------    --------    --------    --------    --------    
+Instrument    Exchange        Ask         Bid       Entry Ask   Entry Bid   Exit Ask    Exit Bid    
+-----------   -----------   --------    --------    --------    --------    --------    --------    
+BTC / EUR     Bitfinex      43958.0     43956.0     43958.0     43956.0     43958.0     43956.0     
+BTC / EUR     Kraken        44084.2     44084.1     44084.2     44084.1     44084.2     44084.1     
+BTC / EUR     Bitstamp      44111.96    44089.05    44111.96    44089.05    44111.96    44089.05    
+BTC / EUR     theRock       44136.01    44117.36    44136.01    43902.14    44136.01    44117.36    
+BTC / EUR     BitBay        44244.18    44024.27    44244.18    44024.27    44244.18    44024.27    
+ETH / EUR     Bitfinex      3569.8      3569.6      3570.99     3569.6      3569.8      3569.6      
+ETH / EUR     Kraken        3579.0      3578.99     3579.3      3578.99     3579.0      3578.99     
+ETH / EUR     Bitstamp      3581.88     3579.6      3581.88     3579.33     3581.88     3579.6      
+ETH / EUR     theRock       3579.45     3565.47     3579.54     3565.46     3579.45     3565.47     
+ETH / EUR     BitBay        3592.16     3566.56     3593.63     3566.56     3592.16     3566.56     
+LTC / EUR     Bitfinex      0           0           0           0           0           0           
+LTC / EUR     Kraken        136.2       136.14      136.22      136.13      136.2       136.14      
+LTC / EUR     Bitstamp      136.26      136.1       136.26      136.1       136.26      136.1       
+LTC / EUR     theRock       136.3       135.91      136.65      135.13      136.3       135.91      
+LTC / EUR     BitBay        141.85      135.44      141.86      135.38      141.85      135.44      
+
+-----------------------------------     -------------------------     -------------------------     
+     ------ ARBITRAGE ------            Potential Opportunities          Current Positions          
+-----------------------------------     --------------------------    -------------------------     
+----------    ------      ------      ------    ------    ------    ------    ------    ------
+Instrument     Long        Short      Spread    Target     Max       Spread   Target     Min
+----------    ------      ------      ------    ------    ------    ------    ------    ------
+BTC / EUR     Bitfinex    Kraken      0.29 %    1.92 %    0.31 %       -         -         -   
+ETH / EUR     Bitfinex    Kraken      0.22 %    1.92 %    0.3 %        -         -         -   
+ETH / EUR     theRock     Kraken      -0.02 %   1.92 %    0.03 %       -         -         -   
+BTC / EUR     Bitstamp    Kraken      -0.06 %   1.92 %    -0.04 %      -         -         -   
+ETH / EUR     Bitstamp    Kraken      -0.08 %   1.92 %    -0.04 %      -         -         -   
+BTC / EUR     theRock     Kraken      -0.12 %   1.92 %    -0.12 %      -         -         -   
+ETH / EUR     Kraken      Bitfinex    -0.27 %   1.92 %    -0.27 %      -         -         -   
+ETH / EUR     theRock     Bitfinex    -0.28 %   1.8 %     -0.26 %      -         -         -   
+BTC / EUR     Kraken      Bitfinex    -0.29 %   1.92 %    -0.29 %      -         -         -   
+ETH / EUR     Bitstamp    Bitfinex    -0.34 %   1.8 %     -0.33 %      -         -         -   
+BTC / EUR     Bitstamp    Bitfinex    -0.35 %   1.8 %     -0.32 %      -         -         -   
+BTC / EUR     BitBay      Kraken      -0.36 %   1.92 %    -0.36 %      -         -         -   
+ETH / EUR     BitBay      Kraken      -0.41 %   1.92 %    -0.41 %      -         -         -   
+BTC / EUR     theRock     Bitfinex    -0.41 %   1.8 %     -0.41 %      -         -         -   
+BTC / EUR     BitBay      Bitfinex    -0.65 %   1.8 %     -0.65 %      -         -         -   
+ETH / EUR     BitBay      Bitfinex    -0.67 %   1.8 %     -0.67 %      -         -         -   
+
+
+
+Total Profit Since Running: 0 Euro
+
+Time to execute loop is: 0:00:09.447051s
+
+Scanning Markets
+
+2021-12-26 08:44:46.815835
+
+-------------------   ------------   ------------   ------------   ------------   
+Exchange Balances      EUR Balance    BTC Balance    ETH Balance    LTC Balance   
+-------------------   ------------   ------------   ------------   ------------   
+Bitfinex              1000.0         0.0            0.0            0.0            
+Kraken                1000.0         0.0            0.0            0.0            
+Bitstamp              1000.0         0.0            0.0            0.0            
+theRock               1000.0         0.0            0.0            0.0            
+BitBay                1000.0         0.0            0.0            0.0            
+-----------   -----------   --------    --------    --------    --------    --------    --------    
+Instrument    Exchange        Ask         Bid       Entry Ask   Entry Bid   Exit Ask    Exit Bid    
+-----------   -----------   --------    --------    --------    --------    --------    --------    
+BTC / EUR     Bitfinex      43970.0     43968.0     43979.75    43968.0     43970.0     43968.0     
+BTC / EUR     Kraken        44084.2     44084.1     44088.77    44084.1     44084.2     44084.1     
+BTC / EUR     Bitstamp      44116.03    44101.57    44127.84    44101.57    44116.03    44101.57    
+BTC / EUR     theRock       44136.01    44117.36    44136.01    43902.44    44136.01    44117.36    
+BTC / EUR     BitBay        44244.17    44026.34    44244.17    44026.34    44244.17    44026.34    
+ETH / EUR     Bitfinex      3570.5      3570.3      3571.0      3570.3      3570.5      3570.3      
+ETH / EUR     Kraken        3579.0      3578.99     3579.66     3578.99     3579.0      3578.99     
+ETH / EUR     Bitstamp      3582.42     3579.6      3582.42     3579.6      3582.42     3579.6      
+ETH / EUR     theRock       3579.45     3565.47     3581.94     3565.46     3579.45     3565.47     
+ETH / EUR     BitBay        3591.31     3567.53     3593.45     3567.43     3591.31     3567.53     
+LTC / EUR     Bitfinex      0           0           0           0           0           0           
+LTC / EUR     Kraken        136.29      136.23      136.32      136.23      136.29      136.23      
+LTC / EUR     Bitstamp      136.39      136.19      136.39      136.18      136.39      136.19      
+LTC / EUR     theRock       136.3       135.91      136.39      135.13      136.3       135.91      
+LTC / EUR     BitBay        141.85      135.55      141.86      135.39      141.85      135.55      
+
+-----------------------------------     -------------------------     -------------------------     
+     ------ ARBITRAGE ------            Potential Opportunities          Current Positions          
+-----------------------------------     --------------------------    -------------------------     
+----------    ------      ------      ------    ------    ------    ------    ------    ------
+Instrument     Long        Short      Spread    Target     Max       Spread   Target     Min
+----------    ------      ------      ------    ------    ------    ------    ------    ------
+BTC / EUR     Bitfinex    Kraken      0.24 %    1.92 %    0.31 %       -         -         -   
+ETH / EUR     Bitfinex    Kraken      0.22 %    1.92 %    0.3 %        -         -         -   
+ETH / EUR     theRock     Kraken      -0.08 %   1.92 %    0.03 %       -         -         -   
+ETH / EUR     Bitstamp    Kraken      -0.1 %    1.92 %    -0.04 %      -         -         -   
+BTC / EUR     Bitstamp    Kraken      -0.1 %    1.92 %    -0.04 %      -         -         -   
+BTC / EUR     theRock     Kraken      -0.12 %   1.92 %    -0.12 %      -         -         -   
+ETH / EUR     Kraken      Bitfinex    -0.26 %   1.92 %    -0.26 %      -         -         -   
+BTC / EUR     Kraken      Bitfinex    -0.27 %   1.92 %    -0.27 %      -         -         -   
+ETH / EUR     theRock     Bitfinex    -0.32 %   1.8 %     -0.26 %      -         -         -   
+ETH / EUR     Bitstamp    Bitfinex    -0.34 %   1.8 %     -0.33 %      -         -         -   
+BTC / EUR     BitBay      Kraken      -0.36 %   1.92 %    -0.36 %      -         -         -   
+BTC / EUR     Bitstamp    Bitfinex    -0.36 %   1.8 %     -0.32 %      -         -         -   
+BTC / EUR     theRock     Bitfinex    -0.38 %   1.8 %     -0.38 %      -         -         -   
+ETH / EUR     BitBay      Kraken      -0.4 %    1.92 %    -0.4 %       -         -         -   
+BTC / EUR     BitBay      Bitfinex    -0.62 %   1.8 %     -0.62 %      -         -         -   
+ETH / EUR     BitBay      Bitfinex    -0.64 %   1.8 %     -0.64 %      -         -         -   
+
+
+
+Total Profit Since Running: 0 Euro
+
+Time to execute loop is: 0:00:05.668025s
+
+Scanning Markets
+
+2021-12-26 08:45:00.487476
+
+-------------------   ------------   ------------   ------------   ------------   
+Exchange Balances      EUR Balance    BTC Balance    ETH Balance    LTC Balance   
+-------------------   ------------   ------------   ------------   ------------   
+Bitfinex              1000.0         0.0            0.0            0.0            
+Kraken                1000.0         0.0            0.0            0.0            
+Bitstamp              1000.0         0.0            0.0            0.0            
+theRock               1000.0         0.0            0.0            0.0            
+BitBay                1000.0         0.0            0.0            0.0            
+-----------   -----------   --------    --------    --------    --------    --------    --------    
+Instrument    Exchange        Ask         Bid       Entry Ask   Entry Bid   Exit Ask    Exit Bid    
+-----------   -----------   --------    --------    --------    --------    --------    --------    
+BTC / EUR     Bitfinex      43970.0     43968.0     43970.0     43968.0     43970.0     43968.0     
+BTC / EUR     Kraken        44084.2     44084.1     44088.77    44084.1     44084.2     44084.1     
+BTC / EUR     Bitstamp      44113.58    44086.48    44113.59    44086.48    44113.58    44086.48    
+BTC / EUR     theRock       44137.08    44117.36    44150.98    43902.36    44137.08    44117.36    
+BTC / EUR     BitBay        44244.17    44027.9     44244.17    44027.9     44244.17    44027.9     
+ETH / EUR     Bitfinex      3570.4      3570.2      3570.4      3569.67     3570.4      3570.2      
+ETH / EUR     Kraken        3580.0      3579.99     3580.0      3579.99     3580.0      3579.99     
+ETH / EUR     Bitstamp      3581.79     3579.47     3581.91     3579.47     3581.79     3579.47     
+ETH / EUR     theRock       3579.45     3565.47     3581.94     3565.46     3579.45     3565.47     
+ETH / EUR     BitBay        3590.84     3567.66     3593.38     3567.66     3590.84     3567.66     
+LTC / EUR     Bitfinex      0           0           0           0           0           0           
+LTC / EUR     Kraken        136.26      136.21      136.27      136.15      136.26      136.21      
+LTC / EUR     Bitstamp      136.3       136.09      136.31      136.09      136.3       136.09      
+LTC / EUR     theRock       136.3       135.91      136.39      135.12      136.3       135.91      
+LTC / EUR     BitBay        141.85      135.57      141.86      135.56      141.85      135.57      
+
+-----------------------------------     -------------------------     -------------------------     
+     ------ ARBITRAGE ------            Potential Opportunities          Current Positions          
+-----------------------------------     --------------------------    -------------------------     
+----------    ------      ------      ------    ------    ------    ------    ------    ------
+Instrument     Long        Short      Spread    Target     Max       Spread   Target     Min
+----------    ------      ------      ------    ------    ------    ------    ------    ------
+ETH / EUR     Bitfinex    Kraken      0.27 %    1.92 %    0.3 %        -         -         -   
+BTC / EUR     Bitfinex    Kraken      0.26 %    1.92 %    0.31 %       -         -         -   
+ETH / EUR     Bitstamp    Kraken      -0.05 %   1.92 %    -0.04 %      -         -         -   
+ETH / EUR     theRock     Kraken      -0.05 %   1.92 %    0.03 %       -         -         -   
+BTC / EUR     Bitstamp    Kraken      -0.07 %   1.92 %    -0.04 %      -         -         -   
+BTC / EUR     theRock     Kraken      -0.15 %   1.92 %    -0.12 %      -         -         -   
+BTC / EUR     Kraken      Bitfinex    -0.27 %   1.92 %    -0.27 %      -         -         -   
+ETH / EUR     Kraken      Bitfinex    -0.29 %   1.92 %    -0.26 %      -         -         -   
+BTC / EUR     Bitstamp    Bitfinex    -0.33 %   1.8 %     -0.32 %      -         -         -   
+ETH / EUR     Bitstamp    Bitfinex    -0.34 %   1.8 %     -0.33 %      -         -         -   
+ETH / EUR     theRock     Bitfinex    -0.34 %   1.8 %     -0.26 %      -         -         -   
+BTC / EUR     BitBay      Kraken      -0.36 %   1.92 %    -0.36 %      -         -         -   
+ETH / EUR     BitBay      Kraken      -0.37 %   1.92 %    -0.37 %      -         -         -   
+BTC / EUR     theRock     Bitfinex    -0.41 %   1.8 %     -0.38 %      -         -         -   
+BTC / EUR     BitBay      Bitfinex    -0.62 %   1.8 %     -0.62 %      -         -         -   
+ETH / EUR     BitBay      Bitfinex    -0.66 %   1.8 %     -0.64 %      -         -         -   
+
+
+
+Total Profit Since Running: 0 Euro
+
+Time to execute loop is: 0:00:08.028750s
+
+Scanning Markets
+
+2021-12-26 08:45:16.520082
+
+-------------------   ------------   ------------   ------------   ------------   
+Exchange Balances      EUR Balance    BTC Balance    ETH Balance    LTC Balance   
+-------------------   ------------   ------------   ------------   ------------   
+Bitfinex              1000.0         0.0            0.0            0.0            
+Kraken                1000.0         0.0            0.0            0.0            
+Bitstamp              1000.0         0.0            0.0            0.0            
+theRock               1000.0         0.0            0.0            0.0            
+BitBay                1000.0         0.0            0.0            0.0            
+-----------   -----------   --------    --------    --------    --------    --------    --------    
+Instrument    Exchange        Ask         Bid       Entry Ask   Entry Bid   Exit Ask    Exit Bid    
+-----------   -----------   --------    --------    --------    --------    --------    --------    
+BTC / EUR     Bitfinex      43970.0     43968.0     43970.0     43968.0     43970.0     43968.0     
+BTC / EUR     Kraken        44084.2     44084.1     44088.96    44084.1     44084.2     44084.1     
+BTC / EUR     Bitstamp      44116.03    44097.6     44127.85    44097.6     44116.03    44097.6     
+BTC / EUR     theRock       44136.01    44110.34    44136.01    43901.38    44136.01    44110.34    
+BTC / EUR     BitBay        44243.91    44029.72    44243.91    44029.72    44243.91    44029.72    
+ETH / EUR     Bitfinex      3569.9      3569.8      3570.74     3569.8      3569.9      3569.8      
+ETH / EUR     Kraken        3580.0      3579.99     3580.55     3579.99     3580.0      3579.99     
+ETH / EUR     Bitstamp      3581.94     3579.61     3582.4      3579.61     3581.94     3579.61     
+ETH / EUR     theRock       3579.45     3565.8      3581.94     3565.79     3579.45     3565.8      
+ETH / EUR     BitBay        3590.23     3568.01     3593.25     3568.01     3590.23     3568.01     
+LTC / EUR     Bitfinex      0           0           0           0           0           0           
+LTC / EUR     Kraken        136.32      136.27      136.32      136.27      136.32      136.27      
+LTC / EUR     Bitstamp      136.36      136.18      136.38      136.17      136.36      136.18      
+LTC / EUR     theRock       136.39      135.96      136.44      135.41      136.39      135.96      
+LTC / EUR     BitBay        141.85      135.57      141.86      135.56      141.85      135.57      
+
+-----------------------------------     -------------------------     -------------------------     
+     ------ ARBITRAGE ------            Potential Opportunities          Current Positions          
+-----------------------------------     --------------------------    -------------------------     
+----------    ------      ------      ------    ------    ------    ------    ------    ------
+Instrument     Long        Short      Spread    Target     Max       Spread   Target     Min
+----------    ------      ------      ------    ------    ------    ------    ------    ------
+BTC / EUR     Bitfinex    Kraken      0.26 %    1.92 %    0.31 %       -         -         -   
+ETH / EUR     Bitfinex    Kraken      0.26 %    1.92 %    0.3 %        -         -         -   
+ETH / EUR     theRock     Kraken      -0.05 %   1.92 %    0.03 %       -         -         -   
+ETH / EUR     Bitstamp    Kraken      -0.07 %   1.92 %    -0.04 %      -         -         -   
+BTC / EUR     Bitstamp    Kraken      -0.1 %    1.92 %    -0.04 %      -         -         -   
+BTC / EUR     theRock     Kraken      -0.12 %   1.92 %    -0.12 %      -         -         -   
+BTC / EUR     Kraken      Bitfinex    -0.27 %   1.92 %    -0.27 %      -         -         -   
+ETH / EUR     Kraken      Bitfinex    -0.3 %    1.92 %    -0.26 %      -         -         -   
+ETH / EUR     theRock     Bitfinex    -0.34 %   1.8 %     -0.26 %      -         -         -   
+ETH / EUR     Bitstamp    Bitfinex    -0.35 %   1.8 %     -0.33 %      -         -         -   
+BTC / EUR     BitBay      Kraken      -0.36 %   1.92 %    -0.36 %      -         -         -   
+BTC / EUR     Bitstamp    Bitfinex    -0.36 %   1.8 %     -0.32 %      -         -         -   
+ETH / EUR     BitBay      Kraken      -0.37 %   1.92 %    -0.37 %      -         -         -   
+BTC / EUR     theRock     Bitfinex    -0.38 %   1.8 %     -0.38 %      -         -         -   
+BTC / EUR     BitBay      Bitfinex    -0.62 %   1.8 %     -0.62 %      -         -         -   
+ETH / EUR     BitBay      Bitfinex    -0.65 %   1.8 %     -0.64 %      -         -         -   
+
+
+
+Total Profit Since Running: 0 Euro
+
+Time to execute loop is: 0:00:06.982340s
+
+Scanning Markets
+
+2021-12-26 08:45:31.507882
+
+-------------------   ------------   ------------   ------------   ------------   
+Exchange Balances      EUR Balance    BTC Balance    ETH Balance    LTC Balance   
+-------------------   ------------   ------------   ------------   ------------   
+Bitfinex              1000.0         0.0            0.0            0.0            
+Kraken                1000.0         0.0            0.0            0.0            
+Bitstamp              1000.0         0.0            0.0            0.0            
+theRock               1000.0         0.0            0.0            0.0            
+BitBay                1000.0         0.0            0.0            0.0            
+-----------   -----------   --------    --------    --------    --------    --------    --------    
+Instrument    Exchange        Ask         Bid       Entry Ask   Entry Bid   Exit Ask    Exit Bid    
+-----------   -----------   --------    --------    --------    --------    --------    --------    
+BTC / EUR     Bitfinex      43975.0     43973.0     43987.94    43973.0     43975.0     43973.0     
+BTC / EUR     Kraken        44090.0     44089.9     44090.0     44089.9     44090.0     44089.9     
+BTC / EUR     Bitstamp      44116.03    44102.24    44127.85    44102.24    44116.03    44102.24    
+BTC / EUR     theRock       44151.0     44110.34    44151.0     43901.99    44151.0     44110.34    
+BTC / EUR     BitBay        44243.91    44031.28    44243.91    44031.28    44243.91    44031.28    
+ETH / EUR     Bitfinex      3570.2      3570.1      3571.0      3570.01     3570.2      3570.1      
+ETH / EUR     Kraken        3580.0      3579.99     3580.26     3579.99     3580.0      3579.99     
+ETH / EUR     Bitstamp      3581.94     3579.88     3582.16     3579.88     3581.94     3579.88     
+ETH / EUR     theRock       3579.45     3565.85     3581.94     3565.8      3579.45     3565.85     
+ETH / EUR     BitBay        3589.76     3568.02     3593.18     3568.02     3589.76     3568.02     
+LTC / EUR     Bitfinex      0           0           0           0           0           0           
+LTC / EUR     Kraken        136.35      136.27      136.35      136.27      136.35      136.27      
+LTC / EUR     Bitstamp      136.38      136.24      136.38      136.21      136.38      136.24      
+LTC / EUR     theRock       136.39      135.91      136.44      135.42      136.39      135.91      
+LTC / EUR     BitBay        141.85      135.57      141.86      135.56      141.85      135.57      
+
+-----------------------------------     -------------------------     -------------------------     
+     ------ ARBITRAGE ------            Potential Opportunities          Current Positions          
+-----------------------------------     --------------------------    -------------------------     
+----------    ------      ------      ------    ------    ------    ------    ------    ------
+Instrument     Long        Short      Spread    Target     Max       Spread   Target     Min
+----------    ------      ------      ------    ------    ------    ------    ------    ------
+ETH / EUR     Bitfinex    Kraken      0.25 %    1.92 %    0.3 %        -         -         -   
+BTC / EUR     Bitfinex    Kraken      0.23 %    1.92 %    0.31 %       -         -         -   
+ETH / EUR     theRock     Kraken      -0.05 %   1.92 %    0.03 %       -         -         -   
+ETH / EUR     Bitstamp    Kraken      -0.06 %   1.92 %    -0.04 %      -         -         -   
+BTC / EUR     Bitstamp    Kraken      -0.09 %   1.92 %    -0.04 %      -         -         -   
+BTC / EUR     theRock     Kraken      -0.14 %   1.92 %    -0.12 %      -         -         -   
+BTC / EUR     Kraken      Bitfinex    -0.27 %   1.92 %    -0.27 %      -         -         -   
+ETH / EUR     Kraken      Bitfinex    -0.29 %   1.92 %    -0.26 %      -         -         -   
+ETH / EUR     theRock     Bitfinex    -0.33 %   1.8 %     -0.26 %      -         -         -   
+ETH / EUR     Bitstamp    Bitfinex    -0.34 %   1.8 %     -0.33 %      -         -         -   
+BTC / EUR     BitBay      Kraken      -0.35 %   1.92 %    -0.35 %      -         -         -   
+BTC / EUR     Bitstamp    Bitfinex    -0.35 %   1.8 %     -0.32 %      -         -         -   
+ETH / EUR     BitBay      Kraken      -0.37 %   1.92 %    -0.37 %      -         -         -   
+BTC / EUR     theRock     Bitfinex    -0.4 %    1.8 %     -0.38 %      -         -         -   
+BTC / EUR     BitBay      Bitfinex    -0.61 %   1.8 %     -0.61 %      -         -         -   
+ETH / EUR     BitBay      Bitfinex    -0.64 %   1.8 %     -0.64 %      -         -         -   
+
+
+
+Total Profit Since Running: 0 Euro
+
+Time to execute loop is: 0:00:07.356617s
+
+Scanning Markets
+
+2021-12-26 08:45:46.868967
+
+-------------------   ------------   ------------   ------------   ------------   
+Exchange Balances      EUR Balance    BTC Balance    ETH Balance    LTC Balance   
+-------------------   ------------   ------------   ------------   ------------   
+Bitfinex              1000.0         0.0            0.0            0.0            
+Kraken                1000.0         0.0            0.0            0.0            
+Bitstamp              1000.0         0.0            0.0            0.0            
+theRock               1000.0         0.0            0.0            0.0            
+BitBay                1000.0         0.0            0.0            0.0            
+-----------   -----------   --------    --------    --------    --------    --------    --------    
+Instrument    Exchange        Ask         Bid       Entry Ask   Entry Bid   Exit Ask    Exit Bid    
+-----------   -----------   --------    --------    --------    --------    --------    --------    
+BTC / EUR     Bitfinex      43950.0     43949.0     43950.0     43938.17    43950.0     43949.0     
+BTC / EUR     Kraken        44090.0     44089.9     44090.0     44079.07    44090.0     44089.9     
+BTC / EUR     Bitstamp      44082.68    44061.21    44082.68    44061.21    44082.68    44061.21    
+BTC / EUR     theRock       44151.0     44110.34    44151.0     43900.94    44151.0     44110.34    
+BTC / EUR     BitBay        44243.91    43944.26    44243.91    43944.26    44243.91    43944.26    
+ETH / EUR     Bitfinex      3567.9      3566.9      3567.9      3566.8      3567.9      3566.9      
+ETH / EUR     Kraken        3580.0      3579.99     3580.0      3579.1      3580.0      3579.99     
+ETH / EUR     Bitstamp      3578.84     3575.63     3578.84     3575.63     3578.84     3575.63     
+ETH / EUR     theRock       3579.45     3565.88     3581.94     3565.88     3579.45     3565.88     
+ETH / EUR     BitBay        3589.4      3564.31     3593.09     3564.31     3589.4      3564.31     
+LTC / EUR     Bitfinex      0           0           0           0           0           0           
+LTC / EUR     Kraken        136.12      136.05      136.12      135.94      136.12      136.05      
+LTC / EUR     Bitstamp      136.12      135.97      136.15      135.96      136.12      135.97      
+LTC / EUR     theRock       136.39      136.02      136.44      135.42      136.39      136.02      
+LTC / EUR     BitBay        141.85      135.57      141.86      135.56      141.85      135.57      
+
+-----------------------------------     -------------------------     -------------------------     
+     ------ ARBITRAGE ------            Potential Opportunities          Current Positions          
+-----------------------------------     --------------------------    -------------------------     
+----------    ------      ------      ------    ------    ------    ------    ------    ------
+Instrument     Long        Short      Spread    Target     Max       Spread   Target     Min
+----------    ------      ------      ------    ------    ------    ------    ------    ------
+ETH / EUR     Bitfinex    Kraken      0.31 %    1.92 %    0.31 %       -         -         -   
+BTC / EUR     Bitfinex    Kraken      0.29 %    1.92 %    0.31 %       -         -         -   
+ETH / EUR     Bitstamp    Kraken      0.01 %    1.92 %    0.01 %       -         -         -   
+BTC / EUR     Bitstamp    Kraken      -0.01 %   1.92 %    -0.01 %      -         -         -   
+ETH / EUR     theRock     Kraken      -0.08 %   1.92 %    0.03 %       -         -         -   
+BTC / EUR     theRock     Kraken      -0.16 %   1.92 %    -0.12 %      -         -         -   
+BTC / EUR     Bitstamp    Bitfinex    -0.33 %   1.8 %     -0.32 %      -         -         -   
+ETH / EUR     Bitstamp    Bitfinex    -0.34 %   1.8 %     -0.33 %      -         -         -   
+BTC / EUR     Kraken      Bitfinex    -0.34 %   1.92 %    -0.27 %      -         -         -   
+ETH / EUR     Kraken      Bitfinex    -0.37 %   1.92 %    -0.26 %      -         -         -   
+BTC / EUR     BitBay      Kraken      -0.37 %   1.92 %    -0.35 %      -         -         -   
+ETH / EUR     BitBay      Kraken      -0.39 %   1.92 %    -0.37 %      -         -         -   
+ETH / EUR     theRock     Bitfinex    -0.42 %   1.8 %     -0.26 %      -         -         -   
+BTC / EUR     theRock     Bitfinex    -0.48 %   1.8 %     -0.38 %      -         -         -   
+BTC / EUR     BitBay      Bitfinex    -0.69 %   1.8 %     -0.61 %      -         -         -   
+ETH / EUR     BitBay      Bitfinex    -0.73 %   1.8 %     -0.64 %      -         -         -   
+
+
+
+Total Profit Since Running: 0 Euro
+
+Time to execute loop is: 0:00:07.825393s
+
+Scanning Markets
+
+2021-12-26 08:46:02.698072
+
+-------------------   ------------   ------------   ------------   ------------   
+Exchange Balances      EUR Balance    BTC Balance    ETH Balance    LTC Balance   
+-------------------   ------------   ------------   ------------   ------------   
+Bitfinex              1000.0         0.0            0.0            0.0            
+Kraken                1000.0         0.0            0.0            0.0            
+Bitstamp              1000.0         0.0            0.0            0.0            
+theRock               1000.0         0.0            0.0            0.0            
+BitBay                1000.0         0.0            0.0            0.0            
+-----------   -----------   --------    --------    --------    --------    --------    --------    
+Instrument    Exchange        Ask         Bid       Entry Ask   Entry Bid   Exit Ask    Exit Bid    
+-----------   -----------   --------    --------    --------    --------    --------    --------    
+BTC / EUR     Bitfinex      43930.0     43928.0     43930.0     43928.0     43930.0     43928.0     
+BTC / EUR     Kraken        44070.5     44065.6     44070.6     44065.6     44070.5     44065.6     
+BTC / EUR     Bitstamp      44077.4     44058.23    44077.4     44058.23    44077.4     44058.23    
+BTC / EUR     theRock       44143.6     44110.34    44143.6     43900.94    44143.6     44110.34    
+BTC / EUR     BitBay        44243.15    43950.26    44243.15    43950.26    44243.15    43950.26    
+ETH / EUR     Bitfinex      3565.6      3565.5      3567.1      3565.41     3565.6      3565.5      
+ETH / EUR     Kraken        3577.31     3576.55     3577.31     3576.55     3577.31     3576.55     
+ETH / EUR     Bitstamp      3578.08     3575.43     3578.08     3575.43     3578.08     3575.43     
+ETH / EUR     theRock       3579.45     3565.88     3581.86     3565.88     3579.45     3565.88     
+ETH / EUR     BitBay        3588.56     3564.68     3589.25     3564.68     3588.56     3564.68     
+LTC / EUR     Bitfinex      0           0           0           0           0           0           
+LTC / EUR     Kraken        136.19      136.16      136.19      136.15      136.19      136.16      
+LTC / EUR     Bitstamp      136.25      136.02      136.27      136.02      136.25      136.02      
+LTC / EUR     theRock       136.25      135.91      136.33      135.37      136.25      135.91      
+LTC / EUR     BitBay        141.85      134.77      141.86      132.77      141.85      134.77      
+
+-----------------------------------     -------------------------     -------------------------     
+     ------ ARBITRAGE ------            Potential Opportunities          Current Positions          
+-----------------------------------     --------------------------    -------------------------     
+----------    ------      ------      ------    ------    ------    ------    ------    ------
+Instrument     Long        Short      Spread    Target     Max       Spread   Target     Min
+----------    ------      ------      ------    ------    ------    ------    ------    ------
+BTC / EUR     Bitfinex    Kraken      0.31 %    1.92 %    0.31 %       -         -         -   
+ETH / EUR     Bitfinex    Kraken      0.26 %    1.92 %    0.31 %       -         -         -   
+BTC / EUR     Bitstamp    Kraken      -0.03 %   1.92 %    -0.01 %      -         -         -   
+ETH / EUR     Bitstamp    Kraken      -0.04 %   1.92 %    0.01 %       -         -         -   
+ETH / EUR     theRock     Kraken      -0.15 %   1.92 %    0.03 %       -         -         -   
+BTC / EUR     theRock     Kraken      -0.18 %   1.92 %    -0.12 %      -         -         -   
+BTC / EUR     Kraken      Bitfinex    -0.32 %   1.92 %    -0.27 %      -         -         -   
+ETH / EUR     Kraken      Bitfinex    -0.33 %   1.92 %    -0.26 %      -         -         -   
+BTC / EUR     Bitstamp    Bitfinex    -0.34 %   1.8 %     -0.32 %      -         -         -   
+ETH / EUR     BitBay      Kraken      -0.35 %   1.92 %    -0.35 %      -         -         -   
+ETH / EUR     Bitstamp    Bitfinex    -0.35 %   1.8 %     -0.33 %      -         -         -   
+BTC / EUR     BitBay      Kraken      -0.4 %    1.92 %    -0.35 %      -         -         -   
+ETH / EUR     theRock     Bitfinex    -0.46 %   1.8 %     -0.26 %      -         -         -   
+BTC / EUR     theRock     Bitfinex    -0.49 %   1.8 %     -0.38 %      -         -         -   
+ETH / EUR     BitBay      Bitfinex    -0.66 %   1.8 %     -0.64 %      -         -         -   
+BTC / EUR     BitBay      Bitfinex    -0.71 %   1.8 %     -0.61 %      -         -         -   
+
+
+
+Total Profit Since Running: 0 Euro
+
+Time to execute loop is: 0:00:13.759778s
+
+Scanning Markets
+
+2021-12-26 08:46:24.461643
+
+-------------------   ------------   ------------   ------------   ------------   
+Exchange Balances      EUR Balance    BTC Balance    ETH Balance    LTC Balance   
+-------------------   ------------   ------------   ------------   ------------   
+Bitfinex              1000.0         0.0            0.0            0.0            
+Kraken                1000.0         0.0            0.0            0.0            
+Bitstamp              1000.0         0.0            0.0            0.0            
+theRock               1000.0         0.0            0.0            0.0            
+BitBay                1000.0         0.0            0.0            0.0            
+-----------   -----------   --------    --------    --------    --------    --------    --------    
+Instrument    Exchange        Ask         Bid       Entry Ask   Entry Bid   Exit Ask    Exit Bid    
+-----------   -----------   --------    --------    --------    --------    --------    --------    
+BTC / EUR     Bitfinex      43941.0     43939.0     43941.0     43939.0     43941.0     43939.0     
+BTC / EUR     Kraken        44059.1     44059.0     44059.1     44059.0     44059.1     44059.0     
+BTC / EUR     Bitstamp      44082.25    44053.05    44082.25    44053.05    44082.25    44053.05    
+BTC / EUR     theRock       44143.59    44110.34    44143.59    43900.94    44143.59    44110.34    
+BTC / EUR     BitBay        44242.88    43957.86    44242.88    43957.86    44242.88    43957.86    
+ETH / EUR     Bitfinex      3566.3      3566.0      3566.4      3565.95     3566.3      3566.0      
+ETH / EUR     Kraken        3577.31     3576.66     3577.31     3576.64     3577.31     3576.66     
+ETH / EUR     Bitstamp      3578.22     3575.63     3578.22     3575.22     3578.22     3575.63     
+ETH / EUR     theRock       3579.45     3565.89     3581.62     3565.88     3579.45     3565.89     
+ETH / EUR     BitBay        3587.6      3564.68     3589.07     3564.68     3587.6      3564.68     
+LTC / EUR     Bitfinex      0           0           0           0           0           0           
+LTC / EUR     Kraken        136.2       136.15      136.2       136.15      136.2       136.15      
+LTC / EUR     Bitstamp      136.25      136.07      136.27      136.06      136.25      136.07      
+LTC / EUR     theRock       136.32      135.91      136.33      135.29      136.32      135.91      
+LTC / EUR     BitBay        141.83      134.89      141.84      132.79      141.83      134.89      
+
+-----------------------------------     -------------------------     -------------------------     
+     ------ ARBITRAGE ------            Potential Opportunities          Current Positions          
+-----------------------------------     --------------------------    -------------------------     
+----------    ------      ------      ------    ------    ------    ------    ------    ------
+Instrument     Long        Short      Spread    Target     Max       Spread   Target     Min
+----------    ------      ------      ------    ------    ------    ------    ------    ------
+ETH / EUR     Bitfinex    Kraken      0.29 %    1.92 %    0.31 %       -         -         -   
+BTC / EUR     Bitfinex    Kraken      0.27 %    1.92 %    0.31 %       -         -         -   
+ETH / EUR     Bitstamp    Kraken      -0.04 %   1.92 %    0.01 %       -         -         -   
+BTC / EUR     Bitstamp    Kraken      -0.05 %   1.92 %    -0.01 %      -         -         -   
+ETH / EUR     theRock     Kraken      -0.14 %   1.92 %    0.03 %       -         -         -   
+BTC / EUR     theRock     Kraken      -0.19 %   1.92 %    -0.12 %      -         -         -   
+BTC / EUR     Kraken      Bitfinex    -0.27 %   1.92 %    -0.27 %      -         -         -   
+ETH / EUR     Kraken      Bitfinex    -0.32 %   1.92 %    -0.26 %      -         -         -   
+BTC / EUR     Bitstamp    Bitfinex    -0.32 %   1.8 %     -0.32 %      -         -         -   
+ETH / EUR     Bitstamp    Bitfinex    -0.34 %   1.8 %     -0.33 %      -         -         -   
+ETH / EUR     BitBay      Kraken      -0.35 %   1.92 %    -0.35 %      -         -         -   
+BTC / EUR     BitBay      Kraken      -0.42 %   1.92 %    -0.35 %      -         -         -   
+ETH / EUR     theRock     Bitfinex    -0.44 %   1.8 %     -0.26 %      -         -         -   
+BTC / EUR     theRock     Bitfinex    -0.46 %   1.8 %     -0.38 %      -         -         -   
+ETH / EUR     BitBay      Bitfinex    -0.64 %   1.8 %     -0.64 %      -         -         -   
+BTC / EUR     BitBay      Bitfinex    -0.69 %   1.8 %     -0.61 %      -         -         -   
+
+
+
+Total Profit Since Running: 0 Euro
+
+Time to execute loop is: 0:00:08.708866s
+
+Scanning Markets
+
+2021-12-26 08:46:41.175904
+
+-------------------   ------------   ------------   ------------   ------------   
+Exchange Balances      EUR Balance    BTC Balance    ETH Balance    LTC Balance   
+-------------------   ------------   ------------   ------------   ------------   
+Bitfinex              1000.0         0.0            0.0            0.0            
+Kraken                1000.0         0.0            0.0            0.0            
+Bitstamp              1000.0         0.0            0.0            0.0            
+theRock               1000.0         0.0            0.0            0.0            
+BitBay                1000.0         0.0            0.0            0.0            
+-----------   -----------   --------    --------    --------    --------    --------    --------    
+Instrument    Exchange        Ask         Bid       Entry Ask   Entry Bid   Exit Ask    Exit Bid    
+-----------   -----------   --------    --------    --------    --------    --------    --------    
+BTC / EUR     Bitfinex      43925.0     43923.0     43925.0     43923.0     43925.0     43923.0     
+BTC / EUR     Kraken        44054.7     44054.6     44054.7     44043.83    44054.7     44054.6     
+BTC / EUR     Bitstamp      44069.3     44042.42    44069.3     44042.42    44069.3     44042.42    
+BTC / EUR     theRock       44143.49    44110.34    44143.49    43902.03    44143.49    44110.34    
+BTC / EUR     BitBay        44242.61    43960.49    44242.62    43960.49    44242.61    43960.49    
+ETH / EUR     Bitfinex      3566.3      3566.1      3566.4      3565.75     3566.3      3566.1      
+ETH / EUR     Kraken        3576.75     3576.39     3576.75     3575.84     3576.75     3576.39     
+ETH / EUR     Bitstamp      3577.72     3574.92     3577.72     3574.92     3577.72     3574.92     
+ETH / EUR     theRock       3579.45     3561.66     3579.6      3561.65     3579.45     3561.66     
+ETH / EUR     BitBay        3586.99     3564.68     3588.94     3564.68     3586.99     3564.68     
+LTC / EUR     Bitfinex      0           0           0           0           0           0           
+LTC / EUR     Kraken        136.17      136.11      136.17      136.1       136.17      136.11      
+LTC / EUR     Bitstamp      136.21      136.03      136.21      136.03      136.21      136.03      
+LTC / EUR     theRock       136.32      135.91      136.33      135.27      136.32      135.91      
+LTC / EUR     BitBay        141.83      135.01      141.84      134.96      141.83      135.01      
+
+-----------------------------------     -------------------------     -------------------------     
+     ------ ARBITRAGE ------            Potential Opportunities          Current Positions          
+-----------------------------------     --------------------------    -------------------------     
+----------    ------      ------      ------    ------    ------    ------    ------    ------
+Instrument     Long        Short      Spread    Target     Max       Spread   Target     Min
+----------    ------      ------      ------    ------    ------    ------    ------    ------
+BTC / EUR     Bitfinex    Kraken      0.27 %    1.92 %    0.31 %       -         -         -   
+ETH / EUR     Bitfinex    Kraken      0.26 %    1.92 %    0.31 %       -         -         -   
+ETH / EUR     Bitstamp    Kraken      -0.05 %   1.92 %    0.01 %       -         -         -   
+BTC / EUR     Bitstamp    Kraken      -0.06 %   1.92 %    -0.01 %      -         -         -   
+ETH / EUR     theRock     Kraken      -0.11 %   1.92 %    0.03 %       -         -         -   
+BTC / EUR     theRock     Kraken      -0.23 %   1.92 %    -0.12 %      -         -         -   
+BTC / EUR     Kraken      Bitfinex    -0.3 %    1.92 %    -0.27 %      -         -         -   
+ETH / EUR     Kraken      Bitfinex    -0.31 %   1.92 %    -0.26 %      -         -         -   
+BTC / EUR     Bitstamp    Bitfinex    -0.33 %   1.8 %     -0.32 %      -         -         -   
+ETH / EUR     Bitstamp    Bitfinex    -0.33 %   1.8 %     -0.33 %      -         -         -   
+ETH / EUR     BitBay      Kraken      -0.37 %   1.92 %    -0.35 %      -         -         -   
+ETH / EUR     theRock     Bitfinex    -0.39 %   1.8 %     -0.26 %      -         -         -   
+BTC / EUR     BitBay      Kraken      -0.45 %   1.92 %    -0.35 %      -         -         -   
+BTC / EUR     theRock     Bitfinex    -0.5 %    1.8 %     -0.38 %      -         -         -   
+ETH / EUR     BitBay      Bitfinex    -0.65 %   1.8 %     -0.64 %      -         -         -   
+BTC / EUR     BitBay      Bitfinex    -0.72 %   1.8 %     -0.61 %      -         -         -   
+
+
+
+Total Profit Since Running: 0 Euro
+
+Time to execute loop is: 0:00:08.508658s
+
+Scanning Markets
+
+2021-12-26 08:46:57.689589
+
+-------------------   ------------   ------------   ------------   ------------   
+Exchange Balances      EUR Balance    BTC Balance    ETH Balance    LTC Balance   
+-------------------   ------------   ------------   ------------   ------------   
+Bitfinex              1000.0         0.0            0.0            0.0            
+Kraken                1000.0         0.0            0.0            0.0            
+Bitstamp              1000.0         0.0            0.0            0.0            
+theRock               1000.0         0.0            0.0            0.0            
+BitBay                1000.0         0.0            0.0            0.0            
+-----------   -----------   --------    --------    --------    --------    --------    --------    
+Instrument    Exchange        Ask         Bid       Entry Ask   Entry Bid   Exit Ask    Exit Bid    
+-----------   -----------   --------    --------    --------    --------    --------    --------    
+BTC / EUR     Bitfinex      43924.0     43923.0     43924.0     43922.0     43924.0     43923.0     
+BTC / EUR     Kraken        44054.7     44054.6     44054.7     44046.86    44054.7     44054.6     
+BTC / EUR     Bitstamp      44069.2     44042.27    44069.2     44042.27    44069.2     44042.27    
+BTC / EUR     theRock       44136.2     44110.34    44143.35    43901.98    44136.2     44110.34    
+BTC / EUR     BitBay        44242.35    43962.37    44242.35    43962.37    44242.35    43962.37    
+ETH / EUR     Bitfinex      3566.4      3566.1      3566.4      3565.85     3566.4      3566.1      
+ETH / EUR     Kraken        3577.73     3576.96     3577.73     3576.96     3577.73     3576.96     
+ETH / EUR     Bitstamp      3578.01     3574.92     3578.01     3574.92     3578.01     3574.92     
+ETH / EUR     theRock       3579.37     3561.66     3579.38     3561.65     3579.37     3561.66     
+ETH / EUR     BitBay        3586.04     3564.68     3588.78     3564.68     3586.04     3564.68     
+LTC / EUR     Bitfinex      0           0           0           0           0           0           
+LTC / EUR     Kraken        136.16      136.11      136.16      136.11      136.16      136.11      
+LTC / EUR     Bitstamp      136.21      136.04      136.21      136.03      136.21      136.04      
+LTC / EUR     theRock       136.32      135.91      136.33      135.31      136.32      135.91      
+LTC / EUR     BitBay        141.83      135.19      141.84      135.09      141.83      135.19      
+
+-----------------------------------     -------------------------     -------------------------     
+     ------ ARBITRAGE ------            Potential Opportunities          Current Positions          
+-----------------------------------     --------------------------    -------------------------     
+----------    ------      ------      ------    ------    ------    ------    ------    ------
+Instrument     Long        Short      Spread    Target     Max       Spread   Target     Min
+----------    ------      ------      ------    ------    ------    ------    ------    ------
+ETH / EUR     Bitfinex    Kraken      0.3 %     1.92 %    0.31 %       -         -         -   
+BTC / EUR     Bitfinex    Kraken      0.28 %    1.92 %    0.31 %       -         -         -   
+ETH / EUR     Bitstamp    Kraken      -0.03 %   1.92 %    0.01 %       -         -         -   
+BTC / EUR     Bitstamp    Kraken      -0.05 %   1.92 %    -0.01 %      -         -         -   
+ETH / EUR     theRock     Kraken      -0.07 %   1.92 %    0.03 %       -         -         -   
+BTC / EUR     theRock     Kraken      -0.22 %   1.92 %    -0.12 %      -         -         -   
+BTC / EUR     Kraken      Bitfinex    -0.3 %    1.92 %    -0.27 %      -         -         -   
+ETH / EUR     BitBay      Kraken      -0.33 %   1.92 %    -0.33 %      -         -         -   
+ETH / EUR     Kraken      Bitfinex    -0.33 %   1.92 %    -0.26 %      -         -         -   
+BTC / EUR     Bitstamp    Bitfinex    -0.33 %   1.8 %     -0.32 %      -         -         -   
+ETH / EUR     Bitstamp    Bitfinex    -0.34 %   1.8 %     -0.33 %      -         -         -   
+ETH / EUR     theRock     Bitfinex    -0.38 %   1.8 %     -0.26 %      -         -         -   
+BTC / EUR     BitBay      Kraken      -0.44 %   1.92 %    -0.35 %      -         -         -   
+BTC / EUR     theRock     Bitfinex    -0.5 %    1.8 %     -0.38 %      -         -         -   
+ETH / EUR     BitBay      Bitfinex    -0.64 %   1.8 %     -0.64 %      -         -         -   
+BTC / EUR     BitBay      Bitfinex    -0.72 %   1.8 %     -0.61 %      -         -         -   
+
+
+
+Total Profit Since Running: 0 Euro
+
+Time to execute loop is: 0:00:07.478873s
+
+Scanning Markets
+
+2021-12-26 08:47:13.171773
+
+-------------------   ------------   ------------   ------------   ------------   
+Exchange Balances      EUR Balance    BTC Balance    ETH Balance    LTC Balance   
+-------------------   ------------   ------------   ------------   ------------   
+Bitfinex              1000.0         0.0            0.0            0.0            
+Kraken                1000.0         0.0            0.0            0.0            
+Bitstamp              1000.0         0.0            0.0            0.0            
+theRock               1000.0         0.0            0.0            0.0            
+BitBay                1000.0         0.0            0.0            0.0            
+-----------   -----------   --------    --------    --------    --------    --------    --------    
+Instrument    Exchange        Ask         Bid       Entry Ask   Entry Bid   Exit Ask    Exit Bid    
+-----------   -----------   --------    --------    --------    --------    --------    --------    
+BTC / EUR     Bitfinex      43920.0     43918.0     43920.0     43904.23    43920.0     43918.0     
+BTC / EUR     Kraken        44054.7     44054.6     44054.7     44033.06    44054.7     44054.6     
+BTC / EUR     Bitstamp      44053.44    44020.68    44053.45    44020.68    44053.44    44020.68    
+BTC / EUR     theRock       44136.2     44110.34    44140.57    43904.58    44136.2     44110.34    
+BTC / EUR     BitBay        44242.34    43965.79    44242.35    43965.79    44242.34    43965.79    
+ETH / EUR     Bitfinex      3565.6      3565.2      3565.6      3564.61     3565.6      3565.2      
+ETH / EUR     Kraken        3576.39     3576.38     3576.39     3575.13     3576.39     3576.38     
+ETH / EUR     Bitstamp      3576.35     3574.0      3576.35     3574.0      3576.35     3574.0      
+ETH / EUR     theRock       3579.27     3561.77     3579.28     3561.76     3579.27     3561.77     
+ETH / EUR     BitBay        3588.67     3564.68     3589.26     3564.68     3588.67     3564.68     
+LTC / EUR     Bitfinex      0           0           0           0           0           0           
+LTC / EUR     Kraken        136.06      136.02      136.06      136.02      136.06      136.02      
+LTC / EUR     Bitstamp      136.08      135.93      136.11      135.93      136.08      135.93      
+LTC / EUR     theRock       136.27      135.91      136.33      135.27      136.27      135.91      
+LTC / EUR     BitBay        141.83      135.26      141.84      135.2       141.83      135.26      
+
+-----------------------------------     -------------------------     -------------------------     
+     ------ ARBITRAGE ------            Potential Opportunities          Current Positions          
+-----------------------------------     --------------------------    -------------------------     
+----------    ------      ------      ------    ------    ------    ------    ------    ------
+Instrument     Long        Short      Spread    Target     Max       Spread   Target     Min
+----------    ------      ------      ------    ------    ------    ------    ------    ------
+ETH / EUR     Bitfinex    Kraken      0.27 %    1.92 %    0.31 %       -         -         -   
+BTC / EUR     Bitfinex    Kraken      0.26 %    1.92 %    0.31 %       -         -         -   
+ETH / EUR     Bitstamp    Kraken      -0.03 %   1.92 %    0.01 %       -         -         -   
+BTC / EUR     Bitstamp    Kraken      -0.05 %   1.92 %    -0.01 %      -         -         -   
+ETH / EUR     theRock     Kraken      -0.12 %   1.92 %    0.03 %       -         -         -   
+BTC / EUR     theRock     Kraken      -0.24 %   1.92 %    -0.12 %      -         -         -   
+ETH / EUR     Bitstamp    Bitfinex    -0.33 %   1.8 %     -0.33 %      -         -         -   
+ETH / EUR     Kraken      Bitfinex    -0.33 %   1.92 %    -0.26 %      -         -         -   
+BTC / EUR     Bitstamp    Bitfinex    -0.34 %   1.8 %     -0.32 %      -         -         -   
+BTC / EUR     Kraken      Bitfinex    -0.34 %   1.92 %    -0.27 %      -         -         -   
+ETH / EUR     BitBay      Kraken      -0.39 %   1.92 %    -0.33 %      -         -         -   
+ETH / EUR     theRock     Bitfinex    -0.41 %   1.8 %     -0.26 %      -         -         -   
+BTC / EUR     BitBay      Kraken      -0.47 %   1.92 %    -0.35 %      -         -         -   
+BTC / EUR     theRock     Bitfinex    -0.54 %   1.8 %     -0.38 %      -         -         -   
+ETH / EUR     BitBay      Bitfinex    -0.69 %   1.8 %     -0.64 %      -         -         -   
+BTC / EUR     BitBay      Bitfinex    -0.76 %   1.8 %     -0.61 %      -         -         -   
+
+
+
+Total Profit Since Running: 0 Euro
+
+Time to execute loop is: 0:00:08.852998s
+
+Scanning Markets
+
+2021-12-26 08:47:30.030157
+
+-------------------   ------------   ------------   ------------   ------------   
+Exchange Balances      EUR Balance    BTC Balance    ETH Balance    LTC Balance   
+-------------------   ------------   ------------   ------------   ------------   
+Bitfinex              1000.0         0.0            0.0            0.0            
+Kraken                1000.0         0.0            0.0            0.0            
+Bitstamp              1000.0         0.0            0.0            0.0            
+theRock               1000.0         0.0            0.0            0.0            
+BitBay                1000.0         0.0            0.0            0.0            
+-----------   -----------   --------    --------    --------    --------    --------    --------    
+Instrument    Exchange        Ask         Bid       Entry Ask   Entry Bid   Exit Ask    Exit Bid    
+-----------   -----------   --------    --------    --------    --------    --------    --------    
+BTC / EUR     Bitfinex      43913.0     43912.0     43914.0     43902.04    43913.0     43912.0     
+BTC / EUR     Kraken        44054.7     44054.6     44054.7     44033.06    44054.7     44054.6     
+BTC / EUR     Bitstamp      44045.67    44016.68    44045.67    44016.68    44045.67    44016.68    
+BTC / EUR     theRock       44133.75    44110.34    44133.75    43903.67    44133.75    44110.34    
+BTC / EUR     BitBay        44242.35    43967.61    44242.35    43967.61    44242.35    43967.61    
+ETH / EUR     Bitfinex      3564.8      3564.1      3565.08     3563.8      3564.8      3564.1      
+ETH / EUR     Kraken        3576.39     3576.38     3576.39     3575.21     3576.39     3576.38     
+ETH / EUR     Bitstamp      3576.41     3573.73     3576.41     3573.72     3576.41     3573.73     
+ETH / EUR     theRock       3578.58     3561.77     3578.59     3561.76     3578.58     3561.77     
+ETH / EUR     BitBay        3588.07     3564.68     3589.2      3564.68     3588.07     3564.68     
+LTC / EUR     Bitfinex      0           0           0           0           0           0           
+LTC / EUR     Kraken        135.98      135.92      135.98      135.88      135.98      135.92      
+LTC / EUR     Bitstamp      136.03      135.83      136.06      135.81      136.03      135.83      
+LTC / EUR     theRock       136.13      135.91      136.25      135.26      136.13      135.91      
+LTC / EUR     BitBay        141.83      135.21      141.84      135.2       141.83      135.21      
+
+-----------------------------------     -------------------------     -------------------------     
+     ------ ARBITRAGE ------            Potential Opportunities          Current Positions          
+-----------------------------------     --------------------------    -------------------------     
+----------    ------      ------      ------    ------    ------    ------    ------    ------
+Instrument     Long        Short      Spread    Target     Max       Spread   Target     Min
+----------    ------      ------      ------    ------    ------    ------    ------    ------
+ETH / EUR     Bitfinex    Kraken      0.28 %    1.92 %    0.31 %       -         -         -   
+BTC / EUR     Bitfinex    Kraken      0.27 %    1.92 %    0.31 %       -         -         -   
+BTC / EUR     Bitstamp    Kraken      -0.03 %   1.92 %    -0.01 %      -         -         -   
+ETH / EUR     Bitstamp    Kraken      -0.03 %   1.92 %    0.01 %       -         -         -   
+ETH / EUR     theRock     Kraken      -0.09 %   1.92 %    0.03 %       -         -         -   
+BTC / EUR     theRock     Kraken      -0.23 %   1.92 %    -0.12 %      -         -         -   
+BTC / EUR     Bitstamp    Bitfinex    -0.33 %   1.8 %     -0.32 %      -         -         -   
+BTC / EUR     Kraken      Bitfinex    -0.35 %   1.92 %    -0.27 %      -         -         -   
+ETH / EUR     Kraken      Bitfinex    -0.35 %   1.92 %    -0.26 %      -         -         -   
+ETH / EUR     Bitstamp    Bitfinex    -0.35 %   1.8 %     -0.33 %      -         -         -   
+ETH / EUR     BitBay      Kraken      -0.39 %   1.92 %    -0.33 %      -         -         -   
+ETH / EUR     theRock     Bitfinex    -0.41 %   1.8 %     -0.26 %      -         -         -   
+BTC / EUR     BitBay      Kraken      -0.47 %   1.92 %    -0.35 %      -         -         -   
+BTC / EUR     theRock     Bitfinex    -0.53 %   1.8 %     -0.38 %      -         -         -   
+ETH / EUR     BitBay      Bitfinex    -0.71 %   1.8 %     -0.64 %      -         -         -   
+BTC / EUR     BitBay      Bitfinex    -0.77 %   1.8 %     -0.61 %      -         -         -   
+
+
+
+Total Profit Since Running: 0 Euro
+
+Time to execute loop is: 0:00:08.249339s
+
+Scanning Markets
+
+2021-12-26 08:47:46.284180
+
+-------------------   ------------   ------------   ------------   ------------   
+Exchange Balances      EUR Balance    BTC Balance    ETH Balance    LTC Balance   
+-------------------   ------------   ------------   ------------   ------------   
+Bitfinex              1000.0         0.0            0.0            0.0            
+Kraken                1000.0         0.0            0.0            0.0            
+Bitstamp              1000.0         0.0            0.0            0.0            
+theRock               1000.0         0.0            0.0            0.0            
+BitBay                1000.0         0.0            0.0            0.0            
+-----------   -----------   --------    --------    --------    --------    --------    --------    
+Instrument    Exchange        Ask         Bid       Entry Ask   Entry Bid   Exit Ask    Exit Bid    
+-----------   -----------   --------    --------    --------    --------    --------    --------    
+BTC / EUR     Bitfinex      43914.0     43912.0     43914.0     43905.53    43914.0     43912.0     
+BTC / EUR     Kraken        44054.7     44054.6     44054.7     44033.97    44054.7     44054.6     
+BTC / EUR     Bitstamp      44052.08    44024.69    44052.08    44024.69    44052.08    44024.69    
+BTC / EUR     theRock       44133.72    44110.34    44133.72    43903.67    44133.72    44110.34    
+BTC / EUR     BitBay        44242.07    43969.44    44242.08    43969.43    44242.07    43969.44    
+ETH / EUR     Bitfinex      3565.2      3564.6      3565.28     3564.5      3565.2      3564.6      
+ETH / EUR     Kraken        3576.39     3576.38     3576.39     3575.21     3576.39     3576.38     
+ETH / EUR     Bitstamp      3576.79     3573.98     3576.79     3573.98     3576.79     3573.98     
+ETH / EUR     theRock       3578.42     3561.77     3578.43     3561.76     3578.42     3561.77     
+ETH / EUR     BitBay        3587.36     3564.68     3589.28     3564.68     3587.36     3564.68     
+LTC / EUR     Bitfinex      0           0           0           0           0           0           
+LTC / EUR     Kraken        136.04      135.98      136.05      135.97      136.04      135.98      
+LTC / EUR     Bitstamp      136.09      135.9       136.11      135.89      136.09      135.9       
+LTC / EUR     theRock       136.13      135.91      136.25      135.26      136.13      135.91      
+LTC / EUR     BitBay        141.83      135.26      141.84      135.2       141.83      135.26      
+
+-----------------------------------     -------------------------     -------------------------     
+     ------ ARBITRAGE ------            Potential Opportunities          Current Positions          
+-----------------------------------     --------------------------    -------------------------     
+----------    ------      ------      ------    ------    ------    ------    ------    ------
+Instrument     Long        Short      Spread    Target     Max       Spread   Target     Min
+----------    ------      ------      ------    ------    ------    ------    ------    ------
+ETH / EUR     Bitfinex    Kraken      0.28 %    1.92 %    0.31 %       -         -         -   
+BTC / EUR     Bitfinex    Kraken      0.27 %    1.92 %    0.31 %       -         -         -   
+BTC / EUR     Bitstamp    Kraken      -0.04 %   1.92 %    -0.01 %      -         -         -   
+ETH / EUR     Bitstamp    Kraken      -0.04 %   1.92 %    0.01 %       -         -         -   
+ETH / EUR     theRock     Kraken      -0.09 %   1.92 %    0.03 %       -         -         -   
+BTC / EUR     theRock     Kraken      -0.23 %   1.92 %    -0.12 %      -         -         -   
+ETH / EUR     Kraken      Bitfinex    -0.33 %   1.92 %    -0.26 %      -         -         -   
+BTC / EUR     Bitstamp    Bitfinex    -0.33 %   1.8 %     -0.32 %      -         -         -   
+BTC / EUR     Kraken      Bitfinex    -0.34 %   1.92 %    -0.27 %      -         -         -   
+ETH / EUR     Bitstamp    Bitfinex    -0.34 %   1.8 %     -0.33 %      -         -         -   
+ETH / EUR     theRock     Bitfinex    -0.39 %   1.8 %     -0.26 %      -         -         -   
+ETH / EUR     BitBay      Kraken      -0.39 %   1.92 %    -0.33 %      -         -         -   
+BTC / EUR     BitBay      Kraken      -0.47 %   1.92 %    -0.35 %      -         -         -   
+BTC / EUR     theRock     Bitfinex    -0.52 %   1.8 %     -0.38 %      -         -         -   
+ETH / EUR     BitBay      Bitfinex    -0.69 %   1.8 %     -0.64 %      -         -         -   
+BTC / EUR     BitBay      Bitfinex    -0.76 %   1.8 %     -0.61 %      -         -         -   
+
+
+
+Total Profit Since Running: 0 Euro
+
+Time to execute loop is: 0:00:10.005265s
+
+Scanning Markets
+
+2021-12-26 08:48:04.292840
+
+-------------------   ------------   ------------   ------------   ------------   
+Exchange Balances      EUR Balance    BTC Balance    ETH Balance    LTC Balance   
+-------------------   ------------   ------------   ------------   ------------   
+Bitfinex              1000.0         0.0            0.0            0.0            
+Kraken                1000.0         0.0            0.0            0.0            
+Bitstamp              1000.0         0.0            0.0            0.0            
+theRock               1000.0         0.0            0.0            0.0            
+BitBay                1000.0         0.0            0.0            0.0            
+-----------   -----------   --------    --------    --------    --------    --------    --------    
+Instrument    Exchange        Ask         Bid       Entry Ask   Entry Bid   Exit Ask    Exit Bid    
+-----------   -----------   --------    --------    --------    --------    --------    --------    
+BTC / EUR     Bitfinex      43905.0     43903.0     43905.0     43898.3     43905.0     43903.0     
+BTC / EUR     Kraken        44054.7     44054.6     44054.7     44037.84    44054.7     44054.6     
+BTC / EUR     Bitstamp      44053.96    44024.21    44053.96    44024.21    44053.96    44024.21    
+BTC / EUR     theRock       44124.44    44110.34    44124.44    43906.16    44124.44    44110.34    
+BTC / EUR     BitBay        44241.81    43971.52    44241.81    43971.52    44241.81    43971.52    
+ETH / EUR     Bitfinex      3565.2      3564.7      3565.2      3564.48     3565.2      3564.7      
+ETH / EUR     Kraken        3576.39     3576.38     3576.39     3575.14     3576.39     3576.38     
+ETH / EUR     Bitstamp      3576.43     3574.3      3576.43     3573.93     3576.43     3574.3      
+ETH / EUR     theRock       3578.31     3561.77     3578.32     3561.76     3578.31     3561.77     
+ETH / EUR     BitBay        3586.52     3564.68     3588.87     3564.68     3586.52     3564.68     
+LTC / EUR     Bitfinex      0           0           0           0           0           0           
+LTC / EUR     Kraken        136.09      136.05      136.1       136.05      136.09      136.05      
+LTC / EUR     Bitstamp      136.1       135.9       136.11      135.9       136.1       135.9       
+LTC / EUR     theRock       136.21      135.91      136.22      135.26      136.21      135.91      
+LTC / EUR     BitBay        141.83      135.2       141.84      135.2       141.83      135.2       
+
+-----------------------------------     -------------------------     -------------------------     
+     ------ ARBITRAGE ------            Potential Opportunities          Current Positions          
+-----------------------------------     --------------------------    -------------------------     
+----------    ------      ------      ------    ------    ------    ------    ------    ------
+Instrument     Long        Short      Spread    Target     Max       Spread   Target     Min
+----------    ------      ------      ------    ------    ------    ------    ------    ------
+BTC / EUR     Bitfinex    Kraken      0.3 %     1.92 %    0.31 %       -         -         -   
+ETH / EUR     Bitfinex    Kraken      0.28 %    1.92 %    0.31 %       -         -         -   
+ETH / EUR     Bitstamp    Kraken      -0.04 %   1.92 %    0.01 %       -         -         -   
+BTC / EUR     Bitstamp    Kraken      -0.04 %   1.92 %    -0.01 %      -         -         -   
+ETH / EUR     theRock     Kraken      -0.09 %   1.92 %    0.03 %       -         -         -   
+BTC / EUR     theRock     Kraken      -0.2 %    1.92 %    -0.12 %      -         -         -   
+ETH / EUR     Kraken      Bitfinex    -0.33 %   1.92 %    -0.26 %      -         -         -   
+ETH / EUR     Bitstamp    Bitfinex    -0.33 %   1.8 %     -0.33 %      -         -         -   
+BTC / EUR     Bitstamp    Bitfinex    -0.35 %   1.8 %     -0.32 %      -         -         -   
+BTC / EUR     Kraken      Bitfinex    -0.36 %   1.92 %    -0.27 %      -         -         -   
+ETH / EUR     BitBay      Kraken      -0.38 %   1.92 %    -0.33 %      -         -         -   
+ETH / EUR     theRock     Bitfinex    -0.39 %   1.8 %     -0.26 %      -         -         -   
+BTC / EUR     BitBay      Kraken      -0.46 %   1.92 %    -0.35 %      -         -         -   
+BTC / EUR     theRock     Bitfinex    -0.51 %   1.8 %     -0.38 %      -         -         -   
+ETH / EUR     BitBay      Bitfinex    -0.68 %   1.8 %     -0.64 %      -         -         -   
+BTC / EUR     BitBay      Bitfinex    -0.78 %   1.8 %     -0.61 %      -         -         -   
+
+
+
+Total Profit Since Running: 0 Euro
+
+Time to execute loop is: 0:00:06.301637s
